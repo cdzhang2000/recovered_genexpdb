@@ -1,0 +1,3 @@
+ACCESSION	EXP COUNT
+GSE3123	7
+Accessions: 1	Experiments: 7

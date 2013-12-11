@@ -1,0 +1,732 @@
+75485979	11168 V1  / 11168 V1 flhA-	GSE708	GSM7859,GSM7860,GSM7861,GSM7862,GSM8563,GSM8564,GSM8565	2			6		0	0	0	0	mbplot				GPL352							
+75485978	11168 V1 / 11168 V26	GSE708	GSM8620,GSM8621,GSM8622,GSM8623	2			6		0	0	0	0	mbplot				GPL352							
+75485830	wild type (strain PY79) / gerE mutant (strain PE454) at 6.5 hour	GSE1620	GSM27217,GSM27219	2			13		0	0	0	0	mbplot				GPL1353							
+75485831	gerE mutant (strain PE454) / wild type (strain PY79) at 6.5 hour	GSE1620	GSM27218	2			13		0	0	0	0	mbplot				GPL1353							
+75485828	wild type (strain PY79) / gerE mutant (PE454 strain) at 5.5 hour	GSE1620	GSM27278,GSM27280	2			13		0	0	0	0	mbplot				GPL1353							
+75485829	gerE mutant (PE454) / wild type (PY79)at 5.5 hour	GSE1620	GSM27279	2			13		0	0	0	0	mbplot				GPL1353							
+75485835	sigmaK mutant (strain PE455) / sigmaK  (strain PE454) at 4.5 hour	GSE1620	GSM27281	2			13		0	0	0	0	mbplot				GPL1353							
+75485834	sigmaK  (PE454) / sigmaK mutant (PE455) at 4.5 hour	GSE1620	GSM27282,GSM27283	2			13		0	0	0	0	mbplot				GPL1353							
+75485836	spoIIID  (strain PE452) / spoIIID mutant (strain PE456)	GSE1620	GSM27285,GSM27288	2			13		0	0	0	0	mbplot				GPL1353							
+75485837	spoIIID mutant (strain PE456) / spoIIID  (strain PE452)	GSE1620	GSM27286	2			13		0	0	0	0	mbplot				GPL1353							
+75485832	gerR  (strain PE454) / gerR mutant (strain SW282) at 3.5 hour	GSE1620	GSM27514,GSM27516	2			13		0	0	0	0	mbplot				GPL1353							
+75485833	gerR  (strain PE454) / gerR mutant (strain SW282) at 3.5 hour	GSE1620	GSM27515	2			13		0	0	0	0	mbplot				GPL1353							
+75534777	V. cholerae recovered from human vomitus / V. cholerae recovered from human stool	GSE2775	GSM45609	2			1		0	0	0	0	mbplot				GPL1922							
+76016219	M9   0.5% lactate   0.6 mM chitohexaose 30 min / M9   0.5% lactate	GSE3101	GSM69289,GSM69292,GSM69326,GSM69329	2			52		0	0	0	0	mbplot				GPL2742							
+76029475	M9   0.5% lactate   0.6 mM chitosan dimer30min  / M9   0.5% lactate	GSE3101	GSM69290,GSM69306,GSM69331,GSM69332	2			52		0	0	0	0	mbplot				GPL2742							
+76032789	M9   0.5% lactate   0.6 mM chitosan dimer 60 min / M9   0.5% lactate	GSE3101	GSM69291,GSM69293,GSM69295,GSM69308	2			52		0	0	0	0	mbplot				GPL2742							
+76019533	M9   0.5% lactate   0.6 mM chitohexaose60min / M9   0.5% lactate	GSE3101	GSM69294,GSM69296,GSM69327,GSM69330	2			52		0	0	0	0	mbplot				GPL2742							
+76039417	M9   lactate   0.6 mM chitotetraose 60 min / M9   0.5% lactate	GSE3101	GSM69297,GSM69300,GSM69322,GSM69324	2			52		0	0	0	0	mbplot				GPL2742							
+76009591	M9   0.5% lactate   0.6 mM chitobiose 30min / M9   0.5% lactate	GSE3101	GSM69298,GSM69305,GSM69307,GSM69328	2			52		0	0	0	0	mbplot				GPL2742							
+76036103	M9   lactate   0.6 mM chitotetraose 30 min / M9   0.5% lactate	GSE3101	GSM69299,GSM69321,GSM69335,GSM69338	2			52		0	0	0	0	mbplot				GPL2742							
+76026161	M9   0.5% lactate   0.6 mM chitopentaose 60 min / M9   0.5% lactate;M9   0.5 % lactate	GSE3101	GSM69301,GSM69302,GSM69303,GSM69304	2			52		0	0	0	0	mbplot				GPL2742							
+76042731	M9   0.5% lactate   0.6mM chitotriose 30 min / M9   0.5% lactate	GSE3101	GSM69309,GSM69316,GSM69340,GSM69343	2			52		0	0	0	0	mbplot				GPL2742							
+76012905	M9   0.5% lactate   0.6 mM chitobiose 60 min / M9   0.5% lactate	GSE3101	GSM69310,GSM69312,GSM69336,GSM69337	2			52		0	0	0	0	mbplot				GPL2742							
+76046045	M9   0.5% lactate   0.6 mM chitotriose 60 min / M9   0.5% lactate	GSE3101	GSM69311,GSM69314,GSM69317,GSM69319	2			52		0	0	0	0	mbplot				GPL2742							
+76049359	M9   0.5% lactate   0.6 mM GlcNAc 30 min / M9   0.5% lactate	GSE3101	GSM69313,GSM69318,GSM69323,GSM69325	2			52		0	0	0	0	mbplot				GPL2742							
+76052673	M9   0.5% lactate   0.6 mM GlcNAc 60 min / M9   0.5% lactate	GSE3101	GSM69315,GSM69320,GSM69342,GSM69344	2			52		0	0	0	0	mbplot				GPL2742							
+76022847	M9   0.5% lactate   0.6 mM chitopentaose 30 min / M9   0.5% lactate	GSE3101	GSM69333,GSM69334,GSM69339,GSM69341	2			52		0	0	0	0	mbplot				GPL2742							
+75541924	Crab attached bacteria/ planktonic bacteria	GSE3102	GSM69345,GSM69346,GSM69347,GSM69348,GSM69349,GSM69350,GSM69351,GSM69352,GSM69353,GSM69354	2			52		0	0	0	0	mbplot				GPL2742							
+77971949	VCXB21pDel: M9   0.5% lactate   0.6 mM chitobiose / VCXB21: M9   0.5% lactate   0.6 mM chitobiose	GSE3103	GSM69355,GSM69356,GSM69357,GSM69358	2			52		0	0	0	0	mbplot				GPL2742							
+76055987	O1 Inaba cDNA / 1.0 ug Nadia exponential cDNA	GSE3104	GSM69361,GSM69362,GSM69363,GSM69365,GSM69367,GSM69369,GSM69370,GSM69371,GSM69372,GSM69374,GSM69375,GSM69376	2			52		0	0	0	0	mbplot				GPL2742							
+76059301	2.0 ug O1 Inaba stationary cDNA / 2.0 ug Nadia exponential cDNA	GSE3104	GSM69364,GSM69366,GSM69368,GSM69373	2			52		0	0	0	0	mbplot				GPL2742							
+75485957	1223c mt   pRY108 6hr;2ug RNA / RNA pool of all tp, three strains;2ug RNA	GSE3198	GSM71893	2			52		0	0	0	0	mbplot				GPL2782							
+75485977	1223c mutant 6 hours/1223c overexpress 6 hours	GSE3198	GSM71893/GSM71897	1			8		1	1	0	0	maplot				GPL2782							
+75485954	1223c mt   pRY108 10hr;2ug RNA / RNA pool of all tp, three strains;2ug RNA	GSE3198	GSM71894	2			52		0	0	0	0	mbplot				GPL2782							
+75485964	1223c mutant 10 hours/1223c mutant 6 hours	GSE3198	GSM71894/GSM71893	1			8		1	1	0	0	maplot				GPL2782							
+75485963	1223c mutant 10 hours/1223c mutant 24hours	GSE3198	GSM71894/GSM71895	1			8		1	1	0	0	maplot				GPL2782							
+75485974	1223c mutant 10 hours/1223c overexpress 10 hours	GSE3198	GSM71894/GSM71899	1			8		1	1	0	0	maplot				GPL2782							
+75485962	1223c mutant 10 hour/1223c mutant 2 hour	GSE3198	GSM71894/GSM71900	1			8		1	1	0	0	maplot				GPL2782							
+75485956	1223c mt  pRY108 24hr;2ug RNA / RNA pool of all tp, three strains;2ug RNA	GSE3198	GSM71895	2			52		0	0	0	0	mbplot				GPL2782							
+75485967	1223c mutant 24 hours/1223c mutant 6 hours	GSE3198	GSM71895/GSM71893	1			8		1	1	0	0	maplot				GPL2782							
+75485976	1223c mutant 24 hours/1223c overexpress 24 hours	GSE3198	GSM71895/GSM71898	1			8		1	1	0	0	maplot				GPL2782							
+75485959	1223c mt   1223c OE 2hr;2ug RNA / RNA pool of all tp, three strains;2ug RNA	GSE3198	GSM71896	2			52		0	0	0	0	mbplot				GPL2782							
+75485972	1223coverexpress 2 hours/1223c overexpress 6 hours	GSE3198	GSM71896/GSM71897	1			8		1	1	0	0	maplot				GPL2782							
+75485971	1223coverexpress 2 hours/1223c overexpress 24 hours	GSE3198	GSM71896/GSM71898	1			8		1	1	0	0	maplot				GPL2782							
+75485961	1223c mt   1223c OE 6hr;2ug RNA / RNA pool of all tp, three strains;2ug RNA	GSE3198	GSM71897	2			52		0	0	0	0	mbplot				GPL2782							
+75485960	1223c mt   1223c OE 24hr;2ug RNA / RNA pool of all tp, three strains;2ug RNA	GSE3198	GSM71898	2			52		0	0	0	0	mbplot				GPL2782							
+75485973	1223coverexpress 24 hours/1223c overexpress 6 hours	GSE3198	GSM71898/GSM71897	1			8		1	1	0	0	maplot				GPL2782							
+75485958	1223c mt   1223c OE 10hr;2ug RNA / RNA pool of all tp, three strains;2ug RNA	GSE3198	GSM71899	2			52		0	0	0	0	mbplot				GPL2782							
+75485968	1223coverexpress 10 hours/1223c overexpress 2 hours	GSE3198	GSM71899/GSM71896	1			8		1	1	0	0	maplot				GPL2782							
+75485970	1223coverexpress 10 hours/1223c overexpress 6 hours	GSE3198	GSM71899/GSM71897	1			8		1	1	0	0	maplot				GPL2782							
+75485969	1223coverexpress 10 hours/1223c overexpress 24 hours	GSE3198	GSM71899/GSM71898	1			8		1	1	0	0	maplot				GPL2782							
+75485955	1223c mt   pRY108 2hr;2ug RNA / RNA pool of all tp, three strains;2ug RNA	GSE3198	GSM71900	2			52		0	0	0	0	mbplot				GPL2782							
+75485966	1223c mutant 2 hours/1223c mutant 6 hours	GSE3198	GSM71900/GSM71893	1			8		1	1	0	0	maplot				GPL2782							
+75485965	1223c mutant 2 hours/1223c mutant 24hours	GSE3198	GSM71900/GSM71895	1			8		1	1	0	0	maplot				GPL2782							
+75485975	1223c mutant 2 hours/1223c overexpress 2 hours	GSE3198	GSM71900/GSM71896	1			8		1	1	0	0	maplot				GPL2782							
+75486035	2ug RNA from spoT 24h micro / 2ug RNA from sample pool	GSE3209	GSM72095	2			52		0	0	0	0	mbplot				GPL2791							
+75486047	spoT 24h/ spoT 2h	GSE3209	GSM72095/GSM72097	1			8		1	1	0	0	maplot				GPL2791							
+75486049	spoT 24h/spoT 6h	GSE3209	GSM72095/GSM72101	1			8		1	1	0	0	maplot				GPL2791							
+75486050	spoT 24 hour/SSA 24h	GSE3209	GSM72095/GSM72103	1			8		1	1	0	0	maplot				GPL2791							
+75486048	spoT 24h/ spoT30min	GSE3209	GSM72095/GSM72105	1			8		1	1	0	0	maplot				GPL2791							
+75486051	spoT 24 hour/WT 24h	GSE3209	GSM72095/GSM72106	1			8		1	1	0	0	maplot				GPL2791							
+75486044	2ug RNA from WT 2h micro / 2ug RNA from sample pool	GSE3209	GSM72096	2			52		0	0	0	0	mbplot				GPL2791							
+75486075	WT 2h  micro/ WT 6h micro	GSE3209	GSM72096/GSM72099	1			8		1	1	0	0	maplot				GPL2791							
+75486074	WT 2h  micro/ WT 30min micro	GSE3209	GSM72096/GSM72104	1			8		1	1	0	0	maplot				GPL2791							
+75486036	2ug RNA from spoT 2h micro / 2ug RNA from sample pool	GSE3209	GSM72097	2			52		0	0	0	0	mbplot				GPL2791							
+75486055	spoT 2h micro/WT 2h micro	GSE3209	GSM72097/GSM72096	1			8		1	1	0	0	maplot				GPL2791							
+75486054	spoT 2h micro/SSA 2h micro	GSE3209	GSM72097/GSM72100	1			8		1	1	0	0	maplot				GPL2791							
+75486053	spoT 2h micro/spoT 6h micro	GSE3209	GSM72097/GSM72101	1			8		1	1	0	0	maplot				GPL2791							
+75486052	spoT 2h micro/spoT30min micro	GSE3209	GSM72097/GSM72105	1			8		1	1	0	0	maplot				GPL2791							
+75486041	SSA 30 min micro/pool	GSE3209	GSM72098	2			52		0	0	0	0	mbplot				GPL2791							
+75486068	SSA 30min micro/ SSA 6h micro	GSE3209	GSM72098/GSM72102	1			8		1	1	0	0	maplot				GPL2791							
+75486069	SSA 30min micro/ WT 30min micro	GSE3209	GSM72098/GSM72104	1			8		1	1	0	0	maplot				GPL2791							
+75486046	2ug RNA from WT 6h micro / 2ug RNA from sample pool	GSE3209	GSM72099	2			52		0	0	0	0	mbplot				GPL2791							
+75486040	SSA 2hour micro/ pool	GSE3209	GSM72100	2			52		0	0	0	0	mbplot				GPL2791							
+75486067	SSA 2h micro/ WT 2h micro	GSE3209	GSM72100/GSM72096	1			8		1	1	0	0	maplot				GPL2791							
+75486065	SSA 2h micro/ SSA 30min micro	GSE3209	GSM72100/GSM72098	1			8		1	1	0	0	maplot				GPL2791							
+75486066	SSA 2h micro/ SSA 6h micro	GSE3209	GSM72100/GSM72102	1			8		1	1	0	0	maplot				GPL2791							
+75486038	2ug RNA from spoT 6h micro / 2ug RNA from sample pool	GSE3209	GSM72101	2			52		0	0	0	0	mbplot				GPL2791							
+75486060	spoT 6h micro/WT 6h micro	GSE3209	GSM72101/GSM72099	1			8		1	1	0	0	maplot				GPL2791							
+75486059	spoT 6h micro/SSA 6h micro	GSE3209	GSM72101/GSM72102	1			8		1	1	0	0	maplot				GPL2791							
+75486042	SSA 6 hour micro/ pool	GSE3209	GSM72102	2			52		0	0	0	0	mbplot				GPL2791							
+75486070	SSA 6h micro/ WT 6h micro	GSE3209	GSM72102/GSM72099	1			8		1	1	0	0	maplot				GPL2791							
+75486039	SSA 24h  micro/ pool	GSE3209	GSM72103	2			52		0	0	0	0	mbplot				GPL2791							
+75486062	SSA 24h micro/ SSA 30min micro	GSE3209	GSM72103/GSM72098	1			8		1	1	0	0	maplot				GPL2791							
+75486061	SSA 24h micro/ SSA 2h micro	GSE3209	GSM72103/GSM72100	1			8		1	1	0	0	maplot				GPL2791							
+75486063	SSA 24h micro/ SSA 6h micro	GSE3209	GSM72103/GSM72102	1			8		1	1	0	0	maplot				GPL2791							
+75486064	SSA 24h micro/ SSA 24h micro	GSE3209	GSM72103/GSM72106	1			8		1	1	0	0	maplot				GPL2791							
+75486045	2ug RNA from WT 30' micro / 2ug RNA from sample pool	GSE3209	GSM72104	2			52		0	0	0	0	mbplot				GPL2791							
+75486076	WT 30min  micro/ WT 6h micro	GSE3209	GSM72104/GSM72099	1			8		1	1	0	0	maplot				GPL2791							
+75486037	2ug RNA from spoT 30' micro / 2ug RNA from sample pool	GSE3209	GSM72105	2			52		0	0	0	0	mbplot				GPL2791							
+75486057	spoT 30min micro/SSA 30min micro	GSE3209	GSM72105/GSM72098	1			8		1	1	0	0	maplot				GPL2791							
+75486056	spoT 30min micro/spoT 6h micro	GSE3209	GSM72105/GSM72101	1			8		1	1	0	0	maplot				GPL2791							
+75486058	spoT 30min micro/WT 30min micro	GSE3209	GSM72105/GSM72104	1			8		1	1	0	0	maplot				GPL2791							
+75486043	2ug RNA from WT 24h micro / 2ug RNA from sample pool	GSE3209	GSM72106	2			52		0	0	0	0	mbplot				GPL2791							
+75486071	WT 24h  micro/ WT 2h micro	GSE3209	GSM72106/GSM72096	1			8		1	1	0	0	maplot				GPL2791							
+75486073	WT 24h  micro/ WT 6h micro	GSE3209	GSM72106/GSM72099	1			8		1	1	0	0	maplot				GPL2791							
+75486072	WT 24h  micro/ WT 30min micro	GSE3209	GSM72106/GSM72104	1			8		1	1	0	0	maplot				GPL2791							
+75538610	hapR  mutant  induced  / wt induced	GSE3576	GSM82276,GSM82277,GSM82278,GSM82279	2			52		0	0	0	0	mbplot				GPL2742							
+77968165	A1552tfoX-pBAD-tfoX / A1552tfoX-pBAD	GSE3577	GSM82280,GSM82281,GSM82282,GSM82283	2			52		0	0	0	0	mbplot				GPL3052							
+75486132	Ft LVS iron-replete / Ft LVS iron-restricted	GSE3622	GSM83838,GSM83880,GSM83881,GSM83882,GSM83883,GSM83884,GSM83885	2			1		0	0	0	0	mbplot				GPL3078							
+75486195	1ug Motility_broth T 36 / 1ug Motility_broth T 0	GSE3636	GSM84339	2			52		0	0	0	0	mbplot				GPL15							
+75486196	1ug Motility_broth T 6 / 1ug Motility_broth T 0	GSE3636	GSM84340	2			52		0	0	0	0	mbplot				GPL15							
+75486191	1ug Motility_broth T 12 / 1ug Motility_broth T 0	GSE3636	GSM84341	2			52		0	0	0	0	mbplot				GPL15							
+75486213	Time course 6 RNA / Original SS1 RNA	GSE3636	GSM84342	2			52		0	0	0	0	mbplot				GPL15							
+75486192	1ug Motility_broth T18 / 1ug Motility_broth T0	GSE3636	GSM84343	2			52		0	0	0	0	mbplot				GPL15							
+75486206	T12 RNA / Original SS1 RNA	GSE3636	GSM84344	2			52		0	0	0	0	mbplot				GPL15							
+75486193	1ug Motility_broth T 24 / 1ug Motility_broth T 0	GSE3636	GSM84345	2			52		0	0	0	0	mbplot				GPL15							
+75486194	1 ug Motility_broth T 30 / 1ug Motility_broth T 0	GSE3636	GSM84346	2			52		0	0	0	0	mbplot				GPL15							
+75486207	Time course 2 18 RNA / Original SS1 RNA	GSE3636	GSM84347	2			52		0	0	0	0	mbplot				GPL15							
+75486208	Time course22 RNA / Original SS1 RNA	GSE3636	GSM84348	2			52		0	0	0	0	mbplot				GPL15							
+75486209	Time course28 RNA / Original SS1 RNA	GSE3636	GSM84349	2			52		0	0	0	0	mbplot				GPL15							
+75486210	Time course35 RNA / Original SS1 RNA	GSE3636	GSM84350	2			52		0	0	0	0	mbplot				GPL15							
+75486205	T6 RNA / Original SS1 RNA	GSE3636	GSM84351	2			52		0	0	0	0	mbplot				GPL15							
+75486211	Time course42 RNA / Original SS1 RNA	GSE3636	GSM84352	2			52		0	0	0	0	mbplot				GPL15							
+75486197	T12 RNA / Original SS1 RNA	GSE3636	GSM84353	2			52		0	0	0	0	mbplot				GPL15							
+75486198	T18 RNA / Original SS1 RNA	GSE3636	GSM84354	2			52		0	0	0	0	mbplot				GPL15							
+75486204	T60 RNA / Original SS1 RNA	GSE3636	GSM84355	2			52		0	0	0	0	mbplot				GPL15							
+75486199	T24 RNA / Original SS1 RNA	GSE3636	GSM84356	2			52		0	0	0	0	mbplot				GPL15							
+75486200	T30 RNA / Original SS1 RNA	GSE3636	GSM84357	2			52		0	0	0	0	mbplot				GPL15							
+75486201	T36 RNA / Original SS1 RNA	GSE3636	GSM84358	2			52		0	0	0	0	mbplot				GPL15							
+75486202	T42 RNA / Original SS1 RNA	GSE3636	GSM84359	2			52		0	0	0	0	mbplot				GPL15							
+75486203	T48 RNA / Original SS1 RNA	GSE3636	GSM84360	2			52		0	0	0	0	mbplot				GPL15							
+75486212	Time course50 RNA / Original SS1 RNA	GSE3636	GSM84361	2			52		0	0	0	0	mbplot				GPL15							
+75485982	1.5 ug original 11168 RNA from 10hr micro / 1.5 ug RNA pool from each sample	GSE3953	GSM90235	2			52		0	0	0	0	mbplot				GPL2791							
+75486006	10h-orig-micro/26h-orig-micro	GSE3953	GSM90235/GSM90237	1			8		1	1	0	0	maplot				GPL2791							
+75486007	10h-orig-micro/2h-orig-micro	GSE3953	GSM90235/GSM90247	1			8		1	1	0	0	maplot				GPL2791							
+75486008	10h-orig-micro/6h-orig-micro	GSE3953	GSM90235/GSM90249	1			8		1	1	0	0	maplot				GPL2791							
+75485994	1.5 ug sequenced 11168 RNA from 6hr anaero / 1.5 ug RNA pool from each sample	GSE3953	GSM90236	2			52		0	0	0	0	mbplot				GPL2791							
+75486034	6h-seq-anaero/6h-seq-micro	GSE3953	GSM90236/GSM90242	1			8		1	1	0	0	maplot				GPL2791							
+75485985	1.5 ug original 11168 RNA from 26hr micro / 1.5 ug RNA pool from each sample	GSE3953	GSM90237	2			52		0	0	0	0	mbplot				GPL2791							
+75486016	26h-orig-micro/26h-seq-micro	GSE3953	GSM90237/GSM90245	1			8		1	1	0	0	maplot				GPL2791							
+75486017	26h-orig-micro/2h-orig-micro	GSE3953	GSM90237/GSM90247	1			8		1	1	0	0	maplot				GPL2791							
+75486018	26h-orig-micro/6h-orig-micro	GSE3953	GSM90237/GSM90249	1			8		1	1	0	0	maplot				GPL2791							
+75485984	1.5 ug original 11168 RNA from 26hr anaero / 1.5 ug RNA pool from each sample	GSE3953	GSM90238	2			52		0	0	0	0	mbplot				GPL2791							
+75486012	26h-orig-anaero/26h-orig-micro	GSE3953	GSM90238/GSM90237	1			8		1	1	0	0	maplot				GPL2791							
+75486014	26h-orig-anaero/2h-orig-anaero	GSE3953	GSM90238/GSM90239	1			8		1	1	0	0	maplot				GPL2791							
+75486013	26h-orig-anaero/26h-seq-anaero	GSE3953	GSM90238/GSM90243	1			8		1	1	0	0	maplot				GPL2791							
+75486015	26h-orig-anaero/6h-orig-anaero	GSE3953	GSM90238/GSM90250	1			8		1	1	0	0	maplot				GPL2791							
+75485988	1.5 ug original 11168 RNA from 2hr anaero / 1.5 ug RNA pool from each sample	GSE3953	GSM90239	2			52		0	0	0	0	mbplot				GPL2791							
+75486024	2h-orig-anaero/2h-seq-anaero	GSE3953	GSM90239/GSM90240	1			8		1	1	0	0	maplot				GPL2791							
+75486023	2h-orig-anaero/2h-orig-micro	GSE3953	GSM90239/GSM90247	1			8		1	1	0	0	maplot				GPL2791							
+75486025	2h-orig-anaero/6h-orig-anaero	GSE3953	GSM90239/GSM90250	1			8		1	1	0	0	maplot				GPL2791							
+75485990	1.5 ug sequenced 11168 RNA from 2hr anaero / 1.5 ug RNA pool from each sample	GSE3953	GSM90240	2			52		0	0	0	0	mbplot				GPL2791							
+75486029	2h-seq-anaero/6h-seq-anaero	GSE3953	GSM90240/GSM90236	1			8		1	1	0	0	maplot				GPL2791							
+75486028	2h-seq-anaero/2h-seq-micro	GSE3953	GSM90240/GSM90241	1			8		1	1	0	0	maplot				GPL2791							
+75485991	1.5 ug sequenced 11168 RNA from 2hr micro / 1.5 ug RNA pool from each sample	GSE3953	GSM90241	2			52		0	0	0	0	mbplot				GPL2791							
+75486030	2h-seq-micro/6h-seq-micro	GSE3953	GSM90241/GSM90242	1			8		1	1	0	0	maplot				GPL2791							
+75485995	1.5 ug sequenced 11168 RNA from 6hr micro / 1.5 ug RNA pool from each sample	GSE3953	GSM90242	2			52		0	0	0	0	mbplot				GPL2791							
+75485986	1.5 ug sequenced 11168 RNA from 26hr anaero / 1.5 ug RNA pool from each sample	GSE3953	GSM90243	2			52		0	0	0	0	mbplot				GPL2791							
+75486020	26h-seq-anaero/6h-seq-anaero	GSE3953	GSM90243/GSM90236	1			8		1	1	0	0	maplot				GPL2791							
+75486019	26h-seq-anaero/2h-seq-anaero	GSE3953	GSM90243/GSM90240	1			8		1	1	0	0	maplot				GPL2791							
+75485980	1.5 ug sequenced 11168 RNA from 10hr micro / 1.5 ug RNA pool from each sample	GSE3953	GSM90244	2			52		0	0	0	0	mbplot				GPL2791							
+75485996	10-seq-micro/10-orig-micro	GSE3953	GSM90244/GSM90235	1			8		1	1	0	0	maplot				GPL2791							
+75485999	10h-seq-micro/2h-seq-micro	GSE3953	GSM90244/GSM90241	1			8		1	1	0	0	maplot				GPL2791							
+75486000	10h-seq-micro/6h-seq-micro	GSE3953	GSM90244/GSM90242	1			8		1	1	0	0	maplot				GPL2791							
+75485998	10h-seq-micro/26h-seq-micro	GSE3953	GSM90244/GSM90245	1			8		1	1	0	0	maplot				GPL2791							
+75485997	10-seq-micro/10-seq-anaero	GSE3953	GSM90244/GSM90248	1			8		1	1	0	0	maplot				GPL2791							
+75485987	1.5 ug sequenced 11168 RNA from 26hr micro / 1.5 ug RNA pool from each sample	GSE3953	GSM90245	2			52		0	0	0	0	mbplot				GPL2791							
+75486021	26h-seq-micro/2h-seq-micro	GSE3953	GSM90245/GSM90241	1			8		1	1	0	0	maplot				GPL2791							
+75486022	26h-seq-micro/6h-seq-micro	GSE3953	GSM90245/GSM90242	1			8		1	1	0	0	maplot				GPL2791							
+75485981	1.5 ug original 11168 RNA from 10hr anaero / 1.5 ug RNA pool from each sample	GSE3953	GSM90246	2			52		0	0	0	0	mbplot				GPL2791							
+75486001	10h-orig-anaero/10h-orig-micro	GSE3953	GSM90246/GSM90235	1			8		1	1	0	0	maplot				GPL2791							
+75486003	10h-orig-anaero/26h-orig-anaero	GSE3953	GSM90246/GSM90238	1			8		1	1	0	0	maplot				GPL2791							
+75486004	10h-orig-anaero/2h-orig-anaero	GSE3953	GSM90246/GSM90239	1			8		1	1	0	0	maplot				GPL2791							
+75486002	10h-orig-anaero/10h-seq-anaero	GSE3953	GSM90246/GSM90248	1			8		1	1	0	0	maplot				GPL2791							
+75486005	10h-orig-anaero/6h-orig-anaero	GSE3953	GSM90246/GSM90250	1			8		1	1	0	0	maplot				GPL2791							
+75485989	1.5 ug original 11168 RNA from 2hr micro / 1.5 ug RNA pool from each sample	GSE3953	GSM90247	2			52		0	0	0	0	mbplot				GPL2791							
+75486026	2h-orig-micro/2h-seq-micro	GSE3953	GSM90247/GSM90241	1			8		1	1	0	0	maplot				GPL2791							
+75486027	2h-orig-micro/6h-orig-micro	GSE3953	GSM90247/GSM90249	1			8		1	1	0	0	maplot				GPL2791							
+75485983	1.5 ug sequenced 11168 RNA from 10hr anaero / 1.5 ug RNA pool from each sample	GSE3953	GSM90248	2			52		0	0	0	0	mbplot				GPL2791							
+75486011	10h-seq-anaero/6h-seq-anaero	GSE3953	GSM90248/GSM90236	1			8		1	1	0	0	maplot				GPL2791							
+75486010	10h-seq-anaero/2h-seq-anaero	GSE3953	GSM90248/GSM90240	1			8		1	1	0	0	maplot				GPL2791							
+75486009	10h-seq-anaero/26h-seq-anaero	GSE3953	GSM90248/GSM90243	1			8		1	1	0	0	maplot				GPL2791							
+75485993	1.5 ug original 11168 RNA from 6hr micro / 1.5 ug RNA pool from each sample	GSE3953	GSM90249	2			52		0	0	0	0	mbplot				GPL2791							
+75486033	6h-orig-micro/6h-seq-micro	GSE3953	GSM90249/GSM90242	1			8		1	1	0	0	maplot				GPL2791							
+75485992	1.5 ug original 11168 RNA from 6hr anaero / 1.5 ug RNA pool from each sample	GSE3953	GSM90250	2			52		0	0	0	0	mbplot				GPL2791							
+75486032	6h-orig-anaero/6h-seq-anaero	GSE3953	GSM90250/GSM90236	1			8		1	1	0	0	maplot				GPL2791							
+75486031	6h-orig-anaero/6h-orig-micro	GSE3953	GSM90250/GSM90249	1			8		1	1	0	0	maplot				GPL2791							
+75486214	ArsSdelta pH5.0, 60 min /  WT, pH5.0,	GSE4293	GSM98072,GSM98073,GSM98074,GSM98075	2			9		0	0	0	0	mbplot				GPL3476							
+75966066	mid log M9   0.5% lactate aerobic ( 2 ug RNA) / mid log LB 2 ug RNA aerobic	GSE4875	GSM109602,GSM109603,GSM109604,GSM109605	2			52		0	0	0	0	mbplot				GPL2742							
+75946182	mid log M9   0.5% maltose aerobic ( 2 ug RNA) / mid log LB 2 ug RNA aerobic	GSE4876	GSM109606,GSM109607,GSM109608,GSM109609	2			52		0	0	0	0	mbplot				GPL2742							
+75485742	1 hour / Reference	GSE5495	GSM126531	2			1		0	0	0	0	mbplot				GPL4078							
+75485721	1.5 hour / Reference	GSE5495	GSM126532	2			1		0	0	0	0	mbplot				GPL4078							
+75485753	2 hour / Reference	GSE5495	GSM126533	2			1		0	0	0	0	mbplot				GPL4078							
+75485743	2.5 hour / Reference	GSE5495	GSM126534	2			1		0	0	0	0	mbplot				GPL4078							
+75485755	3 hour / Reference	GSE5495	GSM126535	2			1		0	0	0	0	mbplot				GPL4078							
+75485754	3.5 hour / Reference	GSE5495	GSM126536	2			1		0	0	0	0	mbplot				GPL4078							
+75485757	4 hour / Reference	GSE5495	GSM126537	2			1		0	0	0	0	mbplot				GPL4078							
+75485756	4.5 hour / Reference	GSE5495	GSM126538	2			1		0	0	0	0	mbplot				GPL4078							
+75485759	5 hour / Reference	GSE5495	GSM126539	2			1		0	0	0	0	mbplot				GPL4078							
+75485758	5.5 hour / Reference	GSE5495	GSM126540	2			1		0	0	0	0	mbplot				GPL4078							
+75485761	6 hour / Reference	GSE5495	GSM126541	2			1		0	0	0	0	mbplot				GPL4078							
+75485760	6.5 hour / Reference	GSE5495	GSM126542	2			1		0	0	0	0	mbplot				GPL4078							
+75485763	7 hour / Reference	GSE5495	GSM126543	2			1		0	0	0	0	mbplot				GPL4078							
+75485762	7.5 hour / Reference	GSE5495	GSM126544	2			1		0	0	0	0	mbplot				GPL4078							
+75485765	8 hour / Reference	GSE5495	GSM126545	2			1		0	0	0	0	mbplot				GPL4078							
+75485764	8.5 hour / Reference	GSE5495	GSM126546	2			1		0	0	0	0	mbplot				GPL4078							
+75485767	9 hour / Reference	GSE5495	GSM126547	2			1		0	0	0	0	mbplot				GPL4078							
+75485766	9.5 hour / Reference	GSE5495	GSM126548	2			1		0	0	0	0	mbplot				GPL4078							
+75485723	10 hour / Reference	GSE5495	GSM126549	2			1		0	0	0	0	mbplot				GPL4078							
+75485722	10.5 hour / Reference	GSE5495	GSM126550	2			1		0	0	0	0	mbplot				GPL4078							
+75485725	11 hour / Reference	GSE5495	GSM126551	2			1		0	0	0	0	mbplot				GPL4078							
+75485724	11.5 hour / Reference	GSE5495	GSM126552	2			1		0	0	0	0	mbplot				GPL4078							
+75485727	12 hour / Reference	GSE5495	GSM126553	2			1		0	0	0	0	mbplot				GPL4078							
+75485726	12.5 hour / Reference	GSE5495	GSM126554	2			1		0	0	0	0	mbplot				GPL4078							
+75485729	13 hour / Reference	GSE5495	GSM126555	2			1		0	0	0	0	mbplot				GPL4078							
+75485728	13.5 hour / Reference	GSE5495	GSM126556	2			1		0	0	0	0	mbplot				GPL4078							
+75485731	14 hour / Reference	GSE5495	GSM126557	2			1		0	0	0	0	mbplot				GPL4078							
+75485730	14.5 hour / Reference	GSE5495	GSM126558	2			1		0	0	0	0	mbplot				GPL4078							
+75485733	15 hour / Reference	GSE5495	GSM126559	2			1		0	0	0	0	mbplot				GPL4078							
+75485732	15.5 hour / Reference	GSE5495	GSM126560	2			1		0	0	0	0	mbplot				GPL4078							
+75485735	16 hour / Reference	GSE5495	GSM126561	2			1		0	0	0	0	mbplot				GPL4078							
+75485734	16.5 hour / Reference	GSE5495	GSM126562	2			1		0	0	0	0	mbplot				GPL4078							
+75485737	17 hour / Reference	GSE5495	GSM126563	2			1		0	0	0	0	mbplot				GPL4078							
+75485736	17.5 hour / Reference	GSE5495	GSM126564	2			1		0	0	0	0	mbplot				GPL4078							
+75485739	18 hour / Reference	GSE5495	GSM126565	2			1		0	0	0	0	mbplot				GPL4078							
+75485738	18.5 hour / Reference	GSE5495	GSM126566	2			1		0	0	0	0	mbplot				GPL4078							
+75485741	19 hour / Reference	GSE5495	GSM126567	2			1		0	0	0	0	mbplot				GPL4078							
+75485740	19.5 hour / Reference	GSE5495	GSM126568	2			1		0	0	0	0	mbplot				GPL4078							
+75485745	20 hour / Reference	GSE5495	GSM126569	2			1		0	0	0	0	mbplot				GPL4078							
+75485744	20.5 hour / Reference	GSE5495	GSM126570	2			1		0	0	0	0	mbplot				GPL4078							
+75485747	21 hour / Reference	GSE5495	GSM126571	2			1		0	0	0	0	mbplot				GPL4078							
+75485746	21.5 hour / Reference	GSE5495	GSM126572	2			1		0	0	0	0	mbplot				GPL4078							
+75485749	22 hour / Reference	GSE5495	GSM126573	2			1		0	0	0	0	mbplot				GPL4078							
+75485748	22.5 hour / Reference	GSE5495	GSM126574	2			1		0	0	0	0	mbplot				GPL4078							
+75485751	23 hour / Reference	GSE5495	GSM126575	2			1		0	0	0	0	mbplot				GPL4078							
+75485750	23.5 hour / Reference	GSE5495	GSM126576	2			1		0	0	0	0	mbplot				GPL4078							
+75485752	24 hour / Reference	GSE5495	GSM126577	2			1		0	0	0	0	mbplot				GPL4078							
+75485671	Wild Type BHI 42degrees / deltaSigB BHI 42degrees	GSE6005	GSM139361,GSM139367	2			1		0	0	0	0	mbplot				GPL4406							
+75485672	Wild-type BHI 30degrees / Wild type BHI 42degrees	GSE6005	GSM139362	2			1		0	0	0	0	mbplot				GPL4406							
+75485673	Wild-type BHI 42degrees / Wild-type BHI 30degrees	GSE6005	GSM139363	2			1		0	0	0	0	mbplot				GPL4406							
+75485674	DeltaRsbY, BHI, 42 degrees / Wild-type, BHI, 42degrees	GSE6005	GSM139364	2			1		0	0	0	0	mbplot				GPL4406							
+75485675	Wild-type, BHI, 42degrees / DeltaRsbY, BHI, 42 degrees	GSE6005	GSM139365	2			1		0	0	0	0	mbplot				GPL4406							
+75485676	DeltaSigB, BHI, 42 degrees / Wild type, BHI, 42 degrees	GSE6005	GSM139366	2			1		0	0	0	0	mbplot				GPL4406							
+75942398	rpoH 37?C/ wild-type 37?C	GSE6097	GSM105444,GSM105445,GSM105446,GSM105447,GSM105448,GSM105449	2			1		0	0	0	0	mbplot				GPL3651							
+75545238	wt RNA (from vibrio in ileal loop fluid) 12h rabbit / wt mid log reference RNA	GSE6217	GSM143457,GSM143459,GSM143462,GSM143464	2			52		0	0	0	0	mbplot				GPL2742							
+75548552	wt RNA (from vibrio in ileal loop fluid) 12h rabbit / wt mid log in LB RNA (2 ug)	GSE6217	GSM143458,GSM143460,GSM143461,GSM143463	2			52		0	0	0	0	mbplot				GPL2742							
+75952810	RpoS 11hr 2 / A1552 11hr 3	GSE6218	GSM143465,GSM143466,GSM143467,GSM143468	2			52		0	0	0	0	mbplot				GPL2742							
+75949496	HapR 11hr 1 / A1552 11hr 3	GSE6218	GSM143469,GSM143471,GSM143473	2			52		0	0	0	0	mbplot				GPL2742							
+75956124	rpoS mutant 11h in LB 37C ( 2 ugRNA) / wt 11h  in LB 37 C ( 2 ug RNA)	GSE6218	GSM143470,GSM143472,GSM143476,GSM143481,GSM143483	2			52		0	0	0	0	mbplot				GPL2742							
+75959438	wt 11h in LB 37C ( 2 ug RNA) / wt mid log  in LB 37 C ( 2 ug RNA)	GSE6218	GSM143474,GSM143477,GSM143479,GSM143482	2			52		0	0	0	0	mbplot				GPL2742							
+75962752	hapR mutant 11h in LB 37 C ( 2ug RNA) / wt 11h in LB 37 C ( 2ug RNA)	GSE6218	GSM143475,GSM143478,GSM143480	2			52		0	0	0	0	mbplot				GPL2742							
+77930373	Bacteria was grown in the presence of 0.4% bile for 5.5 hours /  	Bacteria was grown in the abscence of bile for 5.5 hours	GSE6468	GSM148647,GSM148648,GSM148656	2			6		0	0	0	0	mbplot				GPL4621							
+77934145	Channel Treatment Protocol Bacteria was grown in the presence of 0.02% bile for 2 hours/ 	Bacteria was grown in the abscence of bile for 2 hours	GSE6468	GSM265512,GSM265529,GSM265541	2			6		1	0	0	0	mbplot				GPL4621							
+77937917	Bacteria was grown in the presence of 0.4% bile for 2 hours/Bacteria was grown in the abscence of bile for 2 hours	GSE6468	GSM265542,GSM265543,GSM265544	2			6		1	0	0	0	mbplot				GPL4621							
+77941689	Bacteria was grown in the presence of 0.4% bile for 4 hours/ Bacteria was grown in the abscence of bile for 4 hours	GSE6468	GSM265545,GSM265547,GSM265548	2			6		1	0	0	0	mbplot				GPL4621							
+75485633	Listeria_16oC vs 37oC	GSE6471	GSM148833	2			1		0	0	0	0	mbplot				GPL4604							
+75485634	Listeria_30oC vs 37oC	GSE6471	GSM148839	2			1		0	0	0	0	mbplot				GPL4604							
+75485635	Listeria_42oC vs 37oC	GSE6471	GSM148845	2			1		0	0	0	0	mbplot				GPL4604							
+75486219	V. cholerae Stringent Response / V. cholerae WT	GSE6616	GSM153576	2			1		0	0	0	0	mbplot				GPL4697							
+75558494	V. cholerae CgtA-depletion / V. cholerae WT	GSE6617	GSM153577	2			1		0	0	0	0	mbplot				GPL4697							
+75485866	dormant spores 0/5	GSE6865	GSM177105/GSM177106	1			1		1	1	0	0	maplot				GPL4415							
+75485859	dormant spores 0/10	GSE6865	GSM177105/GSM177107	1			1		1	1	0	0	maplot				GPL4415							
+75485861	dormant spores 0/15	GSE6865	GSM177105/GSM177108	1			1		1	1	0	0	maplot				GPL4415							
+75485862	dormant spores 0/20	GSE6865	GSM177105/GSM177109	1			1		1	1	0	0	maplot				GPL4415							
+75485863	dormant spores 0/25	GSE6865	GSM177105/GSM177110	1			1		1	1	0	0	maplot				GPL4415							
+75485864	dormant spores 0/30	GSE6865	GSM177105/GSM177111	1			1		1	1	0	0	maplot				GPL4415							
+75485865	dormant spores 0/40	GSE6865	GSM177105/GSM177112	1			1		1	1	0	0	maplot				GPL4415							
+75485867	dormant spores 0/50	GSE6865	GSM177105/GSM177113	1			1		1	1	0	0	maplot				GPL4415							
+75485868	dormant spores 0/60	GSE6865	GSM177105/GSM177114	1			1		1	1	0	0	maplot				GPL4415							
+75485870	dormant spores 0/80	GSE6865	GSM177105/GSM177115	1			1		1	1	0	0	maplot				GPL4415							
+75485871	dormant spores 0/90	GSE6865	GSM177105/GSM177116	1			1		1	1	0	0	maplot				GPL4415							
+75485860	dormant spores 0/100	GSE6865	GSM177105/GSM177117	1			1		1	1	0	0	maplot				GPL4415							
+75485869	dormant spores 0/70	GSE6865	GSM177105/GSM177118	1			1		1	1	0	0	maplot				GPL4415							
+75485938	germinated spores, 5 minutes into outgrowth / germinated spores, 50 minutes into outgrowth	GSE6865	GSM177106/GSM177113	1			1		1	1	0	0	mbplot				GPL4415							
+75485939	germinated spores, 5 minutes into outgrowth / germinated spores, 60 minutes into outgrowth	GSE6865	GSM177106/GSM177114	1			1		1	1	0	0	mbplot				GPL4415							
+75485941	germinated spores, 5 minutes into outgrowth / germinated spores, 80 minutes into outgrowth	GSE6865	GSM177106/GSM177115	1			1		1	1	0	0	mbplot				GPL4415							
+75485942	germinated spores, 5 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177106/GSM177116	1			1		1	1	0	0	mbplot				GPL4415							
+75485940	germinated spores, 5 minutes into outgrowth / germinated spores, 70 minutes into outgrowth	GSE6865	GSM177106/GSM177118	1			1		1	1	0	0	mbplot				GPL4415							
+75485878	germinated spores, 10 minutes into outgrowth / germinated spores, 5 minutes into outgrowth	GSE6865	GSM177107/GSM177106	1			1		1	1	0	0	maplot				GPL4415							
+75485873	germinated spores, 10 minutes into outgrowth / germinated spores, 15 minutes into outgrowth	GSE6865	GSM177107/GSM177108	1			1		1	1	0	0	maplot				GPL4415							
+75485874	germinated spores, 10 minutes into outgrowth / germinated spores, 20 minutes into outgrowth	GSE6865	GSM177107/GSM177109	1			1		1	1	0	0	maplot				GPL4415							
+75485875	germinated spores, 10 minutes into outgrowth / germinated spores, 25 minutes into outgrowth	GSE6865	GSM177107/GSM177110	1			1		1	1	0	0	maplot				GPL4415							
+75485876	germinated spores, 10 minutes into outgrowth / germinated spores, 30 minutes into outgrowth	GSE6865	GSM177107/GSM177111	1			1		1	1	0	0	maplot				GPL4415							
+75485877	germinated spores, 10 minutes into outgrowth / germinated spores, 40 minutes into outgrowth	GSE6865	GSM177107/GSM177112	1			1		1	1	0	0	maplot				GPL4415							
+75485879	germinated spores, 10 minutes into outgrowth / germinated spores, 50 minutes into outgrowth	GSE6865	GSM177107/GSM177113	1			1		1	1	0	0	maplot				GPL4415							
+75485880	germinated spores, 10 minutes into outgrowth / germinated spores, 60 minutes into outgrowth	GSE6865	GSM177107/GSM177114	1			1		1	1	0	0	maplot				GPL4415							
+75485882	germinated spores, 10 minutes into outgrowth / germinated spores, 80 minutes into outgrowth	GSE6865	GSM177107/GSM177115	1			1		1	1	0	0	maplot				GPL4415							
+75485883	germinated spores, 10 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177107/GSM177116	1			1		1	1	0	0	maplot				GPL4415							
+75485872	germinated spores, 10 minutes into outgrowth / germinated spores, 100 minutes into outgrowth	GSE6865	GSM177107/GSM177117	1			1		1	1	0	0	maplot				GPL4415							
+75485881	germinated spores, 10 minutes into outgrowth / germinated spores, 70 minutes into outgrowth	GSE6865	GSM177107/GSM177118	1			1		1	1	0	0	maplot				GPL4415							
+75485899	germinated spores, 15 minutes into outgrowth / germinated spores, 5 minutes into outgrowth	GSE6865	GSM177108/GSM177106	1			1		1	1	0	0	maplot				GPL4415							
+75485895	germinated spores, 15 minutes into outgrowth / germinated spores, 20 minutes into outgrowth	GSE6865	GSM177108/GSM177109	1			1		1	1	0	0	maplot				GPL4415							
+75485896	germinated spores, 15 minutes into outgrowth / germinated spores, 25 minutes into outgrowth	GSE6865	GSM177108/GSM177110	1			1		1	1	0	0	maplot				GPL4415							
+75485897	germinated spores, 15 minutes into outgrowth / germinated spores, 30 minutes into outgrowth	GSE6865	GSM177108/GSM177111	1			1		1	1	0	0	maplot				GPL4415							
+75485898	germinated spores, 15 minutes into outgrowth / germinated spores, 40 minutes into outgrowth	GSE6865	GSM177108/GSM177112	1			1		1	1	0	0	maplot				GPL4415							
+75485900	germinated spores, 15 minutes into outgrowth / germinated spores, 50 minutes into outgrowth	GSE6865	GSM177108/GSM177113	1			1		1	1	0	0	maplot				GPL4415							
+75485901	germinated spores, 15 minutes into outgrowth / germinated spores, 60 minutes into outgrowth	GSE6865	GSM177108/GSM177114	1			1		1	1	0	0	maplot				GPL4415							
+75485903	germinated spores, 15 minutes into outgrowth / germinated spores, 80 minutes into outgrowth	GSE6865	GSM177108/GSM177115	1			1		1	1	0	0	maplot				GPL4415							
+75485904	germinated spores, 15 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177108/GSM177116	1			1		1	1	0	0	maplot				GPL4415							
+75485902	germinated spores, 15 minutes into outgrowth / germinated spores, 70 minutes into outgrowth	GSE6865	GSM177108/GSM177118	1			1		1	1	0	0	maplot				GPL4415							
+75485911	germinated spores, 20 minutes into outgrowth / germinated spores, 5 minutes into outgrowth	GSE6865	GSM177109/GSM177106	1			1		1	1	0	0	mbplot				GPL4415							
+75485909	germinated spores, 20 minutes into outgrowth / germinated spores, 25 minutes into outgrowth	GSE6865	GSM177109/GSM177110	1			1		1	1	0	0	mbplot				GPL4415							
+75485908	germinated spores, 20 minutes into outgrowth / germinated spores, 30 minutes into outgrowth	GSE6865	GSM177109/GSM177111	1			1		1	1	0	0	mbplot				GPL4415							
+75485910	germinated spores, 20 minutes into outgrowth / germinated spores, 40 minutes into outgrowth	GSE6865	GSM177109/GSM177112	1			1		1	1	0	0	mbplot				GPL4415							
+75485912	germinated spores, 20 minutes into outgrowth / germinated spores, 50 minutes into outgrowth	GSE6865	GSM177109/GSM177113	1			1		1	1	0	0	mbplot				GPL4415							
+75485913	germinated spores, 20 minutes into outgrowth / germinated spores, 60 minutes into outgrowth	GSE6865	GSM177109/GSM177114	1			1		1	1	0	0	mbplot				GPL4415							
+75485915	germinated spores, 20 minutes into outgrowth / germinated spores, 80 minutes into outgrowth	GSE6865	GSM177109/GSM177115	1			1		1	1	0	0	mbplot				GPL4415							
+75485916	germinated spores, 20 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177109/GSM177116	1			1		1	1	0	0	mbplot				GPL4415							
+75485914	germinated spores, 20 minutes into outgrowth / germinated spores, 70 minutes into outgrowth	GSE6865	GSM177109/GSM177118	1			1		1	1	0	0	mbplot				GPL4415							
+75485919	germinated spores, 25 minutes into outgrowth / germinated spores, 5 minutes into outgrowth	GSE6865	GSM177110/GSM177106	1			1		1	1	0	0	mbplot				GPL4415							
+75485917	germinated spores, 25 minutes into outgrowth / germinated spores, 30 minutes into outgrowth	GSE6865	GSM177110/GSM177111	1			1		1	1	0	0	mbplot				GPL4415							
+75485918	germinated spores, 25 minutes into outgrowth / germinated spores, 40 minutes into outgrowth	GSE6865	GSM177110/GSM177112	1			1		1	1	0	0	mbplot				GPL4415							
+75485920	germinated spores, 25 minutes into outgrowth / germinated spores, 50 minutes into outgrowth	GSE6865	GSM177110/GSM177113	1			1		1	1	0	0	mbplot				GPL4415							
+75485921	germinated spores, 25 minutes into outgrowth / germinated spores, 60 minutes into outgrowth	GSE6865	GSM177110/GSM177114	1			1		1	1	0	0	mbplot				GPL4415							
+75485923	germinated spores, 25 minutes into outgrowth / germinated spores, 80 minutes into outgrowth	GSE6865	GSM177110/GSM177115	1			1		1	1	0	0	mbplot				GPL4415							
+75485924	germinated spores, 25 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177110/GSM177116	1			1		1	1	0	0	mbplot				GPL4415							
+75485922	germinated spores, 25 minutes into outgrowth / germinated spores, 70 minutes into outgrowth	GSE6865	GSM177110/GSM177118	1			1		1	1	0	0	mbplot				GPL4415							
+75485926	germinated spores, 30 minutes into outgrowth / germinated spores, 5 minutes into outgrowth	GSE6865	GSM177111/GSM177106	1			1		1	1	0	0	mbplot				GPL4415							
+75485925	germinated spores, 30 minutes into outgrowth / germinated spores, 40 minutes into outgrowth	GSE6865	GSM177111/GSM177112	1			1		1	1	0	0	mbplot				GPL4415							
+75485927	germinated spores, 30 minutes into outgrowth / germinated spores, 50 minutes into outgrowth	GSE6865	GSM177111/GSM177113	1			1		1	1	0	0	mbplot				GPL4415							
+75485928	germinated spores, 30 minutes into outgrowth / germinated spores, 60 minutes into outgrowth	GSE6865	GSM177111/GSM177114	1			1		1	1	0	0	mbplot				GPL4415							
+75485930	germinated spores, 30 minutes into outgrowth / germinated spores, 80 minutes into outgrowth	GSE6865	GSM177111/GSM177115	1			1		1	1	0	0	mbplot				GPL4415							
+75485931	germinated spores, 30 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177111/GSM177116	1			1		1	1	0	0	mbplot				GPL4415							
+75485929	germinated spores, 30 minutes into outgrowth / germinated spores, 70 minutes into outgrowth	GSE6865	GSM177111/GSM177118	1			1		1	1	0	0	mbplot				GPL4415							
+75485932	germinated spores, 40 minutes into outgrowth / germinated spores, 5 minutes into outgrowth	GSE6865	GSM177112/GSM177106	1			1		1	1	0	0	mbplot				GPL4415							
+75485933	germinated spores, 40 minutes into outgrowth / germinated spores, 50 minutes into outgrowth	GSE6865	GSM177112/GSM177113	1			1		1	1	0	0	mbplot				GPL4415							
+75485934	germinated spores, 40 minutes into outgrowth / germinated spores, 60 minutes into outgrowth	GSE6865	GSM177112/GSM177114	1			1		1	1	0	0	mbplot				GPL4415							
+75485936	germinated spores, 40 minutes into outgrowth / germinated spores, 80 minutes into outgrowth	GSE6865	GSM177112/GSM177115	1			1		1	1	0	0	mbplot				GPL4415							
+75485937	germinated spores, 40 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177112/GSM177116	1			1		1	1	0	0	mbplot				GPL4415							
+75485935	germinated spores, 40 minutes into outgrowth / germinated spores, 70 minutes into outgrowth	GSE6865	GSM177112/GSM177118	1			1		1	1	0	0	mbplot				GPL4415							
+75485943	germinated spores, 50 minutes into outgrowth / germinated spores, 60 minutes into outgrowth	GSE6865	GSM177113/GSM177114	1			1		1	1	0	0	mbplot				GPL4415							
+75485945	germinated spores, 50 minutes into outgrowth / germinated spores, 80 minutes into outgrowth	GSE6865	GSM177113/GSM177115	1			1		1	1	0	0	mbplot				GPL4415							
+75485946	germinated spores, 50 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177113/GSM177116	1			1		1	1	0	0	mbplot				GPL4415							
+75485944	germinated spores, 50 minutes into outgrowth / germinated spores, 70 minutes into outgrowth	GSE6865	GSM177113/GSM177118	1			1		1	1	0	0	mbplot				GPL4415							
+75485948	germinated spores, 60 minutes into outgrowth / germinated spores, 80 minutes into outgrowth	GSE6865	GSM177114/GSM177115	1			1		1	1	0	0	mbplot				GPL4415							
+75485949	germinated spores, 60 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177114/GSM177116	1			1		1	1	0	0	mbplot				GPL4415							
+75485947	germinated spores, 60 minutes into outgrowth / germinated spores, 70 minutes into outgrowth	GSE6865	GSM177114/GSM177118	1			1		1	1	0	0	mbplot				GPL4415							
+75485952	germinated spores, 80 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177115/GSM177116	1			1		1	1	0	0	mbplot				GPL4415							
+75485889	germinated spores, 100 minutes into outgrowth / germinated spores, 5 minutes into outgrowth	GSE6865	GSM177117/GSM177106	1			1		1	1	0	0	maplot				GPL4415							
+75485884	germinated spores, 100 minutes into outgrowth / germinated spores, 15 minutes into outgrowth	GSE6865	GSM177117/GSM177108	1			1		1	1	0	0	maplot				GPL4415							
+75485885	germinated spores, 100 minutes into outgrowth / germinated spores, 20 minutes into outgrowth	GSE6865	GSM177117/GSM177109	1			1		1	1	0	0	maplot				GPL4415							
+75485886	germinated spores, 100 minutes into outgrowth / germinated spores, 25 minutes into outgrowth	GSE6865	GSM177117/GSM177110	1			1		1	1	0	0	maplot				GPL4415							
+75485887	germinated spores, 100 minutes into outgrowth / germinated spores, 30 minutes into outgrowth	GSE6865	GSM177117/GSM177111	1			1		1	1	0	0	maplot				GPL4415							
+75485888	germinated spores, 100 minutes into outgrowth / germinated spores, 40 minutes into outgrowth	GSE6865	GSM177117/GSM177112	1			1		1	1	0	0	maplot				GPL4415							
+75485890	germinated spores, 100 minutes into outgrowth / germinated spores, 50 minutes into outgrowth	GSE6865	GSM177117/GSM177113	1			1		1	1	0	0	maplot				GPL4415							
+75485891	germinated spores, 100 minutes into outgrowth / germinated spores, 60 minutes into outgrowth	GSE6865	GSM177117/GSM177114	1			1		1	1	0	0	maplot				GPL4415							
+75485893	germinated spores, 100 minutes into outgrowth / germinated spores, 80 minutes into outgrowth	GSE6865	GSM177117/GSM177115	1			1		1	1	0	0	maplot				GPL4415							
+75485894	germinated spores, 100 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177117/GSM177116	1			1		1	1	0	0	maplot				GPL4415							
+75485892	germinated spores, 100 minutes into outgrowth / germinated spores, 70 minutes into outgrowth	GSE6865	GSM177117/GSM177118	1			1		1	1	0	0	maplot				GPL4415							
+75485950	germinated spores, 70 minutes into outgrowth / germinated spores, 80 minutes into outgrowth	GSE6865	GSM177118/GSM177115	1			1		1	1	0	0	mbplot				GPL4415							
+75485951	germinated spores, 70 minutes into outgrowth / germinated spores, 90 minutes into outgrowth	GSE6865	GSM177118/GSM177116	1			1		1	1	0	0	mbplot				GPL4415							
+75486079	Batch cultured control sample in the absence of GSNO for 5min / Batch cultured experiment samples in the presence of  0.25 mM GSNO	GSE7048	GSM162950,GSM162952	2			1		0	0	0	0	mbplot				GPL4869							
+75486077	Batch cultured experiment samples in the presence of  0.25 mM GSNO for 15min / Batch cultured control sample in the absence of GSNO	GSE7048	GSM162951,GSM162970	2			1		0	0	0	0	mbplot				GPL4869							
+75486080	Batch cultured control sample in the absence of GSNO / Batch cultured control sample in the absence of GSNO	GSE7048	GSM162963,GSM162971	2			1		0	0	0	0	mbplot				GPL4869							
+75486078	Batch cultured control sample in the absence of GSNO for 45min / Batch cultured experiment samples in the presence of  0.25 mM GSNO	GSE7048	GSM162965,GSM162968	2			1		0	0	0	0	mbplot				GPL4869							
+75486093	HEp-2 cells infected with Chlamydophila pneumoniae at 6 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection).	GSE7070	GSM161146,GSM162108,GSM162109	2			1		0	0	0	0	mbplot				GPL4824							
+75486088	HEp-2 cells infected with Chlamydophila pneumoniae at 12 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection).	GSE7070	GSM161274,GSM162120,GSM162131,GSM162135	2			1		0	0	0	0	mbplot				GPL4824							
+75486090	HEp-2 cells infected with Chlamydophila pneumoniae at 18 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection).	GSE7070	GSM161276,GSM162263,GSM162268	2			1		0	0	0	0	mbplot				GPL4824							
+75486091	HEp-2 cells infected with Chlamydophila pneumoniae at 36 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection).	GSE7070	GSM161284,GSM162529,GSM162530	2			1		0	0	0	0	mbplot				GPL4824							
+75486094	HEp-2 cells infected with Chlamydophila pneumoniae at 60 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection).	GSE7070	GSM161287,GSM162910,GSM162911	2			1		0	0	0	0	mbplot				GPL4824							
+75486098	HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 6 hpi (acute infection).	GSE7070	GSM162110,GSM162113,GSM162116	2			1		0	0	0	0	mbplot				GPL4824							
+75486081	HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 12 hpi (acute infection).	GSE7070	GSM162141,GSM162143,GSM162146,GSM162196	2			1		0	0	0	0	mbplot				GPL4824							
+75486083	HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 18 hpi (acute infection).	GSE7070	GSM162269,GSM162270,GSM162310	2			1		0	0	0	0	mbplot				GPL4824							
+75486104	HEp-2 cells infected with Chlamydophila pneumoniae at 24 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection).	GSE7070	GSM162421,GSM162522,GSM162523,GSM162524	2			1		0	0	0	0	mbplot				GPL4824							
+75486085	HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 24 hpi (acute infection).	GSE7070	GSM162525,GSM162526,GSM162527,GSM162528	2			1		0	0	0	0	mbplot				GPL4824							
+75486087	HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 36 hpi (acute infection).	GSE7070	GSM162531,GSM162556	2			1		0	0	0	0	mbplot				GPL4824							
+75486099	HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 60 hpi (acute infection).	GSE7070	GSM162946,GSM162947,GSM162949	2			1		0	0	0	0	mbplot				GPL4824							
+75486095	HEp-2 cells infected with Chlamydophila pneumoniae at 72 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection).	GSE7070	GSM162974,GSM162975,GSM162976	2			1		0	0	0	0	mbplot				GPL4824							
+75486100	HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 72 hpi (acute infection).	GSE7070	GSM162980,GSM162982,GSM162983	2			1		0	0	0	0	mbplot				GPL4824							
+75486084	HEp-2 cells infected with Chlamydophila pneumoniae at 24 DAM hpi (persistent infection).;HEp-2 cells infected with Chlamydophila pneumoniae at 24 DAM hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 24 hpi (acute infection).	GSE7070	GSM162984,GSM162986,GSM162987	2			1		0	0	0	0	mbplot				GPL4824							
+75486086	HEp-2 cells infected with Chlamydophila pneumoniae at 24 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 24 DAM hpi (acute infection).	GSE7070	GSM162988,GSM162989,GSM162990	2			1		0	0	0	0	mbplot				GPL4824							
+75486092	HEp-2 cells infected with Chlamydophila pneumoniae at 48 DAM hpi (persistent infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection).	GSE7070	GSM162991,GSM163004,GSM163006	2			1		0	0	0	0	mbplot				GPL4824							
+75486097	HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 48 DAM hpi (persistent infection).	GSE7070	GSM163105,GSM163106,GSM163107	2			1		0	0	0	0	mbplot				GPL4824							
+75486101	HEp-2 cells infected with Chlamydophila pneumoniae at 72 DAM hpi (persistent infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 72 hpi (acute infection).	GSE7070	GSM163108,GSM163109,GSM169420	2			1		0	0	0	0	mbplot				GPL4824							
+75486102	HEp-2 cells infected with Chlamydophila pneumoniae at 72 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 72 DAM hpi (persistent infection).	GSE7070	GSM169426,GSM169428,GSM169430	2			1		0	0	0	0	mbplot				GPL4824							
+75486096	HEp-2 cells infected with Chlamydophila pneumoniae at 96 /-DAM hpi (persistent infection recovered after 72 hpi). / HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection).	GSE7070	GSM169454	2			1		0	0	0	0	mbplot				GPL4824							
+75486103	HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 96 /-DAM hpi (persistent infection recovered after 72 hpi).	GSE7070	GSM169458	2			1		0	0	0	0	mbplot				GPL4824							
+75486089	HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 120 /-DAM hpi (persistent infection recovered after 72 hpi).	GSE7070	GSM169462	2			1		0	0	0	0	mbplot				GPL4824							
+75486082	HEp-2 cells infected with Chlamydophila pneumoniae at 48 hpi (acute infection). / HEp-2 cells infected with Chlamydophila pneumoniae at 120 /-DAM hpi (persistent infection recovered after 72 hpi).	GSE7070	GSM169467	2			1		0	0	0	0	mbplot				GPL4824							
+76002520	Total RNA from isogenic crp mutant labeled with Cyanine-3 (green). / Total RNA from C7258 labeled with Cyanine-5 (red).	GSE7519	GSM182139,GSM182140,GSM182141,GSM182142	2			1		0	0	0	0	mbplot				GPL5085							
+75485838	Endospore fraction / Vegetative cell fraction	GSE9266	GSM235080	2			1		1	0	0	0	mbplot				GPL6031							
+75485853	B.subtilis t_0min sorbate treatment / B.subtilis t_0min control	GSE9823	GSM247935	2			1		0	0	0	0	mbplot				GPL6257							
+75485854	B.subtilis t_10min sorbate treatment / B.subtilis t_10min control	GSE9823	GSM247936	2			1		0	0	0	0	mbplot				GPL6257							
+75485855	B.subtilis t_20min sorbate treatment / B.subtilis t_20min control	GSE9823	GSM247937	2			1		0	0	0	0	mbplot				GPL6257							
+75485856	B.subtilis t_30min sorbate treatment / B.subtilis t_30min control	GSE9823	GSM247938	2			1		0	0	0	0	mbplot				GPL6257							
+75485857	B.subtilis t_40min sorbate treatment / B.subtilis t_40min control	GSE9823	GSM247939	2			1		0	0	0	0	mbplot				GPL6257							
+75485858	B.subtilis t_50min sorbate treatment / B.subtilis t_50min control	GSE9823	GSM247940	2			1		0	0	0	0	mbplot				GPL6257							
+75486216	H. pylori isolate Kx1 infecting mouse gastric epithelial progenitor cells / H. pylori isolate Kx2 infecting mouse gastric epithelial progenitor cells	GSE10261	GSM259168,GSM259169,GSM259170/GSM259171,GSM259172	1			1		1	1	0	0	maplot				GPL6402							
+75486215	H. pylori isolate Kx1 infecting mouse gastric epithelial progenitor cells / H. pylori isolate Kx1 grown in cell media for 24h	GSE10261	GSM259168,GSM259169,GSM259170/GSM259173,GSM259174	1			1		1	1	0	0	maplot				GPL6402							
+75486218	H. pylori isolate Kx2 infecting mouse gastric epithelial progenitor cells / H. pylori isolate Kx2 grown in cell media for 24h	GSE10261	GSM259171,GSM259172/GSM259175,GSM259176	1			1		1	1	0	0	maplot				GPL6402							
+75486217	H. pylori isolate Kx1 grown in cell media for 24h / H. pylori isolate Kx2 grown in cell media for 24h	GSE10261	GSM259173,GSM259174/GSM259175,GSM259176	1			1		1	1	0	0	maplot				GPL6402							
+75486142	gb2 timepoint9 / ref	GSE11554	GSM290928	2			52		0	0	0	0	mbplot				GPL6892							
+75486137	383 timepoint9 / ref	GSE11554	GSM290929	2			52		0	0	0	0	mbplot				GPL6892							
+75486134	383 timepoint3 / ref	GSE11554	GSM290930	2			52		0	0	0	0	mbplot				GPL6892							
+75486145	U112 timepoint5 / ref	GSE11554	GSM290931	2			52		0	0	0	0	mbplot				GPL6892							
+75486140	gb2 timepoint5 / ref	GSE11554	GSM290932	2			52		0	0	0	0	mbplot				GPL6892							
+75486135	383 timepoint5 / ref	GSE11554	GSM290933	2			52		0	0	0	0	mbplot				GPL6892							
+75486143	U112 timepoint1 / ref	GSE11554	GSM290934	2			52		0	0	0	0	mbplot				GPL6892							
+75486146	U112 timepoint7 / ref	GSE11554	GSM290935	2			52		0	0	0	0	mbplot				GPL6892							
+75486138	gb2 timepoint1 / ref	GSE11554	GSM290936	2			52		0	0	0	0	mbplot				GPL6892							
+75486133	383 timepoint1 / ref	GSE11554	GSM290937	2			52		0	0	0	0	mbplot				GPL6892							
+75486141	gb2 timepoint7 / ref	GSE11554	GSM290938	2			52		0	0	0	0	mbplot				GPL6892							
+75486136	383 timepoint7 / ref	GSE11554	GSM290939	2			52		0	0	0	0	mbplot				GPL6892							
+75486144	U112 timepoint3 / ref	GSE11554	GSM290940	2			52		0	0	0	0	mbplot				GPL6892							
+75486147	U112 timepoint9 / ref	GSE11554	GSM290941	2			52		0	0	0	0	mbplot				GPL6892							
+75486139	gb2 timepoint3 / ref	GSE11554	GSM290942	2			52		0	0	0	0	mbplot				GPL6892							
+75486108	383 ko with gro 383 Timepoints 1 / Ref	GSE11555	GSM290943	2			52		0	0	0	0	mbplot				GPL6892							
+75486109	383 ko gro383 Timepoints2 / Ref	GSE11555	GSM290944	2			52		0	0	0	0	mbplot				GPL6892							
+75486112	383 ko Timepoints 1 / Ref	GSE11555	GSM290945	2			52		0	0	0	0	mbplot				GPL6892							
+75486110	383 ko gro383 Timepoints3 / Ref	GSE11555	GSM290946	2			52		0	0	0	0	mbplot				GPL6892							
+75486124	U112 gro383  timepoine1 /refer	GSE11555	GSM290947	2			52		0	0	0	0	mbplot				GPL6892							
+75486125	U112 gro383  timepoin2 /refer	GSE11555	GSM290948	2			52		0	0	0	0	mbplot				GPL6892							
+75486126	U112 gro383  timepoine3 /refer	GSE11555	GSM290949	2			52		0	0	0	0	mbplot				GPL6892							
+75486118	gb2 gro383 timepoint 3/ ref	GSE11555	GSM290950	2			52		0	0	0	0	mbplot				GPL6892							
+75486127	U112 gro383  timepoine4 /refer	GSE11555	GSM290951	2			52		0	0	0	0	mbplot				GPL6892							
+75486119	gb2 gro383 timepoint 4 / ref	GSE11555	GSM290952	2			52		0	0	0	0	mbplot				GPL6892							
+75486111	383 ko gro383 Timepoints4 / Ref	GSE11555	GSM290953	2			52		0	0	0	0	mbplot				GPL6892							
+75486128	U112   timepoine1 /refer	GSE11555	GSM290954	2			52		0	0	0	0	mbplot				GPL6892							
+75486120	gb2 timepoine1 /refer	GSE11555	GSM290955	2			52		0	0	0	0	mbplot				GPL6892							
+75486129	U112   timepoine2 /refer	GSE11555	GSM290956	2			52		0	0	0	0	mbplot				GPL6892							
+75486121	gb2 timepoine2 /refer	GSE11555	GSM290957	2			52		0	0	0	0	mbplot				GPL6892							
+75486113	383 ko Timepoints 2 / Ref	GSE11555	GSM290958	2			52		0	0	0	0	mbplot				GPL6892							
+75486130	U112   timepoine3 /refer	GSE11555	GSM290959	2			52		0	0	0	0	mbplot				GPL6892							
+75486122	gb2 timepoine3 /refer	GSE11555	GSM290960	2			52		0	0	0	0	mbplot				GPL6892							
+75486131	U112   timepoine4 /refer	GSE11555	GSM290961	2			52		0	0	0	0	mbplot				GPL6892							
+75486123	gb2 timepoine4 /refer	GSE11555	GSM290962	2			52		0	0	0	0	mbplot				GPL6892							
+75486114	383 ko Timepoints 3 / Ref	GSE11555	GSM290963	2			52		0	0	0	0	mbplot				GPL6892							
+75486116	gb2 gro383 timepoint1 / ref	GSE11555	GSM290964	2			52		0	0	0	0	mbplot				GPL6892							
+75486115	383 ko Timepoints 4 / Ref	GSE11555	GSM290965	2			52		0	0	0	0	mbplot				GPL6892							
+75486117	gb2 gro383 timepoint 2 / ref	GSE11555	GSM290966	2			52		0	0	0	0	mbplot				GPL6892							
+75485839	strain 1A1, exposed to 30?C / strain 1A1, exposed to 30?C	GSE12372	GSM310612	2			1		0	0	0	0	mbplot				GPL7146							
+75485840	strain 1A1, exposed to 40?C / strain 1A1, exposed to 30?C	GSE12372	GSM310613,GSM310614	2			1		0	0	0	0	mbplot				GPL7146							
+75485841	strain 1A1, exposed to 50?C / strain 1A1, exposed to 30?C	GSE12372	GSM310615,GSM310616	2			1		0	0	0	0	mbplot				GPL7146							
+75485842	strain 1A1, exposed to 57?C / strain 1A1, exposed to 30?C	GSE12372	GSM310617,GSM310618	2			1		0	0	0	0	mbplot				GPL7146							
+75485843	strain 1A1, exposed to 58?C / strain 1A1, exposed to 30?C	GSE12372	GSM310619,GSM310620	2			1		0	0	0	0	mbplot				GPL7146							
+75485844	strain 1A1, exposed to 59?C / strain 1A1, exposed to 30?C	GSE12372	GSM310621,GSM310622	2			1		0	0	0	0	mbplot				GPL7146							
+75485845	strain 1A1, exposed to 60?C / strain 1A1, exposed to 30?C	GSE12372	GSM310623,GSM310624	2			1		0	0	0	0	mbplot				GPL7146							
+75485846	strain 1A1, exposed to 62?C / strain 1A1, exposed to 30?C	GSE12372	GSM310625,GSM310626	2			1		0	0	0	0	mbplot				GPL7146							
+75485847	strain A163, exposed to 50?C / strain A163, exposed to 30?C	GSE12372	GSM310627	2			1		0	0	0	0	mbplot				GPL7146							
+75485848	strain A163, exposed to 60?C / strain A163, exposed to 30?C	GSE12372	GSM310628	2			1		0	0	0	0	mbplot				GPL7146							
+75485849	strain MC85, exposed to 50?C / strain MC85, exposed to 30?C	GSE12372	GSM310629	2			1		0	0	0	0	mbplot				GPL7146							
+75485850	strain MC85, exposed to 60?C / strain MC85, exposed to 30?C	GSE12372	GSM310630	2			1		0	0	0	0	mbplot				GPL7146							
+75486150	Heat Shock (42 C, 30 minutes) / Control (34 C)	GSE12377	GSM310762,GSM310764,GSM310766,GSM310767,GSM310769,GSM310771,GSM310772,GSM310773	2			1		1	0	0	0	mbplot				GPL7134							
+75485686	Bc14579 pH5.4 t10 / Bc14579 pH5.4 t0	GSE13711	GSM344294,GSM344730	2			1		0	0	0	0	mbplot				GPL7680							
+75485687	Bc14579 pH5.4 t30 / Bc14579 pH5.4 t0	GSE13711	GSM344296,GSM344731	2			1		0	0	0	0	mbplot				GPL7680							
+75485688	Bc14579 pH5.4 t60 / Bc14579 pH5.4 t0	GSE13711	GSM344729,GSM344732	2			1		0	0	0	0	mbplot				GPL7680							
+75485683	Bc14579 pH5.0 t10 / Bc14579 pH5.0 t0	GSE13711	GSM344733,GSM344736	2			1		0	0	0	0	mbplot				GPL7680							
+75485684	Bc14579 pH5.0 t30 / Bc14579 pH5.0 t0	GSE13711	GSM344734,GSM344737	2			1		0	0	0	0	mbplot				GPL7680							
+75485685	Bc14579 pH5.0 t60 / Bc14579 pH5.0 t0	GSE13711	GSM344735,GSM344738	2			1		0	0	0	0	mbplot				GPL7680							
+75485680	Bc14579 pH4.8 t10 / Bc14579 pH4.8 t0	GSE13711	GSM344739,GSM344742	2			1		0	0	0	0	mbplot				GPL7680							
+75485681	Bc14579 pH4.8 t30/ Bc14579 pH4.8 t0	GSE13711	GSM344740,GSM344743	2			1		0	0	0	0	mbplot				GPL7680							
+75485682	Bc14579 pH4.8 t60 / Bc14579 pH4.8 t0	GSE13711	GSM344741,GSM344744	2			1		0	0	0	0	mbplot				GPL7680							
+75485677	Bc14579 pH4.5 t10 / Bc14579 pH4.5 t0	GSE13711	GSM344745,GSM344748	2			1		0	0	0	0	mbplot				GPL7680							
+75485678	Bc14579 pH4.5 t30 / Bc14579 pH4.5 t0	GSE13711	GSM344746,GSM344749	2			1		0	0	0	0	mbplot				GPL7680							
+75485679	Bc14579 pH4.5 t60 / Bc14579 pH4.5 t0	GSE13711	GSM344747,GSM344750	2			1		0	0	0	0	mbplot				GPL7680							
+75485652	NaCl 5% t30 / NaCl 5% t0	GSE13713	GSM341924,GSM344790	2			1		0	0	0	0	mbplot				GPL7636							
+75485653	NaCl 5% t60 / NaCl 5% t0	GSE13713	GSM344791,GSM344792	2			1		0	0	0	0	mbplot				GPL7636							
+75485651	NaCl 5% t10 / NaCl 5% t0	GSE13713	GSM344793,GSM344794	2			1		0	0	0	0	mbplot				GPL7636							
+75485648	NaCl 2.5% t10 /NaCl  2.5% t0	GSE13713	GSM344795,GSM344796	2			1		0	0	0	0	mbplot				GPL7634							
+75485649	NaCl 2.5% t30 / NaCl 2.5% t0	GSE13713	GSM344797,GSM344798	2			1		0	0	0	0	mbplot				GPL7634							
+75485650	NaCl 2.5% t60 / NaCl 2.5% t0	GSE13713	GSM344799,GSM344800	2			1		0	0	0	0	mbplot				GPL7634							
+75485636	Bc10987 pH4.5 t10 / Bc10987 pH4.5 t0	GSE13729	GSM345000,GSM345003	2			1		0	0	0	0	mbplot				GPL7681							
+75485637	Bc10987 pH4.5 t30 / Bc10987 pH4.5 t0	GSE13729	GSM345001,GSM345004	2			1		0	0	0	0	mbplot				GPL7681							
+75485638	Bc10987 pH4.5 t60 / Bc10987 pH4.5 t0	GSE13729	GSM345002,GSM345005	2			1		0	0	0	0	mbplot				GPL7681							
+75485639	Bc10987 pH4.8 t10 / Bc10987 pH4.8 t0	GSE13729	GSM345006,GSM345009	2			1		0	0	0	0	mbplot				GPL7681							
+75485640	Bc10987 pH4.8 t30 / Bc10987 pH4.8 t0	GSE13729	GSM345007,GSM345010	2			1		0	0	0	0	mbplot				GPL7681							
+75485641	Bc10987 pH4.8 t60 / Bc10987 pH4.8 t0	GSE13729	GSM345008,GSM345011	2			1		0	0	0	0	mbplot				GPL7681							
+75485642	Bc10987 pH5.0 t10 / Bc10987 pH5.0 t0	GSE13729	GSM345012,GSM345015	2			1		0	0	0	0	mbplot				GPL7681							
+75485643	Bc10987 pH5.0 t30 / Bc10987 pH5.0 t0	GSE13729	GSM345013,GSM345016	2			1		0	0	0	0	mbplot				GPL7681							
+75485644	Bc10987 pH5.0 t60 / Bc10987 pH5.0 t0	GSE13729	GSM345014,GSM345017	2			1		0	0	0	0	mbplot				GPL7681							
+75485645	Bc10987 pH5.4 t10 / Bc10987 pH5.4 t0	GSE13729	GSM345018,GSM345021	2			1		0	0	0	0	mbplot				GPL7681							
+75485646	Bc10987 pH5.4 t30 / Bc10987 pH5.4 t0	GSE13729	GSM345019,GSM345022	2			1		0	0	0	0	mbplot				GPL7681							
+75485647	Bc10987 pH5.4 t60 / Bc10987 pH5.4 t0	GSE13729	GSM345020,GSM345023	2			1		0	0	0	0	mbplot				GPL7681							
+75972694	2 h AKI   (2 ug) / wt  mid log ref for AKI ( combined from several experiments)  2 ug	GSE14360	GSM359157	2			52		0	0	0	0	mbplot				GPL8044							
+75982636	5h AKI   (2 ug) / wt  mid log ref for AKI ( combined from several experiments)  2 ug	GSE14360	GSM359158	2			52		0	0	0	0	mbplot				GPL8044							
+75969380	1 h AKI   (2 ug) / wt  mid log ref for AKI ( combined from several experiments)  2 ug	GSE14360	GSM359159	2			52		0	0	0	0	mbplot				GPL8044							
+75995892	9h AKI   (2 ug) / wt  mid log ref for AKI ( combined from several experiments)  2 ug	GSE14360	GSM359160	2			52		0	0	0	0	mbplot				GPL8044							
+75985950	6h AKI   (2 ug) / wt  mid log ref for AKI ( combined from several experiments)  2 ug	GSE14360	GSM359161	2			52		0	0	0	0	mbplot				GPL8044							
+75976008	3 h AKI   (2 ug) / wt  mid log ref for AKI ( combined from several experiments)  2 ug	GSE14360	GSM359162	2			52		0	0	0	0	mbplot				GPL8044							
+75992578	8h AKI   (2 ug) / wt  mid log ref for AKI ( combined from several experiments)  2 ug	GSE14360	GSM359163	2			52		0	0	0	0	mbplot				GPL8044							
+75989264	7h AKI   (2 ug) / wt  mid log ref for AKI ( combined from several experiments)  2 ug	GSE14360	GSM359164	2			52		0	0	0	0	mbplot				GPL8044							
+75979322	4h AKI   (2 ug) / wt  mid log ref for AKI ( combined from several experiments)  2 ug	GSE14360	GSM359165	2			52		0	0	0	0	mbplot				GPL8044							
+75999206	10h AKI   (2 ug) / wt  mid log ref for AKI ( combined from several experiments)  2 ug	GSE14360	GSM359166	2			52		0	0	0	0	mbplot				GPL8044							
+75485712	WT 42 degrees 10 min / WT 30 degrees	GSE14589	GSM364859,GSM364861	2			1		0	0	0	0	mbplot				GPL8114							
+75485711	DrsbK 42 degrees 10 min  / WT 42 degrees 10 min	GSE14589	GSM364865,GSM364866	2			1		0	0	0	0	mbplot				GPL8114							
+75485657	Bc14579 pH5.5 HAc t10 / Bc14579 pH5.5 HAc t0	GSE15140	GSM378210,GSM378213	2			1		0	0	0	0	mbplot				GPL7679							
+75485658	Bc14579 pH5.5 HAc t30 / Bc14579 pH5.5 HAc t0	GSE15140	GSM378211,GSM378214	2			1		0	0	0	0	mbplot				GPL7679							
+75485659	Bc14579 pH5.5 HAc t60 / ;Bc14579 pH5.5 HAc t0	GSE15140	GSM378212,GSM378215	2			1		0	0	0	0	mbplot				GPL7679							
+75485660	Bc14579 pH5.5 HAc/HCl t10 / Bc14579 pH5.5 HAc/HCl t0	GSE15140	GSM378216,GSM378219	2			1		0	0	0	0	mbplot				GPL7679							
+75485661	Bc14579 pH5.5 HAc/HCl t30 / Bc14579 pH5.5 HAc/HCl t0	GSE15140	GSM378217,GSM378220	2			1		0	0	0	0	mbplot				GPL7679							
+75485662	Bc14579 pH5.5 HAc/HCl t60 / Bc14579 pH5.5 HAc/HCl t0	GSE15140	GSM378218,GSM378221	2			1		0	0	0	0	mbplot				GPL7679							
+75485665	Bc14579 pH5.5 HCl t10 / Bc14579 pH5.5 HCl t0	GSE15140	GSM378222,GSM378231	2			1		0	0	0	0	mbplot				GPL7679							
+75485666	Bc14579 pH5.5 HCl t30 / Bc14579 pH5.5 HCl t0	GSE15140	GSM378223,GSM378232	2			1		0	0	0	0	mbplot				GPL7679							
+75485667	Bc14579 pH5.5 HCl t60 / Bc14579 pH5.5 HCl t0	GSE15140	GSM378230,GSM378233	2			1		0	0	0	0	mbplot				GPL7679							
+75485668	Bc14579 pH5.5 Hl t10 / Bc14579 pH5.5 Hl t0	GSE15140	GSM378234,GSM378237	2			1		0	0	0	0	mbplot				GPL7679							
+75485669	Bc14579 pH5.5 Hl t30 / Bc14579 pH5.5 Hl t0	GSE15140	GSM378235,GSM378238	2			1		0	0	0	0	mbplot				GPL7679							
+75485670	Bc14579 pH5.5 Hl t60 / Bc14579 pH5.5 Hl t0	GSE15140	GSM378236,GSM378239	2			1		0	0	0	0	mbplot				GPL7679							
+65740350	TW H2O2 / control	GSE15533	GSM389279,GSM389285/GSM389283,GSM389289	1			1		1	0	0	0	mbplot		30 mins / 30 mins		GPL3154	NC_002695	NC_002695	Escherichia coli	Sakai		chlorine	Escherichia coli cells with 30 min incubation in chlorine strain: Sakai     / Escherichia coli cells with 30 min incubation in BHI broth strain: Sakai    
+75494807	Escherichia coli cells with 30 min incubation in chlorine / Escherichia coli cells with 30 min incubation in BHI broth	GSE15533	GSM389279/GSM389283	1			1		1	0	0	0	mbplot		30 mins		GPL3154			Escherichia coli	Sakai		Chlorine	
+75486148	Rp22  / Erus	GSE15630	GSM391300,GSM391301,GSM391302	2			1		0	0	0	0	mbplot				GPL8427							
+75486173	Mouse gastric epithelial progenitor cells (no H.pylori) / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (ChAG associated)	GSE16439	GSM413184,GSM413185/GSM413186,GSM413187,GSM413188,GSM413189,GSM413190,GSM413191	1			1		1	1	0	0	maplot				GPL6402							
+75486174	Mouse gastric epithelial progenitor cells (no H.pylori) / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (with HopZ knockout)	GSE16439	GSM413184,GSM413185/GSM413192,GSM413193,GSM413194	1			1		1	1	0	0	maplot				GPL6402							
+75486175	Mouse gastric epithelial progenitor cells (no H.pylori) / Mouse non-progenitor gastric epithelial cells (no H.pylori)	GSE16439	GSM413184,GSM413185/GSM413195	1			1		1	1	0	0	maplot				GPL6402							
+75486171	Mouse gastric epithelial progenitor cells (no H.pylori) / Mouse gastric epithelial progenitor cells, infected with H.pylori strain 488_Kx1 (ChAG associated)	GSE16439	GSM413184,GSM413185/GSM413208,GSM413209,GSM413210	1			1		1	1	0	0	maplot				GPL6402							
+75486172	Mouse gastric epithelial progenitor cells (no H.pylori) / Mouse gastric epithelial progenitor cells, infected with H.pylori strain 488_Kx1 (ChAG associated)	GSE16439	GSM413184,GSM413185/GSM413211,GSM413212,GSM413213	1			1		1	1	0	0	maplot				GPL6402							
+75486181	Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (ChAG associated) / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (with HopZ knockout)	GSE16439	GSM413186,GSM413187,GSM413188,GSM413189,GSM413190,GSM413191/GSM413192,GSM413193,GSM413194	1			1		1	1	0	0	maplot				GPL6402							
+75486182	Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (ChAG associated) / Mouse non-progenitor gastric epithelial cells, infected with H.pylori strain HPAG (ChAG associated)	GSE16439	GSM413186,GSM413187,GSM413188,GSM413189,GSM413190,GSM413191/GSM413196,GSM413197,GSM413198	1			1		1	1	0	0	maplot				GPL6402							
+75486183	Mouse non-progenitor gastric epithelial cells (no H.pylori) / Mouse non-progenitor gastric epithelial cells, infected with H.pylori strain HPAG (ChAG associated)	GSE16439	GSM413195/GSM413196,GSM413197,GSM413198	1			1		1	1	0	0	maplot				GPL6402							
+75486166	H.pylori strain HPAG (ChAG associated) in mammalian cell media / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (ChAG associated)	GSE16439	GSM413199,GSM413200,GSM413201,GSM413202,GSM413203,GSM413204/GSM413186,GSM413187,GSM413188,GSM413189,GSM413190,GSM413191	1			1		1	1	0	0	maplot				GPL6402							
+75486165	H.pylori strain HPAG (ChAG associated) in mammalian cell media / H.pylori strain HPAG (with HopZ knockout) in mammalian cell media	GSE16439	GSM413199,GSM413200,GSM413201,GSM413202,GSM413203,GSM413204/GSM413205,GSM413206,GSM413207	1			1		1	1	0	0	maplot				GPL6402							
+75486170	H.pylori strain HPAG (with HopZ knockout) in mammalian cell media / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (with HopZ knockout)	GSE16439	GSM413205,GSM413206,GSM413207/GSM413192,GSM413193,GSM413194	1			1		1	1	0	0	maplot				GPL6402							
+75486177	Mouse gastric epithelial progenitor cells, infected with H.pylori strain 488_Kx1 (ChAG associated) / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (ChAG associated)	GSE16439	GSM413208,GSM413209,GSM413210/GSM413186,GSM413187,GSM413188,GSM413189,GSM413190,GSM413191	1			1		1	1	0	0	maplot				GPL6402							
+75486178	Mouse gastric epithelial progenitor cells, infected with H.pylori strain 488_Kx1 (ChAG associated) / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (with HopZ knockout)	GSE16439	GSM413208,GSM413209,GSM413210/GSM413192,GSM413193,GSM413194	1			1		1	1	0	0	maplot				GPL6402							
+75486176	Mouse gastric epithelial progenitor cells, infected with H.pylori strain 488_Kx1 (ChAG associated) / Mouse gastric epithelial progenitor cells, infected with H.pylori strain 488_Kx1 (ChAG associated)	GSE16439	GSM413208,GSM413209,GSM413210/GSM413211,GSM413212,GSM413213	1			1		1	1	0	0	maplot				GPL6402							
+75486179	Mouse gastric epithelial progenitor cells, infected with H.pylori strain 488_Kx1 (ChAG associated) / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (ChAG associated)	GSE16439	GSM413211,GSM413212,GSM413213/GSM413186,GSM413187,GSM413188,GSM413189,GSM413190,GSM413191	1			1		1	1	0	0	maplot				GPL6402							
+75486180	Mouse gastric epithelial progenitor cells, infected with H.pylori strain 488_Kx1 (ChAG associated) / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (with HopZ knockout)	GSE16439	GSM413211,GSM413212,GSM413213/GSM413192,GSM413193,GSM413194	1			1		1	1	0	0	maplot				GPL6402							
+75486152	H.pylori strain 488_Kx1 (ChAG associated) in mammalian cell media / H.pylori strain HPAG (ChAG associated) in mammalian cell media	GSE16439	GSM413214,GSM413215/GSM413199,GSM413200,GSM413201,GSM413202,GSM413203,GSM413204	1			1		1	1	0	0	maplot				GPL6402							
+75486154	H.pylori strain 488_Kx1 (ChAG associated) in mammalian cell media / H.pylori strain HPAG (with HopZ knockout) in mammalian cell media	GSE16439	GSM413214,GSM413215/GSM413205,GSM413206,GSM413207	1			1		1	1	0	0	maplot				GPL6402							
+75486153	H.pylori strain 488_Kx1 (ChAG associated) in mammalian cell media / Mouse gastric epithelial progenitor cells, infected with H.pylori strain 488_Kx1 (ChAG associated)	GSE16439	GSM413214,GSM413215/GSM413208,GSM413209,GSM413210	1			1		1	1	0	0	maplot				GPL6402							
+75486151	H.pylori strain 488_Kx1 (ChAG associated) in mammalian cell media / H.pylori strain 488_Kx2 (gastric cancer associated) in mammalian cell media	GSE16439	GSM413214,GSM413215/GSM413216,GSM413217,GSM413218	1			1		1	1	0	0	maplot				GPL6402							
+75486155	H.pylori strain 488_Kx2 (gastric cancer associated) in mammalian cell media / H.pylori strain HPAG (ChAG associated) in mammalian cell media	GSE16439	GSM413216,GSM413217,GSM413218/GSM413199,GSM413200,GSM413201,GSM413202,GSM413203,GSM413204	1			1		1	1	0	0	maplot				GPL6402							
+75486156	H.pylori strain 488_Kx2 (gastric cancer associated) in mammalian cell media / H.pylori strain HPAG (with HopZ knockout) in mammalian cell media	GSE16439	GSM413216,GSM413217,GSM413218/GSM413205,GSM413206,GSM413207	1			1		1	1	0	0	maplot				GPL6402							
+75486163	H.pylori strain HPAG (ChAG associated) 1hr in rich media, pH 7 / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (ChAG associated)	GSE16439	GSM413219,GSM413220,GSM413221/GSM413186,GSM413187,GSM413188,GSM413189,GSM413190,GSM413191	1			1		1	1	0	0	maplot				GPL6402							
+75486164	H.pylori strain HPAG (ChAG associated) 1hr in rich media, pH 7 / Mouse non-progenitor gastric epithelial cells, infected with H.pylori strain HPAG (ChAG associated)	GSE16439	GSM413219,GSM413220,GSM413221/GSM413196,GSM413197,GSM413198	1			1		1	1	0	0	maplot				GPL6402							
+75486162	H.pylori strain HPAG (ChAG associated) 1hr in rich media, pH 7 / H.pylori strain HPAG (ChAG associated) in mammalian cell media	GSE16439	GSM413219,GSM413220,GSM413221/GSM413199,GSM413200,GSM413201,GSM413202,GSM413203,GSM413204	1			1		1	1	0	0	maplot				GPL6402							
+75486160	H.pylori strain HPAG (ChAG associated) 1hr in rich media, pH 5 / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (ChAG associated)	GSE16439	GSM413222,GSM413223,GSM413224/GSM413186,GSM413187,GSM413188,GSM413189,GSM413190,GSM413191	1			1		1	1	0	0	maplot				GPL6402							
+75486161	H.pylori strain HPAG (ChAG associated) 1hr in rich media, pH 5 / Mouse non-progenitor gastric epithelial cells, infected with H.pylori strain HPAG (ChAG associated)	GSE16439	GSM413222,GSM413223,GSM413224/GSM413196,GSM413197,GSM413198	1			1		1	1	0	0	maplot				GPL6402							
+75486158	H.pylori strain HPAG (ChAG associated) 1hr in rich media, pH 5 / H.pylori strain HPAG (ChAG associated) in mammalian cell media	GSE16439	GSM413222,GSM413223,GSM413224/GSM413199,GSM413200,GSM413201,GSM413202,GSM413203,GSM413204	1			1		1	1	0	0	maplot				GPL6402							
+75486157	H.pylori strain HPAG (ChAG associated) 1hr in rich media, pH 5 / H.pylori strain HPAG (ChAG associated) 1hr in rich media, pH 7	GSE16439	GSM413222,GSM413223,GSM413224/GSM413219,GSM413220,GSM413221	1			1		1	1	0	0	maplot				GPL6402							
+75486159	H.pylori strain HPAG (ChAG associated) 1hr in rich media, pH 5 / H.pylori strain HPAG (HopZ) 1hr in rich media, pH 5	GSE16439	GSM413222,GSM413223,GSM413224/GSM413231,GSM413232,GSM413233	1			1		1	1	0	0	maplot				GPL6402							
+75486167	H.pylori strain HPAG (HopZ) 0hr in rich media, pH 7 / H.pylori strain HPAG (HopZ) 1hr in rich media, pH 7	GSE16439	GSM413225,GSM413226,GSM413227/GSM413228,GSM413229,GSM413230	1			1		1	1	0	0	maplot				GPL6402							
+75486169	H.pylori strain HPAG (HopZ) 1hr in rich media, pH 7 / Mouse gastric epithelial progenitor cells, infected with H.pylori strain HPAG (with HopZ knockout)	GSE16439	GSM413228,GSM413229,GSM413230/GSM413192,GSM413193,GSM413194	1			1		1	1	0	0	maplot				GPL6402							
+75486168	H.pylori strain HPAG (HopZ) 1hr in rich media, pH 5 / H.pylori strain HPAG (HopZ) 1hr in rich media, pH 7	GSE16439	GSM413231,GSM413232,GSM413233/GSM413228,GSM413229,GSM413230	1			1		1	1	0	0	maplot				GPL6402							
+76062615	rpoN mutant / Wild type cells	GSE17144	GSM429044,GSM429045	2			1		0	0	0	0	mbplot				GPL8865							
+75576762	L: wildtype strain in liquid culture / LD: wildtype strain in liquid culture with iron chelator	GSE18763	GSM465731,GSM465732/GSM465733,GSM465734,GSM465735	1			1		1	1	0	0	maplot				GPL8837							
+75581573	L: wildtype strain in liquid culture / PS2: wildtype strain in liquid with iron chelator and polar flagellar rotation inhibitor	GSE18763	GSM465731,GSM465732/GSM465740,GSM465741	1			1		1	1	0	0	maplot				GPL8837							
+75586384	L: wildtype strain in liquid culture / S: wildtype strain on surface of agar plate	GSE18763	GSM465731,GSM465732/GSM465742,GSM465743,GSM465744,GSM465745	1			1		1	1	0	0	maplot				GPL8837							
+75591195	LD: wildtype strain in liquid culture with iron chelator / PS2: wildtype strain in liquid with iron chelator and polar flagellar rotation inhibitor	GSE18763	GSM465733,GSM465734,GSM465735/GSM465740,GSM465741	1			1		1	1	0	0	maplot				GPL8837							
+75596006	LD: wildtype strain in liquid culture with iron chelator / S: wildtype strain on surface of agar plate	GSE18763	GSM465733,GSM465734,GSM465735/GSM465742,GSM465743,GSM465744,GSM465745	1			1		1	1	0	0	maplot				GPL8837							
+75567140	PS1: motX- strain in liquid with iron chelator / LD: wildtype strain in liquid culture with iron chelator	GSE18763	GSM465738/GSM465733,GSM465734,GSM465735	1			1		1	1	0	0	maplot				GPL8837							
+75562329	PS1: motX- strain in liquid with iron chelator / PS1: flaM- strain in liquid with iron chelator	GSE18763	GSM465738/GSM465739	1			1		1	1	0	0	maplot				GPL8837							
+75571951	PS1: flaM- strain in liquid with iron chelator / LD: wildtype strain in liquid culture with iron chelator	GSE18763	GSM465739/GSM465733,GSM465734,GSM465735	1			1		1	1	0	0	maplot				GPL8837							
+75600817	PS2: wildtype strain in liquid with iron chelator and polar flagellar rotation inhibitor / S: wildtype strain on surface of agar plate	GSE18763	GSM465740,GSM465741/GSM465742,GSM465743,GSM465744,GSM465745	1			1		1	1	0	0	maplot				GPL8837							
+75605628	S: wildtype strain on surface of agar plate / S(K-): lafK- strain grown on surface of agar plate	GSE18763	GSM465742,GSM465743,GSM465744,GSM465745/GSM465736,GSM465737	1			1		1	1	0	0	maplot				GPL8837							
+75485691	BC1_t10/ BC1_t0	GSE18807	GSM466432,GSM466435	2			1		0	0	0	0	mbplot				GPL9493							
+75485692	BC1_t30 / BC1_t0	GSE18807	GSM466434,GSM466445	2			1		0	0	0	0	mbplot				GPL9493							
+75485693	BC2_t10 / BC2_t0	GSE18807	GSM466446,GSM466448	2			1		0	0	0	0	mbplot				GPL9493							
+75485694	BC2_t30 / BC2_t0	GSE18807	GSM466449,GSM466450	2			1		0	0	0	0	mbplot				GPL9493							
+75485695	BC5_t10 / BC5_t0	GSE18807	GSM466451,GSM466453	2			1		0	0	0	0	mbplot				GPL9493							
+75485696	BC5_t30 / BC5_t0	GSE18807	GSM466452,GSM466455	2			1		0	0	0	0	mbplot				GPL9493							
+75485699	HP0.2_t0 / HP0.2_t0	GSE18807	GSM466456,GSM466458	2			1		0	0	0	0	mbplot				GPL9493							
+75485700	HP0.2_t30 / HP0.2_t0	GSE18807	GSM466457,GSM466459	2			1		0	0	0	0	mbplot				GPL9493							
+75485697	HP0.05_t10 / HP0.05_t0	GSE18807	GSM466460,GSM466462	2			1		0	0	0	0	mbplot				GPL9493							
+75485698	HP0.05_t30 / HP0.05_t0	GSE18807	GSM466461,GSM466463	2			1		0	0	0	0	mbplot				GPL9493							
+75485703	PAA10_t10 / PAA10_t0	GSE18807	GSM466465,GSM466467	2			1		0	0	0	0	mbplot				GPL9493							
+75485704	PAA10_t30 / PAA10_t0	GSE18807	GSM466466,GSM466468	2			1		0	0	0	0	mbplot				GPL9493							
+75485701	PAA100_t10 / PAA100_t0	GSE18807	GSM466469,GSM466471	2			1		0	0	0	0	mbplot				GPL9493							
+75485702	PAA100_t30 / PAA100_t0	GSE18807	GSM466470,GSM466472	2			1		0	0	0	0	mbplot				GPL9493							
+75485705	SH300_t10 / SH300_t0	GSE18807	GSM466474,GSM466476	2			1		0	0	0	0	mbplot				GPL9493							
+75485706	SH300_t30 / SH300_t0	GSE18807	GSM466475,GSM466477	2			1		0	0	0	0	mbplot				GPL9493							
+75485707	SH400_t10 / SH400_t0	GSE18807	GSM466478,GSM466479	2			1		0	0	0	0	mbplot				GPL9493							
+75485708	SH400_t30 / SH400_t0	GSE18807	GSM466480,GSM466481	2			1		0	0	0	0	mbplot				GPL9493							
+75485709	SH500_t10 / SH500_t0	GSE18807	GSM466482,GSM466485	2			1		0	0	0	0	mbplot				GPL9493							
+75485710	SH500_t30/ SH500_t0	GSE18807	GSM466484,GSM466486	2			1		0	0	0	0	mbplot				GPL9493							
+75486187	cipro 1ug RNA / WT RNA	GSE19334	GSM480324,GSM480325,GSM480326	2			52		0	0	0	0	mbplot				GPL9753							
+75486185	comB4 merodiploid (MSD89) / WT	GSE19334	GSM480327,GSM480328,GSM480329,GSM480330	2			52		0	0	0	0	mbplot				GPL9754							
+75486184	addA RNA / WT RNA	GSE19334	GSM480331,GSM480332,GSM480333	2			52		0	0	0	0	mbplot				GPL9753							
+75486186	comB4 merodiploid recA(MSD90) / WT	GSE19334	GSM480346,GSM480347,GSM480348	2			52		0	0	0	0	mbplot				GPL9754							
+75486188	WT (MSD1) treated 2.5 h with 10ug/ml gentamycin / WT untreated	GSE19334	GSM552349,GSM552350,GSM552351,GSM552352,GSM552353	2			52		0	0	0	0	mbplot				GPL9754							
+75485720	B.subtilis strain PB565/pYtvA light 1(1): time before IPTG adition; / B.subtilis strain PB565/pYtvA light 1(19); time after IPTG 118 min	GSE19464	GSM488049,GSM488050/GSM488051,GSM488052	1			1		1	1	0	0	maplot				GPL9817							
+75485718	B.subtilis strain PB565/pYtvA darktime before IPTG adition / B.subtilis strain PB565/pYtvA light  time before IPTG adition	GSE19464	GSM488053,GSM488054/GSM488049,GSM488050	1			1		1	1	0	0	maplot				GPL9817							
+75485717	B.subtilis strain PB565/pYtvA dark  time before IPTG adition / B.subtilis strain PB565/pYtvA dark time after IPTG 118 min	GSE19464	GSM488053,GSM488054/GSM488055,GSM488056	1			1		1	1	0	0	maplot				GPL9817							
+75485719	B.subtilis strain PB565/pYtvA dark  time after IPTG 118 min / B.subtilis strain PB565/pYtvA light 1(19); time after IPTG 118 min	GSE19464	GSM488055,GSM488056/GSM488051,GSM488052	1			1		1	1	0	0	maplot				GPL9817							
+75485715	B.subtilis strain PB565 aark time 290/ B.subtilis strain PB565 Dark time 395	GSE19464	GSM488057,GSM488058/GSM488059,GSM488060,GSM488061	1			1		1	1	0	0	maplot				GPL9817							
+75485716	B.subtilis strain PB565 Dark  time 395 / B.subtilis strain PB565 light time 395	GSE19464	GSM488059,GSM488060,GSM488061/GSM488062,GSM488063,GSM488064	1			1		1	1	0	0	maplot				GPL9817							
+77945461	Rugose V. cholerae cells with an in-frame deletion of vpsT (VCA0952)delta vpsT pBAD/A1552	GSE19479	GSM485358	2			1		0	0	0	0	mbplot				GPL5747							
+77964381	Rugose ?vpsT pBAD-vpsT-WT / Rugose ?vpsT pBAD	GSE19479	GSM485359	2			1		0	0	0	0	mbplot				GPL5747							
+77956813	Rugose ?vpsT pBAD-vpsT-M17D / Rugose ?vpsT pBAD	GSE19479	GSM485360	2			1		0	0	0	0	mbplot				GPL5747							
+77949245	Rugose ?vpsT pBAD-vpsT-D60A / Rugose ?vpsT pBAD	GSE19479	GSM485361	2			1		0	0	0	0	mbplot				GPL5747							
+77960597	Rugose ?vpsT pBAD-vpsT-R134A / Rugose ?vpsT pBAD	GSE19479	GSM485362	2			1		0	0	0	0	mbplot				GPL5747							
+77953029	Rugose ?vpsT pBAD-vpsT-I141E / Rugose ?vpsT pBAD	GSE19479	GSM485363	2			1		0	0	0	0	mbplot				GPL5747							
+75485769	timepoint 2 / timepoint 1	GSE19831	GSM495251,GSM495252	2			1		1	0	0	0	mbplot				GPL6031							
+75485786	timepoint 1 / timepoint 2	GSE19831	GSM495253,GSM495254	2			1		1	0	0	0	mbplot				GPL6031							
+75485787	timepoint 3 / timepoint 2	GSE19831	GSM495255,GSM495256	2			1		1	0	0	0	mbplot				GPL6031							
+75485803	timepoint 4 / timepoint 3	GSE19831	GSM495257,GSM495258	2			1		1	0	0	0	mbplot				GPL6031							
+75485770	timepoint 4 / timepoint 1(30min difference)	GSE19831	GSM495259,GSM495260	2			1		1	0	0	0	mbplot				GPL6031							
+75485819	timepoint 5 / timepoint 4	GSE19831	GSM495261,GSM495262	2			1		1	0	0	0	mbplot				GPL6031							
+75485820	timepoint 6 / timepoint 5	GSE19831	GSM495263,GSM495264	2			1		1	0	0	0	mbplot				GPL6031							
+75485804	timepoint 6 / timepoint 3(30min)	GSE19831	GSM495265,GSM495266	2			1		1	0	0	0	mbplot				GPL6031							
+75485822	timepoint 7 / timepoint 6	GSE19831	GSM495267,GSM495268	2			1		1	0	0	0	mbplot				GPL6031							
+75485824	timepoint 8 / timepoint 7	GSE19831	GSM495269,GSM495270	2			1		1	0	0	0	mbplot				GPL6031							
+75485821	timepoint 8 / timepoint 5(30min)	GSE19831	GSM495271,GSM495272	2			1		1	0	0	0	mbplot				GPL6031							
+75485776	timepoint 16 / timepoint 13(30min)	GSE19831	GSM495273,GSM495274	2			1		1	0	0	0	mbplot				GPL6031							
+75485823	timepoint 10 / timepoint 7(30min)	GSE19831	GSM495275,GSM495276	2			1		1	0	0	0	mbplot				GPL6031							
+75485825	timepoint 9 / timepoint 8	GSE19831	GSM495277,GSM495278	2			1		1	0	0	0	mbplot				GPL6031							
+75485826	timepoint 10 / timepoint 9	GSE19831	GSM495279,GSM495280	2			1		1	0	0	0	mbplot				GPL6031							
+75485827	timepoint 12 / timepoint 9(30min)	GSE19831	GSM495281,GSM495282	2			1		1	0	0	0	mbplot				GPL6031							
+75485771	timepoint 11 / timepoint 10	GSE19831	GSM495283,GSM495284	2			1		1	0	0	0	mbplot				GPL6031							
+75485772	timepoint 12 / timepoint 11	GSE19831	GSM495285,GSM495286	2			1		1	0	0	0	mbplot				GPL6031							
+75485773	timepoint 14 / timepoint 11(30min)	GSE19831	GSM495287,GSM495288	2			1		1	0	0	0	mbplot				GPL6031							
+75485774	timepoint 13 / timepoint 12	GSE19831	GSM495289,GSM495290	2			1		1	0	0	0	mbplot				GPL6031							
+75485775	timepoint 14 / timepoint 13	GSE19831	GSM495291,GSM495292	2			1		1	0	0	0	mbplot				GPL6031							
+75485788	timepoint 21 / timepoint 20	GSE19831	GSM495293,GSM495294	2			1		1	0	0	0	mbplot				GPL6031							
+75485777	timepoint 15 / timepoint 14	GSE19831	GSM495295,GSM495296	2			1		1	0	0	0	mbplot				GPL6031							
+75485778	timepoint 16 / timepoint 15	GSE19831	GSM495297,GSM495298	2			1		1	0	0	0	mbplot				GPL6031							
+75485779	timepoint 18 / timepoint 15(30min)	GSE19831	GSM495299,GSM495300	2			1		1	0	0	0	mbplot				GPL6031							
+75485780	timepoint 17 / timepoint 16	GSE19831	GSM495301,GSM495302	2			1		1	0	0	0	mbplot				GPL6031							
+75485781	timepoint 18 / timepoint 17	GSE19831	GSM495303,GSM495304	2			1		1	0	0	0	mbplot				GPL6031							
+75485782	timepoint 20 / timepoint 17(30min)	GSE19831	GSM495305,GSM495306	2			1		1	0	0	0	mbplot				GPL6031							
+75485783	timepoint 19 / timepoint 18	GSE19831	GSM495307,GSM495308	2			1		1	0	0	0	mbplot				GPL6031							
+75485784	timepoint 20 / timepoint 19	GSE19831	GSM495309,GSM495310	2			1		1	0	0	0	mbplot				GPL6031							
+75485785	timepoint 22 / timepoint 19(30min)	GSE19831	GSM495311,GSM495312	2			1		1	0	0	0	mbplot				GPL6031							
+75485798	timepoint 28 / timepoint 27	GSE19831	GSM495313,GSM495314	2			1		1	0	0	0	mbplot				GPL6031							
+75485789	timepoint 22 / timepoint 21	GSE19831	GSM495315,GSM495316	2			1		1	0	0	0	mbplot				GPL6031							
+75485790	timepoint 24 / timepoint 21(30min)	GSE19831	GSM495317,GSM495318	2			1		1	0	0	0	mbplot				GPL6031							
+75485791	timepoint 23 / timepoint 22	GSE19831	GSM495319,GSM495320	2			1		1	0	0	0	mbplot				GPL6031							
+75485792	timepoint 24 / timepoint 23	GSE19831	GSM495321,GSM495322	2			1		1	0	0	0	mbplot				GPL6031							
+75485793	timepoint 26 / timepoint 23(30min)	GSE19831	GSM495323,GSM495324	2			1		1	0	0	0	mbplot				GPL6031							
+75485794	timepoint 25 / timepoint 24	GSE19831	GSM495325,GSM495326	2			1		1	0	0	0	mbplot				GPL6031							
+75485795	timepoint 26 / timepoint 25	GSE19831	GSM495327,GSM495328	2			1		1	0	0	0	mbplot				GPL6031							
+75485796	timepoint 28 / timepoint 25(30min)	GSE19831	GSM495329,GSM495330	2			1		1	0	0	0	mbplot				GPL6031							
+75485797	timepoint 27 / timepoint 26	GSE19831	GSM495331,GSM495332	2			1		1	0	0	0	mbplot				GPL6031							
+75485810	timepoint 36 / timepoint 33(30min)	GSE19831	GSM495333,GSM495334	2			1		1	0	0	0	mbplot				GPL6031							
+75485799	timepoint 30 / timepoint 27(30min)	GSE19831	GSM495335,GSM495336	2			1		1	0	0	0	mbplot				GPL6031							
+75485800	timepoint 29 / timepoint 28	GSE19831	GSM495337,GSM495338	2			1		1	0	0	0	mbplot				GPL6031							
+75485801	timepoint 30 / timepoint 29	GSE19831	GSM495339,GSM495340	2			1		1	0	0	0	mbplot				GPL6031							
+75485802	timepoint 32 / timepoint 29(30min)	GSE19831	GSM495341,GSM495342	2			1		1	0	0	0	mbplot				GPL6031							
+75485805	timepoint 31 / timepoint 30	GSE19831	GSM495343,GSM495344	2			1		1	0	0	0	mbplot				GPL6031							
+75485806	timepoint 32 / timepoint 31	GSE19831	GSM495345,GSM495346	2			1		1	0	0	0	mbplot				GPL6031							
+75485807	timepoint 34 / timepoint 31(30min)	GSE19831	GSM495347,GSM495348	2			1		1	0	0	0	mbplot				GPL6031							
+75485808	timepoint 33 / timepoint 32	GSE19831	GSM495349,GSM495350	2			1		1	0	0	0	mbplot				GPL6031							
+75485809	timepoint 34 / timepoint 33	GSE19831	GSM495351,GSM495352	2			1		1	0	0	0	mbplot				GPL6031							
+75485818	timepoint 40 / timepoint 39	GSE19831	GSM495353,GSM495354	2			1		1	0	0	0	mbplot				GPL6031							
+75485811	timepoint 35 / timepoint 34	GSE19831	GSM495355,GSM495356	2			1		1	0	0	0	mbplot				GPL6031							
+75485812	timepoint 36 / timepoint 35	GSE19831	GSM495357,GSM495358	2			1		1	0	0	0	mbplot				GPL6031							
+75485813	timepoint 38 / timepoint 35(30min)	GSE19831	GSM495359,GSM495360	2			1		1	0	0	0	mbplot				GPL6031							
+75485814	timepoint 37 / timepoint 36	GSE19831	GSM495361,GSM495362	2			1		1	0	0	0	mbplot				GPL6031							
+75485815	timepoint 38 / timepoint 37	GSE19831	GSM495363,GSM495364	2			1		1	0	0	0	mbplot				GPL6031							
+75485816	timepoint 40 / timepoint 37(30min)	GSE19831	GSM495365,GSM495366	2			1		1	0	0	0	mbplot				GPL6031							
+75485817	timepoint 39 / timepoint 38	GSE19831	GSM495367,GSM495368	2			1		1	0	0	0	mbplot				GPL6031							
+77971950	NADH Oxidase / Reference	GSE20374	GSM510325,GSM510326,GSM510327/GSM510322,GSM510323,GSM510324	1			1		1	1	0	0	mbplot				GPL3154	NC_000913	NC_000913	Escherichia coli	MG1655		NADH oxidase	NOX strain, mid exponential phase strain: NOX [MG1655/pAC06 (MG1655 transformed with a plasmid containing NADH oxidase)]; protocol: NADH reduction     / Reference Strain, mid exponential phase strain: REF [MG1655/pAK80 (MG1655 transformed with a plasmid with no insert)]; protocol: control    
+77971951	ATPase / Reference	GSE20374	GSM510328,GSM510329,GSM510330/GSM510322,GSM510323,GSM510324	1			1		1	1	0	0	mbplot				GPL3154	NC_000913	NC_000913	Escherichia coli	MG1655		ATPase	ATPase strain, mid exponential phase strain: ATPase [MG1655/pCP41 (MG1655 transformed with a plasmid containing soluble ATPase)]; protocol: ATP reduction     / Reference Strain, mid exponential phase strain: REF [MG1655/pAK80 (MG1655 transformed with a plasmid with no insert)]; protocol: control    
+78000361	clade 2, stx 1 and 2 / clade 2, stx 2	GSE20397	GSM510507,GSM510562,GSM510632	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW07961 / TW11029		strain comparison	strain TW07961 serotype: o157:H7 clade 2, stx 1 and 2  strain TW11029 serotype: o157:H7 clade 2, stx 2 
+78014692	clade 2, stx 2 / clade 2, stx 1 and 2 (dye swap)	GSE20397	GSM510508,GSM510631,GSM510635	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW14279 / TW10045		strain comparison	strain TW14279 serotype: o157:H7 clade 2, stx 2  strain TW10045 serotype: o157:H7 clade 2, stx 1 and 2 
+78029023	clade 8, stx 2 / clade 2, stx 1 and 2	GSE20397	GSM510647,GSM510649,GSM510651	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW08609 / TW08623		strain comparison	strain TW08609 serotype: o157:H7 clade 8, stx 2  strain TW08623 serotype: o157:H7 clade 2, stx 1 and 2 
+78043354	clade 2, stx 1 and 2 / clade 8, stx 2 (dye swap)	GSE20397	GSM510648,GSM510650,GSM510652	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW10012 / TW14313		strain comparison	strain TW10012 serotype: o157:H7 clade 2, stx 1 and 2  strain TW14313 serotype: o157:H7 clade 8, stx 2 
+78057685	clade 2, stx 1 and 2 / clade 8, stx 2 and 2c	GSE20397	GSM510653,GSM510655,GSM510657	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW08623 / TW08030		strain comparison	strain TW08623 serotype: o157:H7 clade 2, stx 1 and 2  strain TW08030 serotype: o157:H7 clade 8, stx 2 and 2c 
+78072016	clade 8, stx 2 and 2c / clade 2, stx 1 and 2 (dye swap)	GSE20397	GSM510654,GSM510656,GSM510658	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW14359 / TW04863		strain comparison	strain TW14359 serotype: o157:H7 clade 8, stx 2 and 2c  strain TW04863 serotype: o157:H7 clade 2, stx 1 and 2 
+78086347	clade 8, stx 2 / clade 2, stx 2	GSE20397	GSM510659,GSM510661,GSM510663	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW08610 / TW11110		strain comparison	strain TW08610 serotype: o157:H7 clade 8, stx 2  strain TW11110  serotype: o157:H7 clade 2, stx 2 
+78100678	clade 2, stx 2 / clade 8, stx 2 (dye swap)	GSE20397	GSM510660,GSM510662,GSM510664	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW11029 / TW08610		strain comparison	strain TW11029  serotype: o157:H7 clade 2, stx 2  strain TW08610 serotype: o157:H7 clade 8, stx 2 
+78115009	clade 2, stx 2 / clade 8, stx 2 and 2c	GSE20397	GSM510665,GSM510667,GSM510789	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW11029 / TW02883		strain comparison	strain TW11029 serotype: o157:H7 clade 2, stx 2  strain TW02883  serotype: o157:H7 clade 8, stx 2 and 2c 
+78129340	clade 8, stx 2 and 2c / clade 2, stx 2 (dye swap)	GSE20397	GSM510666,GSM510668,GSM510837	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW09189 / TW14279		strain comparison	strain TW09189 serotype: o157:H7 clade 8, stx 2 and 2c  strain TW14279  serotype: o157:H7 clade 2, stx 2 
+78143671	clade 8, stx 2 and 2c / clade 8, stx 2	GSE20397	GSM510838,GSM510840,GSM510981	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW07591 / TW09098		strain comparison	strain TW07591 serotype: o157:H7 clade 8, stx 2 and 2c  strain TW09098 serotype: o157:H7 clade 8, stx 2 
+78158002	clade 8, stx 2 / clade 8, stx 2 and 2c (dye swap)	GSE20397	GSM510839,GSM510980,GSM510982	2			1		0	0	0	0	mbplot				GPL7445		NC_002655	Escherichia coli	TW14313 / TW07591		strain comparison	strain TW14313 serotype: o157:H7 clade 8, stx 2  strain TW07591 serotype: o157:H7 clade 8, stx 2 and 2c 
+75836556	HI: wild-type strain grown on plate / vector: wild-type strain with vector control grown on plates with gentamicin and IPTG	GSE22190	GSM552477,GSM552478/GSM552483,GSM552484	1			1		1	1	0	0	maplot				GPL8837							
+75807690	HI: wild-type strain grown on plate / L: wild-type strain in liquid culture	GSE22190	GSM552477,GSM552478/GSM552489,GSM552490	1			1		1	1	0	0	maplot				GPL8837							
+75812501	HI: wild-type strain grown on plate / LD: wild-type strain in liquid culture with iron chelator	GSE22190	GSM552477,GSM552478/GSM552491,GSM552492,GSM552493	1			1		1	1	0	0	maplot				GPL8837							
+75831745	HI: wild-type strain grown on plate / S(K-): lafK- strain grown on surface of agar plate	GSE22190	GSM552477,GSM552478/GSM552494,GSM552495	1			1		1	1	0	0	maplot				GPL8837							
+75817312	HI: wild-type strain grown on plate / PS1: flaM- strain in liquid with iron chelator;PS1: motX- strain in liquid with iron chelator	GSE22190	GSM552477,GSM552478/GSM552496,GSM552497	1			1		1	1	0	0	maplot				GPL8837							
+75822123	HI: wild-type strain grown on plate / PS2: wild-type strain in liquid with iron chelator and polar flagellar rotation inhibitor	GSE22190	GSM552477,GSM552478/GSM552498,GSM552499	1			1		1	1	0	0	maplot				GPL8837							
+75826934	HI: wild-type strain grown on plate / S: wild-type strain on surface of agar plate	GSE22190	GSM552477,GSM552478/GSM552500,GSM552501,GSM552502,GSM552503	1			1		1	1	0	0	maplot				GPL8837							
+75639305	Ca: wild-type strain grown on plate with 4 mM CaCl2 / HI: wild-type strain grown on plate	GSE22190	GSM552479,GSM552480/GSM552477,GSM552478	1			1		1	1	0	0	maplot				GPL8837							
+75629683	Ca: wild-type strain grown on plate with 4 mM CaCl2 / EGTA: wild-type strain grown on plate with 4 mM EGTA	GSE22190	GSM552479,GSM552480/GSM552481,GSM552482	1			1		1	1	0	0	maplot				GPL8837							
+75672982	Ca: wild-type strain grown on plate with 4 mM CaCl2 / vector: wild-type strain with vector control grown on plates with gentamicin and IPTG	GSE22190	GSM552479,GSM552480/GSM552483,GSM552484	1			1		1	1	0	0	maplot				GPL8837							
+75634494	Ca: wild-type strain grown on plate with 4 mM CaCl2 / exsA: wild-type strian with exsA (vp1699) on IPTG inducbile plasmid grown on HI plates with gentamicin and IPTG	GSE22190	GSM552479,GSM552480/GSM552485,GSM552486	1			1		1	1	0	0	maplot				GPL8837							
+75624872	Ca: wild-type strain grown on plate with 4 mM CaCl2 / Ca(6): wild-type strain grown on HI plate with added calcium	GSE22190	GSM552479,GSM552480/GSM552487,GSM552488	1			1		1	1	0	0	maplot				GPL8837							
+75644116	Ca: wild-type strain grown on plate with 4 mM CaCl2 / L: wild-type strain in liquid culture	GSE22190	GSM552479,GSM552480/GSM552489,GSM552490	1			1		1	1	0	0	maplot				GPL8837							
+75648927	Ca: wild-type strain grown on plate with 4 mM CaCl2 / LD: wild-type strain in liquid culture with iron chelator	GSE22190	GSM552479,GSM552480/GSM552491,GSM552492,GSM552493	1			1		1	1	0	0	maplot				GPL8837							
+75668171	Ca: wild-type strain grown on plate with 4 mM CaCl2 / S(K-): lafK- strain grown on surface of agar plate	GSE22190	GSM552479,GSM552480/GSM552494,GSM552495	1			1		1	1	0	0	maplot				GPL8837							
+75653738	Ca: wild-type strain grown on plate with 4 mM CaCl2 / PS1: flaM- strain in liquid with iron chelator;PS1: motX- strain in liquid with iron chelator	GSE22190	GSM552479,GSM552480/GSM552496,GSM552497	1			1		1	1	0	0	maplot				GPL8837							
+75658549	Ca: wild-type strain grown on plate with 4 mM CaCl2 / PS2: wild-type strain in liquid with iron chelator and polar flagellar rotation inhibitor	GSE22190	GSM552479,GSM552480/GSM552498,GSM552499	1			1		1	1	0	0	maplot				GPL8837							
+75663360	Ca: wild-type strain grown on plate with 4 mM CaCl2 / S: wild-type strain on surface of agar plate	GSE22190	GSM552479,GSM552480/GSM552500,GSM552501,GSM552502,GSM552503	1			1		1	1	0	0	maplot				GPL8837							
+75730714	EGTA: wild-type strain grown on plate with 4 mM EGTA / HI: wild-type strain grown on plate	GSE22190	GSM552481,GSM552482/GSM552477,GSM552478	1			1		1	1	0	0	maplot				GPL8837							
+75764391	EGTA: wild-type strain grown on plate with 4 mM EGTA / vector: wild-type strain with vector control grown on plates with gentamicin and IPTG	GSE22190	GSM552481,GSM552482/GSM552483,GSM552484	1			1		1	1	0	0	maplot				GPL8837							
+75725903	EGTA: wild-type strain grown on plate with 4 mM EGTA / exsA: wild-type strian with exsA (vp1699) on IPTG inducbile plasmid grown on HI plates with gentamicin and IPTG	GSE22190	GSM552481,GSM552482/GSM552485,GSM552486	1			1		1	1	0	0	maplot				GPL8837							
+75735525	EGTA: wild-type strain grown on plate with 4 mM EGTA / L: wild-type strain in liquid culture	GSE22190	GSM552481,GSM552482/GSM552489,GSM552490	1			1		1	1	0	0	maplot				GPL8837							
+75740336	EGTA: wild-type strain grown on plate with 4 mM EGTA / LD: wild-type strain in liquid culture with iron chelator	GSE22190	GSM552481,GSM552482/GSM552491,GSM552492,GSM552493	1			1		1	1	0	0	maplot				GPL8837							
+75759580	EGTA: wild-type strain grown on plate with 4 mM EGTA / S(K-): lafK- strain grown on surface of agar plate	GSE22190	GSM552481,GSM552482/GSM552494,GSM552495	1			1		1	1	0	0	maplot				GPL8837							
+75745147	EGTA: wild-type strain grown on plate with 4 mM EGTA / PS1: flaM- strain in liquid with iron chelator;PS1: motX- strain in liquid with iron chelator	GSE22190	GSM552481,GSM552482/GSM552496,GSM552497	1			1		1	1	0	0	maplot				GPL8837							
+75749958	EGTA: wild-type strain grown on plate with 4 mM EGTA / PS2: wild-type strain in liquid with iron chelator and polar flagellar rotation inhibitor	GSE22190	GSM552481,GSM552482/GSM552498,GSM552499	1			1		1	1	0	0	maplot				GPL8837							
+75754769	EGTA: wild-type strain grown on plate with 4 mM EGTA / S: wild-type strain on surface of agar plate	GSE22190	GSM552481,GSM552482/GSM552500,GSM552501,GSM552502,GSM552503	1			1		1	1	0	0	maplot				GPL8837							
+75769202	exsA: wild-type strian with exsA (vp1699) on IPTG inducbile plasmid grown on HI plates with gentamicin and IPTG / HI: wild-type strain grown on plate	GSE22190	GSM552485,GSM552486/GSM552477,GSM552478	1			1		1	1	0	0	maplot				GPL8837							
+75802879	exsA: wild-type strian with exsA (vp1699) on IPTG inducbile plasmid grown on HI plates with gentamicin and IPTG / vector: wild-type strain with vector control grown on plates with gentamicin and IPTG	GSE22190	GSM552485,GSM552486/GSM552483,GSM552484	1			1		1	1	0	0	maplot				GPL8837							
+75774013	exsA: wild-type strian with exsA (vp1699) on IPTG inducbile plasmid grown on HI plates with gentamicin and IPTG / L: wild-type strain in liquid culture	GSE22190	GSM552485,GSM552486/GSM552489,GSM552490	1			1		1	1	0	0	maplot				GPL8837							
+75778824	exsA: wild-type strian with exsA (vp1699) on IPTG inducbile plasmid grown on HI plates with gentamicin and IPTG / LD: wild-type strain in liquid culture with iron chelator	GSE22190	GSM552485,GSM552486/GSM552491,GSM552492,GSM552493	1			1		1	1	0	0	maplot				GPL8837							
+75798068	exsA: wild-type strian with exsA (vp1699) on IPTG inducbile plasmid grown on HI plates with gentamicin and IPTG / S(K-): lafK- strain grown on surface of agar plate	GSE22190	GSM552485,GSM552486/GSM552494,GSM552495	1			1		1	1	0	0	maplot				GPL8837							
+75783635	exsA: wild-type strian with exsA (vp1699) on IPTG inducbile plasmid grown on HI plates with gentamicin and IPTG / PS1: flaM- strain in liquid with iron chelator;PS1: motX- strain in liquid with iron chelator	GSE22190	GSM552485,GSM552486/GSM552496,GSM552497	1			1		1	1	0	0	maplot				GPL8837							
+75788446	exsA: wild-type strian with exsA (vp1699) on IPTG inducbile plasmid grown on HI plates with gentamicin and IPTG / PS2: wild-type strain in liquid with iron chelator and polar flagellar rotation inhibitor	GSE22190	GSM552485,GSM552486/GSM552498,GSM552499	1			1		1	1	0	0	maplot				GPL8837							
+75793257	exsA: wild-type strian with exsA (vp1699) on IPTG inducbile plasmid grown on HI plates with gentamicin and IPTG / S: wild-type strain on surface of agar plate	GSE22190	GSM552485,GSM552486/GSM552500,GSM552501,GSM552502,GSM552503	1			1		1	1	0	0	maplot				GPL8837							
+75687415	Ca(6): wild-type strain grown on HI plate with added calcium / HI: wild-type strain grown on plate	GSE22190	GSM552487,GSM552488/GSM552477,GSM552478	1			1		1	1	0	0	maplot				GPL8837							
+75677793	Ca(6): wild-type strain grown on HI plate with added calcium / EGTA: wild-type strain grown on plate with 4 mM EGTA	GSE22190	GSM552487,GSM552488/GSM552481,GSM552482	1			1		1	1	0	0	maplot				GPL8837							
+75721092	Ca(6): wild-type strain grown on HI plate with added calcium / vector: wild-type strain with vector control grown on plates with gentamicin and IPTG	GSE22190	GSM552487,GSM552488/GSM552483,GSM552484	1			1		1	1	0	0	maplot				GPL8837							
+75682604	Ca(6): wild-type strain grown on HI plate with added calcium / exsA: wild-type strian with exsA (vp1699) on IPTG inducbile plasmid grown on HI plates with gentamicin and IPTG	GSE22190	GSM552487,GSM552488/GSM552485,GSM552486	1			1		1	1	0	0	maplot				GPL8837							
+75692226	Ca(6): wild-type strain grown on HI plate with added calcium / L: wild-type strain in liquid culture	GSE22190	GSM552487,GSM552488/GSM552489,GSM552490	1			1		1	1	0	0	maplot				GPL8837							
+75697037	Ca(6): wild-type strain grown on HI plate with added calcium / LD: wild-type strain in liquid culture with iron chelator	GSE22190	GSM552487,GSM552488/GSM552491,GSM552492,GSM552493	1			1		1	1	0	0	maplot				GPL8837							
+75716281	Ca(6): wild-type strain grown on HI plate with added calcium / S(K-): lafK- strain grown on surface of agar plate	GSE22190	GSM552487,GSM552488/GSM552494,GSM552495	1			1		1	1	0	0	maplot				GPL8837							
+75701848	Ca(6): wild-type strain grown on HI plate with added calcium / PS1: flaM- strain in liquid with iron chelator;PS1: motX- strain in liquid with iron chelator	GSE22190	GSM552487,GSM552488/GSM552496,GSM552497	1			1		1	1	0	0	maplot				GPL8837							
+75706659	Ca(6): wild-type strain grown on HI plate with added calcium / PS2: wild-type strain in liquid with iron chelator and polar flagellar rotation inhibitor	GSE22190	GSM552487,GSM552488/GSM552498,GSM552499	1			1		1	1	0	0	maplot				GPL8837							
+75711470	Ca(6): wild-type strain grown on HI plate with added calcium / S: wild-type strain on surface of agar plate	GSE22190	GSM552487,GSM552488/GSM552500,GSM552501,GSM552502,GSM552503	1			1		1	1	0	0	maplot				GPL8837							
+75865422	L: wild-type strain in liquid culture / vector: wild-type strain with vector control grown on plates with gentamicin and IPTG	GSE22190	GSM552489,GSM552490/GSM552483,GSM552484	1			1		1	1	0	0	maplot				GPL8837							
+75841367	L: wild-type strain in liquid culture / LD: wild-type strain in liquid culture with iron chelator	GSE22190	GSM552489,GSM552490/GSM552491,GSM552492,GSM552493	1			1		1	1	0	0	maplot				GPL8837							
+75860611	L: wild-type strain in liquid culture / S(K-): lafK- strain grown on surface of agar plate	GSE22190	GSM552489,GSM552490/GSM552494,GSM552495	1			1		1	1	0	0	maplot				GPL8837							
+75846178	L: wild-type strain in liquid culture / PS1: flaM- strain in liquid with iron chelator;PS1: motX- strain in liquid with iron chelator	GSE22190	GSM552489,GSM552490/GSM552496,GSM552497	1			1		1	1	0	0	maplot				GPL8837							
+75850989	L: wild-type strain in liquid culture / PS2: wild-type strain in liquid with iron chelator and polar flagellar rotation inhibitor	GSE22190	GSM552489,GSM552490/GSM552498,GSM552499	1			1		1	1	0	0	maplot				GPL8837							
+75855800	L: wild-type strain in liquid culture / S: wild-type strain on surface of agar plate	GSE22190	GSM552489,GSM552490/GSM552500,GSM552501,GSM552502,GSM552503	1			1		1	1	0	0	maplot				GPL8837							
+75889477	LD: wild-type strain in liquid culture with iron chelator / vector: wild-type strain with vector control grown on plates with gentamicin and IPTG	GSE22190	GSM552491,GSM552492,GSM552493/GSM552483,GSM552484	1			1		1	1	0	0	maplot				GPL8837							
+75884666	LD: wild-type strain in liquid culture with iron chelator / S(K-): lafK- strain grown on surface of agar plate	GSE22190	GSM552491,GSM552492,GSM552493/GSM552494,GSM552495	1			1		1	1	0	0	maplot				GPL8837							
+75870233	LD: wild-type strain in liquid culture with iron chelator / PS1: flaM- strain in liquid with iron chelator;PS1: motX- strain in liquid with iron chelator	GSE22190	GSM552491,GSM552492,GSM552493/GSM552496,GSM552497	1			1		1	1	0	0	maplot				GPL8837							
+75875044	LD: wild-type strain in liquid culture with iron chelator / PS2: wild-type strain in liquid with iron chelator and polar flagellar rotation inhibitor	GSE22190	GSM552491,GSM552492,GSM552493/GSM552498,GSM552499	1			1		1	1	0	0	maplot				GPL8837							
+75879855	LD: wild-type strain in liquid culture with iron chelator / S: wild-type strain on surface of agar plate	GSE22190	GSM552491,GSM552492,GSM552493/GSM552500,GSM552501,GSM552502,GSM552503	1			1		1	1	0	0	maplot				GPL8837							
+75937587	S(K-): lafK- strain grown on surface of agar plate / vector: wild-type strain with vector control grown on plates with gentamicin and IPTG	GSE22190	GSM552494,GSM552495/GSM552483,GSM552484	1			1		1	1	0	0	maplot				GPL8837							
+75908721	PS1: flaM- strain in liquid with iron chelator;PS1: motX- strain in liquid with iron chelator / vector: wild-type strain with vector control grown on plates with gentamicin and IPTG	GSE22190	GSM552496,GSM552497/GSM552483,GSM552484	1			1		1	1	0	0	maplot				GPL8837							
+75903910	PS1: flaM- strain in liquid with iron chelator;PS1: motX- strain in liquid with iron chelator / S(K-): lafK- strain grown on surface of agar plate	GSE22190	GSM552496,GSM552497/GSM552494,GSM552495	1			1		1	1	0	0	maplot				GPL8837							
+75894288	PS1: flaM- strain in liquid with iron chelator;PS1: motX- strain in liquid with iron chelator / PS2: wild-type strain in liquid with iron chelator and polar flagellar rotation inhibitor	GSE22190	GSM552496,GSM552497/GSM552498,GSM552499	1			1		1	1	0	0	maplot				GPL8837							
+75899099	PS1: flaM- strain in liquid with iron chelator;PS1: motX- strain in liquid with iron chelator / S: wild-type strain on surface of agar plate	GSE22190	GSM552496,GSM552497/GSM552500,GSM552501,GSM552502,GSM552503	1			1		1	1	0	0	maplot				GPL8837							
+75923154	PS2: wild-type strain in liquid with iron chelator and polar flagellar rotation inhibitor / vector: wild-type strain with vector control grown on plates with gentamicin and IPTG	GSE22190	GSM552498,GSM552499/GSM552483,GSM552484	1			1		1	1	0	0	maplot				GPL8837							
+75918343	PS2: wild-type strain in liquid with iron chelator and polar flagellar rotation inhibitor / S(K-): lafK- strain grown on surface of agar plate	GSE22190	GSM552498,GSM552499/GSM552494,GSM552495	1			1		1	1	0	0	maplot				GPL8837							
+75913532	PS2: wild-type strain in liquid with iron chelator and polar flagellar rotation inhibitor / S: wild-type strain on surface of agar plate	GSE22190	GSM552498,GSM552499/GSM552500,GSM552501,GSM552502,GSM552503	1			1		1	1	0	0	maplot				GPL8837							
+75932776	S: wild-type strain on surface of agar plate / vector: wild-type strain with vector control grown on plates with gentamicin and IPTG	GSE22190	GSM552500,GSM552501,GSM552502,GSM552503/GSM552483,GSM552484	1			1		1	1	0	0	maplot				GPL8837							
+75927965	S: wild-type strain on surface of agar plate / S(K-): lafK- strain grown on surface of agar plate	GSE22190	GSM552500,GSM552501,GSM552502,GSM552503/GSM552494,GSM552495	1			1		1	1	0	0	maplot				GPL8837							
+75485852	Macrocolonies from rok/ Macrocolonies from wt	GSE22370	GSM556608,GSM556609,GSM556610,GSM556611	2			1		0	0	0	0	mbplot				GPL6031							
+75485851	Macrocolonies from rok-comK / Macrocolonies from comK	GSE22370	GSM556612,GSM556613,GSM556614,GSM556615	2			1		0	0	0	0	mbplot				GPL6031							
+75485953	Induced / Uninduced	GSE23419	GSM574290,GSM574291,GSM574292	2			1		0	0	0	0	mbplot				GPL7113							
+75528149	wt RNA (from vibrio attached to epithelium) 8h rabbit / wt mid log reference RNA	GSE24405	GSM601459,GSM601461,GSM601462,GSM601464	2			52		0	0	0	0	mbplot				GPL2742							
+75531463	wt RNA (from vibrio attached to epithelium) 8h rabbit / wt mid log in LB RNA (2 ug)	GSE24405	GSM601460,GSM601463,GSM601465,GSM601466	2			52		0	0	0	0	mbplot				GPL2742							
+75555180	wt RNA (from vibrio attached to epothelium) 12h rabbit / wt mid log in LB 2 ug RNA	GSE24406	GSM601467,GSM601470,GSM601471,GSM601472	2			52		0	0	0	0	mbplot				GPL2742							
+75551866	wt RNA (from vibrio attached to epothelium) 12h rabbit/ wt mid log reference RNA,  rabbit RNA (1:2.5)	GSE24406	GSM601468,GSM601469,GSM601473,GSM601474	2			52		0	0	0	0	mbplot				GPL2742							
+76006277	2ug vc RNA from 8 h rabbit loop / mid log reference LB 37 C 1.5 ug RNA	GSE24407	GSM601475,GSM601476,GSM601477,GSM601478,GSM601479,GSM601480,GSM601481,GSM601482	2			52		0	0	0	0	mbplot				GPL2742							
+75485655	Bacillus cereus with induced ComK1 (pATK31 / Bacillus cereus carrying empty plasmid (pLM5)	GSE27264	GSM674012,GSM674013,GSM674014	2			1		0	0	0	0	mbplot				GPL13146							
+75485656	Bacillus cereus with induced ComK2 (pATK32) / Bacillus cereus carrying empty plasmid (pLM5)	GSE27264	GSM674015,GSM674016,GSM674017	2			1		0	0	0	0	mbplot				GPL13146							
+75485654	Bacillus cereus with overexpressed ComK (pNWcomKBsu) / Bacillus cereus carrying empty plasmid (pNW33N)	GSE27265	GSM674019,GSM674020	2			1		0	0	0	0	mbplot				GPL13146							
+75615250	opaR : opaque strain grown on plate / DopaR: translucent strain grown on plate	GSE28216	GSM698557,GSM698558,GSM698559/GSM698553,GSM698554,GSM698555,GSM698556	1			1		1	1	0	0	maplot				GPL8837							
+75620061	LuxO*: translucent strain grown on plate / DopaR: translucent strain grown on plate	GSE28216	GSM698560,GSM698561/GSM698553,GSM698554,GSM698555,GSM698556	1			1		1	1	0	0	maplot				GPL8837							
+75610439	LuxO*: translucent strain grown on plate / opaR : opaque strain grown on plate	GSE28216	GSM698560,GSM698561/GSM698557,GSM698558,GSM698559	1			1		1	1	0	0	maplot				GPL8837							
+75485690	chitosan-B-treated cells / untreated cells	GSE29024	GSM719165,GSM719166,GSM719170	2			1		0	0	0	0	mbplot				GPL13146							
+75485689	chitosan-A-treated cells / untreated cells	GSE29024	GSM719167,GSM719168,GSM719169	2			1		0	0	0	0	mbplot				GPL13146							
+75486106	Ehrlichia chaffeensis Arkansas_AAE2 / Ehrlichia chaffeensis Arkansas_THP-1	GSE29109	GSM720960/GSM720959	1			1		1	1	0	0	mbplot				GPL13501							
+75486105	Ehrlichia chaffeensis Arkansas_AAE2 / Ehrlichia chaffeensis Arkansas_ISE6	GSE29109	GSM720960/GSM720961	1			1		1	1	0	0	mbplot				GPL13501							
+75486107	Ehrlichia chaffeensis Arkansas_ISE6 / Ehrlichia chaffeensis Arkansas_THP-1	GSE29109	GSM720961/GSM720959	1			1		1	1	0	0	mbplot				GPL13501							
+75485713	pMMdegU exponential / pMM1522 exponential	GSE31083	GSM769792,GSM769793,GSM769794	2			1		0	0	0	0	mbplot				GPL13998							
+75485714	pMMdegU stationary / pMM1522 stationary	GSE31083	GSM769795,GSM769796,GSM769797,GSM769798,GSM769799	2			1		0	0	0	0	mbplot				GPL13998							

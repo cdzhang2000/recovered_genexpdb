@@ -1,0 +1,53 @@
+
+SQL*Loader: Release 11.2.0.3.0 - Production on Fri Sep 6 17:09:51 2013
+
+Copyright (c) 1982, 2011, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   /var/www/modperl/gdb/pdata/pdata.ctl
+Data File:      /var/www/modperl/gdb/pdata/pdata.txt
+  Bad File:     /var/www/modperl/gdb/pdata/pdata.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     100000 rows, maximum of 1000000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table PDATA, loaded from every logical record.
+Insert option in effect for this table: APPEND
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+EID                                 FIRST     *  WHT      CHARACTER            
+PEXP_ID                              NEXT     *  WHT      CHARACTER            
+PAVG                                 NEXT     *  WHT      CHARACTER            
+PRATIO                               NEXT     *  WHT      CHARACTER            
+LOCUSTAG                             NEXT     *  WHT      CHARACTER            
+
+value used for ROWS parameter changed from 100000 to 775
+
+Table PDATA:
+  2786 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 999750 bytes(775 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          2786
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Fri Sep 06 17:09:51 2013
+Run ended on Fri Sep 06 17:09:52 2013
+
+Elapsed time was:     00:00:01.62
+CPU time was:         00:00:00.04

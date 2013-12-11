@@ -1,0 +1,4 @@
+ACCESSION	EXP COUNT
+GSE20374	3
+GSE20397	2
+Accessions: 2	Experiments: 5

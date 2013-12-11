@@ -1,0 +1,200 @@
+GSE20305        cold stress T4 / control T4...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        cold stress T6 / control T6...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        cold stress T7 / control T7...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        glucose-lactose shift T2 / control T2...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        glucose-lactose shift T4 / control T4...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        glucose-lactose shift T5 / control T5...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        glucose-lactose shift T7 / control T7...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        heat stress T4 / control T4...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        heat stress T5 / control T5...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        heat stress T7 / control T7...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        heat stress T8 / control T8...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        oxidative stress T2 / control T2...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        oxidative stress T4 / control T4...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        oxidative stress T5 / control T5...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        oxidative stress T7 / control T7...<font color="red">Configuration returned no data!</font>
+GSE6195 biofilm cells / suspension cells...<font color="red">Problems running normalize!</font>
+done.
+GSE4562 trpE LB glu 24 hr biofilm cells / WT LB glu 24 hr biofilm cells...<font color="red">Problems running normalize!</font>
+done.
+GSE4562 tnaA LB glu 24 hr biofilm cells / WT LB glu 24 hr biofilm cells...<font color="red">Problems running normalize!</font>
+done.
+GSE6923 BW25113 with pR1drd19 24h in LB / BW25113 with pR1drd19 7h in LB...<font color="red">Problems running normalize!</font>
+done.
+GSE6923 BW25113 15h in LB / BW25113 7h in LB...<font color="red">Problems running normalize!</font>
+done.
+GSE8708 15h LB-glu biofilm hha / WT...<font color="red">Problems running normalize!</font>
+done.
+GSE6644 60 min oxygen depletion / control with oxygen...Data does not seem to be Log values? (maximum value > 24)
+done.
+GSE20305        cold stress T1 / control T1...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        cold stress T2 / control T2...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        cold stress T3 / control T3...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        cold stress T5 / control T5...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        cold stress T8 / control T8...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        glucose-lactose shift T3 / control T3...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        glucose-lactose shift T6 / control T6...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        heat stress T1 / control T1...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        heat stress T2 / control T2...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        heat stress T3 / control T3...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        heat stress T6 / control T6...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        oxidative stress T1 / control T1...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        oxidative stress T3 / control T3...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        oxidative stress T6 / control T6...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305        oxidative stress T8 / control T8...<font color="red">Configuration returned no data!</font>
+GSE4562 yceP LB glu 24 hr biofilm cells + 0.06% DMF / WT LB glu 24 hr biofilm cells ...<font color="red">Problems running normalize!</font>
+done.
+GSE4562 LB glu 24 hr biofilm cells + 600uM indole / WT LB glu 24 hr biofilm cells...<font color="red">Problems running normalize!</font>
+done.
+GSE4562 WT LB 24 hr biofilm cells / WT LB glu 24 hr biofilm cells ...<font color="red">Problems running normalize!</font>
+done.
+GSE6923 ATCC25404 with pR1drd19 24h in LB / ATCC25404 without R1drd19 24h in LB...<font color="red">Problems running normalize!</font>
+done.
+GSE6923 MG1655 with pR1drd19 24h in M9C glu / MG1655 without pR1drd19 24h in M9C glu...<font color="red">Problems running normalize!</font>
+done.
+GSE6923 BW25113 with pR1drd19 24h in LB / BW25113 without pR1drd19 24h in LB...<font color="red">Problems running normalize!</font>
+done.
+GSE6923 BW25113 with pR1drd19 15h in LB / BW25113 with pR1drd19 7h in LB...<font color="red">Problems running normalize!</font>
+done.
+GSE6923 BW25113 24h in LB / BW25113 7h in LB...<font color="red">Problems running normalize!</font>
+done.
+GSE5552 WT biofilm epinephrine (50uM) / WT biofilm...<font color="red">Problems running normalize!</font>
+done.
+GSE5552 WT biofilm norepinephrine (50uM) / WT biofilm...<font color="red">Problems running normalize!</font>
+done.
+GSE6195 7-hydroxindole (1mM) biofilm cells / suspension cells...<font color="red">Problems running normalize!</font>
+done.
+GSE6195 isatin (250uM) biofilm cells / suspension cells...<font color="red">Problems running normalize!</font>
+done.
+GSE8706 yncC biofilm cells / wt biofilm cells...<font color="red">Problems running normalize!</font>
+done.
+GSE8708 4h LB biofilm hha / WT...<font color="red">Problems running normalize!</font>
+done.
+GSE8708 4h LB-glu biofilm hha / WT...<font color="red">Problems running normalize!</font>
+done.
+GSE8708 24h LB-glu biofilm hha / WT...<font color="red">Problems running normalize!</font>
+GSE11555        383 ko Timepoints 2 / Ref...Successfully inserted 3595 records
+done.
+GSE11555        383 ko Timepoints 4 / Ref...Successfully inserted 3595 records
+done.
+GSE11555        gb2 gro383 timepoint 4 / ref...Successfully inserted 3595 records
+done.
+GSE11555        U112 gro383  timepoin2 /refer...Successfully inserted 3595 records
+done.
+GSE11555        U112 gro383  timepoine4 /refer...Successfully inserted 3595 records
+done.
+GSE11555        U112   timepoine2 /refer...Successfully inserted 3595 records
+done.
+GSE11555        U112   timepoine4 /refer...Successfully inserted 3595 records
+done.
+GSE11554        383 timepoint1 / ref...Successfully inserted 3595 records
+done.
+GSE11554        383 timepoint5 / ref...Successfully inserted 3595 records
+done.
+GSE11554        383 timepoint9 / ref...Successfully inserted 3595 records
+done.
+GSE11554        gb2 timepoint1 / ref...Successfully inserted 3595 records
+done.
+GSE11554        gb2 timepoint5 / ref...Successfully inserted 3595 records
+done.
+GSE11554        gb2 timepoint9 / ref...Successfully inserted 3595 records
+done.
+GSE11554        U112 timepoint3 / ref...Successfully inserted 3595 records
+done.
+GSE11554        U112 timepoint7 / ref...Successfully inserted 3595 records
+done.
+GSE11554        383 timepoint3 / ref...Successfully inserted 3595 records
+done.
+GSE11554        383 timepoint7 / ref...Successfully inserted 3595 records
+done.
+GSE11554        gb2 timepoint3 / ref...Successfully inserted 3595 records
+done.
+GSE11554        gb2 timepoint7 / ref...Successfully inserted 3595 records
+done.
+GSE11554        U112 timepoint1 / ref...Successfully inserted 3595 records
+done.
+GSE11554        U112 timepoint5 / ref...Successfully inserted 3595 records
+done.
+GSE11554        U112 timepoint9 / ref...Successfully inserted 3595 records
+done.
+GSE11555        383 ko with gro 383 Timepoints 1 / Ref...Successfully inserted 3595 records
+done.
+GSE11555        383 ko gro383 Timepoints3 / Ref...Successfully inserted 3595 records
+done.
+GSE11555        383 ko Timepoints 1 / Ref...Successfully inserted 3595 records
+done.
+GSE11555        gb2 gro383 timepoint1 / ref...Successfully inserted 3595 records
+done.
+GSE11555        gb2 timepoine3 /refer...Successfully inserted 3595 records
+done.
+GSE11555        U112 gro383  timepoine1 /refer...Successfully inserted 3595 records
+done.
+GSE11555        U112 gro383  timepoine3 /refer...Successfully inserted 3595 records
+GSE11555        U112   timepoine1 /refer...Successfully inserted 3595 records
+done.
+GSE11555        U112   timepoine3 /refer...Successfully inserted 3595 records
+done.
+GSE11555        383 ko gro383 Timepoints2 / Ref...Successfully inserted 3595 records
+done.
+GSE11555        gb2 gro383 timepoint 3/ ref...Successfully inserted 3595 records
+done.
+GSE11555        383 ko gro383 Timepoints4 / Ref...Successfully inserted 3595 records
+done.
+GSE11555        gb2 timepoine1 /refer...Successfully inserted 3595 records
+done.
+GSE11555        gb2 timepoine2 /refer...Successfully inserted 3595 records
+done.
+GSE11555        gb2 timepoine4 /refer...Successfully inserted 3595 records
+done.
+GSE11555        383 ko Timepoints 3 / Ref...Successfully inserted 3595 records
+done.
+GSE11555        gb2 gro383 timepoint 2 / ref...Successfully inserted 3595 records
+done.
+GSE26042        phage infected/uninfected...Successfully inserted 2244 records
+done.
+GSE26536        specific growth rate 0.45 1/h / specific growth rate 0.1 1/h...Successfully inserted 1925 records
+done.
+GSE26536        specific growth rate 0.49 1/h / specific growth rate 0.1 1/h...Successfully inserted 1925 records
+done.
+GSE26536        specific growth rate 0.55 1/h / specific growth rate 0.1 1/h...Successfully inserted 1925 records
+done.
+GSE26536        specific growth rate 0.28 1/h / specific growth rate 0.1 1/h...Successfully inserted 1925 records
+done.
+GSE38475        hydrated SL1344/ desiccated SL1344...Successfully inserted 17536 records
+done.
+GSE38475        desiccated SL1344 / hydrated SL1344...Successfully inserted 17536 records
+done.
+GSE26536        specific growth rate 0.3 1/h / specific growth rate 0.1 1/h...Successfully inserted 1925 records
+done.
+GSE26536        specific growth rate 0.43 1/h / specific growth rate 0.1 1/h...Successfully inserted 1925 records
+done.
+GSE26536        specific growth rate 0.17 1/h / specific growth rate 0.1 1/h...Successfully inserted 1925 records
+

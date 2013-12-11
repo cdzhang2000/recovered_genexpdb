@@ -1,0 +1,85 @@
+filter organism name by changing the query string below
+
+sub dbAccessionsInfo {
+
+	#czhang added MODUSER and GEOMATCH like 'brucella'
+	$sql =qq{ select a.id, a.eid, b.identifier, b.name, c.institution, c.pi, c.author, c.pmid, c.title, c.designtype, c.timeseries, c.treatment, c.growthcond, c.modification, c.arraydesign, c.strain, c.substrain, c.GEOMATCH organism, c.MODUSER moduser from experiment a, identifiable b, curated c where a.id=b.id(+) and (a.id=c.expid and c.status=3) and c.GEOMATCH like '%_rucell%' order by to_number(substr(b.identifier,4)) };
+	
+
+
+
+submit button "query" WebUtil calls the javascript function below
+
+
+function ckqry(qry) {
+	//query
+	var qry = qry.replace(/^\s+|\s+$|\"+|\'+/g, '');
+	if(!qry) {
+		document.mainFrm.query.value='';
+		return;
+	}
+	document.mainFrm.query.value=qry;
+	document.mainFrm.submit();
+}
+
+
+1) click home to reset the browser
+
+2) click "accessions" to expand the browser
+
+3) type organism name (not case sensitive)
+
+
+
+
+
+Util.pm
+my $qryltagRef = gdb::webUtil::getSessVar( 'qryltag' );
+	if ( $qryltagRef and $qryltagRef->{0} ) {
+		#gdb::browser::displayBrowser();
+		#gdb::annotation::displayAnnotation();
+	}
+
+	#gdb::accessions::displayAccessions();
+	
+	gdb::accessions::displayAccessions($qryltagRef);
+	
+	
+	
+accessions.pm
+	
+	#czhang
+	my $organism=$parms->{currquery};	
+	#print "Accessions: organism= $organism";
+	
+	
+heatmap.pm
+		if ( ! %dbHmData ) {    #no data found
+			#print qq{<pre> $qry <font color="red">No experiment data found!</font></pre>\n};
+			next;
+		}	
+	
+	
+	
+	Add "downloadExpMedata" button
+	
+	1) add line in the accessions.pm
+	
+#czhang July 12, 2013
+qq{<td class="tdc"><a onclick="nd();gm('downloadExpMetadata',$testgdb::webUtil::frmData{id});" onmouseover="this.style.cursor='pointer';return overlib('Download Experiment MetaData');" onmouseout="return nd();">DownloadMetadata</a> &nbsp;&nbsp;</td>\n},
+	
+	
+	2) add a subfuction in the info.pm
+	sub downloadExpMetadata {.....}
+	
+	
+	3) add a line in util.pm
+	
+		#czhang July 12, 2013
+		testgdb::accessions::downloadExpMetadata() if ( $testgdb::webUtil::frmData{accinfo} =~ /^downloadExpMetadata/ );
+		
+		
+	4) add subfunction in main.js
+	function downloadMetaData() {.....}
+	
+	

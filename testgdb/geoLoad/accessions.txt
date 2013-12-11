@@ -1,0 +1,59 @@
+GSE26587	The cold-induced two-component system CBO0366/CBO0365 regulates metabolic pathways with novel roles in cold tolerance of Group I Clostridium botulinum ATCC 3502	Clostridium botulinum A str. ATCC 3502	24162575	10/29/2013
+GSE49759	Characterization of the GbdR regulon in Pseudomonas aeruginosa	Pseudomonas aeruginosa	24097953	10/23/2013
+GSE43025	Transcriptional profiles of Campylobacter jejuni macrolide resistant strain JL272 to 4mg/L erythromycin treatment	Campylobacter jejuni	23767761	10/10/2013
+GSE43024	Transcriptional profiles of Campylobacter jejuni NCTC 11168 to 0.125mg/L erythromycin treatment	Campylobacter jejuni; Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819	23767761	10/10/2013
+GSE43023	Transcriptional profiles of Campylobacter jejuni NCTC 11168 to 4mg/L erythromycin treatment	Campylobacter jejuni; Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819	23767761	10/10/2013
+GSE22849	Transcriptional analysis of luxS-null strain in Yersinia pestis CO92 at 37°C	Yersinia pestis	23959719	9/5/2013
+GSE22848	Transcription analysis of AI-2 signal add in experiment in Yersinia pestis CO92 at 37°C	Yersinia pestis	23959719	9/5/2013
+GSE22846	Transcriptional analysis of three quorum sensing signals add in experiment inYersinia pestis CO92 at 37°C	Yersinia pestis	23959719	9/5/2013
+GSE21911	Transcriptional analysis of quorum sensing deficient in Yersinia pestis CO92 at 37°C	Yersinia pestis	23959719	9/5/2013
+GSE47448	Metabolism of four ?-glycosidic linkage-containing oligosaccharides by Bifidobacterium breve UCC2003	Bifidobacterium breve UCC2003; Bifidobacterium breve	23913435	8/16/2013
+GSE48429	Genes Required for and Effects of Inducible Alginate Overproduction by Growth of Pseudomonas aeruginosa on PIAAMV	Pseudomonas aeruginosa	23794622	7/15/2013
+GSE44688	Global Rsh-dependent transcription profile of Brucella suis during stringent response unravels adaptation to nutrient starvation and cross-talk with other stress responses.	Brucella melitensis; Brucella suis 1330	23834488	7/8/2013
+GSE44125	Expression analysis of sporulating Bacillus subtilis strain 168 deleted for prpE gene	Bacillus subtilis subsp. subtilis str. 168	23824080	7/8/2013
+GSE43659	Enterohemorrhagic Escherichia coli (EHEC) 8624 double deletions of kdpe and cra grown in DMEM	Escherichia coli 8624; Escherichia coli	23524613	7/3/2013
+GSE36442	Functional genomic analyses of Bifidobacterium bifidum PRL2010 highlight how this microorganism interact with the human host	Bifidobacterium bifidum PRL2010; Bifidobacterium bifidum	23776216	7/1/2013
+GSE41189	Expression analysis of Escherichia coli MG1655 K-12 WT and ?fnr mutant	Escherichia coli str. K-12 substr. MG1655star; Escherichia coli K-12	23818864	6/20/2013
+GSE47834	Mycobacterium tuberculosis ESX-3 conditional mutant expression	Mycobacterium tuberculosis	24155985	6/12/2013
+GSE42151	TCA1 Stimulon in Mycobacterium tuberculosis	Mycobacterium tuberculosis; Mycobacterium tuberculosis H37Rv	23776209	5/24/2013
+GSE42293	Vitamin C Stimulon in Mycobacterium tuberculosis	Mycobacterium tuberculosis; Mycobacterium tuberculosis H37Rv	23695675	5/24/2013
+GSE47165	Identification of Salmonella genes regulated by STM2239	Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344; Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S	23630960	5/23/2013
+GSE38179	Vibrio cholerae Freezing Study	Vibrio cholerae	12050664	5/23/2013
+GSE42905	Legionella pneumophila transcriptomic response of hfq mutant during post-exponential phase	Legionella pneumophila; Legionella pneumophila subsp. pneumophila str. Philadelphia 1	23728622	5/21/2013
+GSE43824	Transcriptome of A. pleuropneumoniae biofilms cultured under different growth conditions	Actinobacillus pleuropneumoniae; Actinobacillus pleuropneumoniae serovar 5b str. L20	23725589	5/20/2013
+GSE43823	Characterization of the transcriptomes Actinobacillus pleuropneumoniae drip flow biofilm dripflow biofilm	Actinobacillus pleuropneumoniae; Actinobacillus pleuropneumoniae serovar 5b str. L20	23725589	5/20/2013
+GSE43822	Comparison between the transcriptomes of 4h static biofilm and a 6h static biofilm of Actinobacillus pleuropneumoniae	Actinobacillus pleuropneumoniae; Actinobacillus pleuropneumoniae serovar 5b str. L20	23725589	5/20/2013
+GSE43821	Transcriptome of 6h static biofilm Actinobacillus pleuropneumoniae	Actinobacillus pleuropneumoniae serovar 5b str. L20; Actinobacillus pleuropneumoniae	23725589	5/20/2013
+GSE43820	Transcriptome of 4h static biofilm Actinobacillus pleuropneumoniae	Actinobacillus pleuropneumoniae; Actinobacillus pleuropneumoniae serovar 5b str. L20	23725589	5/20/2013
+GSE47012	Analysis of the effect of acid stress in Lactococcus lactis MG1363	Lactococcus lactis subsp. cremoris MG1363	23844205	5/17/2013
+GSE35060	Physiological and transcriptional response of Bacillus cereus treated with low-temperature nitrogen gas plasma	Bacillus cereus ATCC 14579; Bacillus cereus	23758316	5/6/2013
+GSE40304	Genome conformation capture reveals that the Escherichia coli chromosome is organized by replication and transcription	Escherichia coli str. K-12 substr. MG1655	23632166	5/1/2013
+GSE41966	Legionella pneumophila transcriptomic response to CuO nanoparticles	Legionella pneumophila; Legionella pneumophila subsp. pneumophila str. Philadelphia 1	23416998	3/4/2013
+GSE43641	Expression data from Pseudomonas aeruginosa PAO1 treated with phenylacetic acid	Pseudomonas aeruginosa PAO1; Pseudomonas aeruginosa	23555919	2/21/2013
+GSE43345	Cellobiose-mediated gene expression in Streptococcus pneumoniae and the repressor function of the novel GntR-type regulator BguR	Streptococcus pneumoniae D39	23469031	2/20/2013
+GSE43344	Cellobiose vs Glucose at time point T2	Streptococcus pneumoniae D39	23469031	2/20/2013
+GSE43343	Cellobiose vs Glucose at time point T1	Streptococcus pneumoniae D39	23469031	2/20/2013
+GSE43342	Streptococcus pneumoniae bguR mutant vs wild-type D39	Streptococcus pneumoniae D39	23469031	2/20/2013
+GSE41891	Gene expression profiling of a nisin-sensitive Listeria monocytogenes Scott A ctsR deletion mutant	Listeria monocytogenes str. Scott A; Listeria monocytogenes	23494707	2/14/2013
+GSE41926	"Gene expression analysis of Pseudomonas aeruginosa wild type, delta-gbdR, and delta-plcHR deletion mutants"	Pseudomonas aeruginosa; Pseudomonas aeruginosa PAO1	23667230	1/1/2013
+GSE38632	The rpoS transcriptome of Pseudomonas protegens Pf-5 grown in rich medium	Pseudomonas protegens; Pseudomonas protegens Pf-5	23297839	12/31/2012
+GSE41606	Transcriptome of DTAC-resistant Salmonella Enteritidis	Salmonella enterica; Salmonella enterica subsp. enterica serovar Enteritidis	23377943	12/31/2012
+GSE42674	Comparison between V. cholerae MO10 delta PTS mutant and wild type strain grown as planktonic or surface-associated cells	Vibrio cholerae MO10; Vibrio cholerae	23728818	12/10/2012
+GSE42013	D. shibae luxI1	Dinoroseobacter shibae DFL 12	23823498	11/3/2012
+GSE39044	Regulon of transcriptional regulator PA2449 in Pseduomonas aeruginosa PAO1	Pseudomonas aeruginosa; Pseudomonas aeruginosa PAO1	23457254	10/15/2012
+GSE35070	Comparison of the expression profiles of 630E JIR8094 strain and a ccpA mutant after 10h of growth in TY with 0.5% glucose.	[Clostridium] difficile	22989714	10/2/2012
+GSE37998	Effect of virX regulator on the expression of chromosomal genes of Clostridium perfringens	Clostridium perfringens str. 13	23585540	10/1/2012
+GSE29337	Transcriptome analysis of the WalKR regulon in Staphylococcus aureus	Staphylococcus aureus; Staphylococcus aureus subsp. aureus NCTC 8325	22825451	9/13/2012
+GSE40598	Role of a GntR-family response regulator LbrA in Listeria monocytogenes biofilm formation	Listeria monocytogenes	23894658	9/6/2012
+GSE30679	Escherichia coli glutathionylspermidine: Phylogeny and regulation of gene expression	Escherichia coli	23106382	7/12/2012
+GSE27558	Burkholderia pseudomallei transcriptional adaptation in macrophage	Burkholderia pseudomallei; Burkholderia pseudomallei K96243	22823543	12/31/2011
+GSE474	Comparison of the expression profiles of 630E strain after 4h and 10h of growth	[Clostridium] difficile	21572003	8/22/2011
+GSE28306	Expression data from Burkholderia multivorans cystic fibrosis clinical isolates	Burkholderia multivorans; Burkholderia multivorans ATCC 17616; Burkholderia cenocepacia J2315	21835880	8/22/2011
+GSE30568	Burkholderia cepacia complex and cystic fibrosis (CF) patients	Burkholderia multivorans; Burkholderia multivorans ATCC 17616; Burkholderia cenocepacia J2315	21835880	8/22/2011
+GSE16352	Transcriptional analysis of the Neisseria gonorrhoeae Fur regulon	Neisseria gonorrhoeae; Neisseria gonorrhoeae FA 1090; Neisseria meningitidis	19854902	1/1/2010
+GSE16162	Differential expression of whole transcriptome in Synechocystis sp. PCC 6803	Synechocystis sp. PCC 6803	21245330	5/20/2009
+GSE871	Microarray Transcriptome Comparison Subzero Temperature and Optimal Temperature Growth in Psychrobacter arcticus 273-4	Psychrobacter arcticus 273-4	19168616	12/10/2008
+GSE10647	DsbA plays a critical and multi-faceted role in the production of secreted virulence factors by Erwinia carotovora	Pectobacterium atrosepticum; Pectobacterium carotovorum	18562317	8/26/2008
+GSE5480	Global response of Silicibacter pomeroyi strain DSS3 to dimethyl sulfoniopropionate (DMSP)	Ruegeria pomeroyi; Ruegeria pomeroyi DSS-3	17922758	12/9/2007
+GSE4387	Comparison of the genome-sequenced variant of Campylobacter jejuni NCTC 11168 and the original clonal clinical isolate	Campylobacter jejuni	14702320	12/31/2005
+GSE840	Bacillus anthracis Stern 34F2 sporulation	Bacillus anthracis	14679236	1/8/2004

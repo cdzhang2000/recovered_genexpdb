@@ -1,0 +1,23 @@
+PATRIC info
+16 Feb 2012
+
+Data:
+ /srv/GeneExpDB
+
+
+
+17 May 2012
+
+GSE1730
+
+OU platform
+ID_Ref	Gene	LTAG	CY5	Cy5	Value
+0		1		2		3	4	5			column
+
+VBI platform
+ID_Ref	CY5	Cy5	Value
+0		1	2	3							column
+
+Change pexpParms.txt columns
+3 --> 1
+4 --> 2

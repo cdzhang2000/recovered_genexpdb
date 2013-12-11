@@ -1,0 +1,4 @@
+GSE533	GSM8112,GSM8113,GSM8114/GSM7886,GSM8110,GSM8111		Escherichia coli	S1	M1	temperature	mid log phase culture      / mid log phase culture     
+GSE533	GSM8115,GSM8116,GSM8117/GSM7886,GSM8110,GSM8111		Escherichia coli	S2	M2	temperature	mid log phase culture      / mid log phase culture     
+GSE533	GSM8118,GSM8119,GSM8120/GSM7886,GSM8110,GSM8111		Escherichia coli	S3	M3	temperature	mid log phase culture      / mid log phase culture     
+

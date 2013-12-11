@@ -1,0 +1,180 @@
+================================================================================================================================
+OUMAIN.js
+
+function hmclk
+...
+ADD...
+function expplot(type,expmid,accnid,nsd) {
+	//experiment plot
+	rec = document.getElementById('expplot'+accnid);
+	rec.innerHTML = '<div align="center"><img src="/web/images/running.gif" alt=""></div>';
+	sendRequest('/gdb/', 'ajax=plot&plot=expplot&type='+type+'&expmid='+expmid+'&accnid='+accnid+'&nsd='+nsd);
+	rec.className = 'showrec';
+}
+
+================================================================================================================================
+UTIL.pm
+	if ( $gdb::webUtil::frmData{plot} ) {
+		gdb::plot::scatterPlot() if ( $gdb::webUtil::frmData{plot} =~ /^splot/ );
+		gdb::plot::linePlot() if ( $gdb::webUtil::frmData{plot} =~ /^lplot/ );
+		gdb::plot::viewpdata() if ( $gdb::webUtil::frmData{plot} =~ /^pdata/ );
+ADD		gdb::plot::expplot() if ( $gdb::webUtil::frmData{plot} =~ /^expplot/ );
+	}
+
+================================================================================================================================
+ACCESSIONS.pm
+
+sub accinfo
+
+	#hidden info
+	  qq{<div class="hidden" id="providers$gdb::webUtil::frmData{id}"></div>\n},
+	  qq{<div class="hidden" id="summary$gdb::webUtil::frmData{id}"></div>\n},
+	  qq{<div class="hidden" id="expdesign$gdb::webUtil::frmData{id}"></div>\n},
+	  qq{<div class="hidden" id="arraydesign$gdb::webUtil::frmData{id}"></div>\n},
+	  qq{<div class="hidden" id="sampinfo$gdb::webUtil::frmData{id}"></div>\n},
+ADD	  qq{<div class="hidden" id="expplot$gdb::webUtil::frmData{id}"></div>\n},
+	  qq{<div class="hidden" id="expinfo$gdb::webUtil::frmData{id}"></div>\n},
+	  qq{<div class="hidden" id="curated$gdb::webUtil::frmData{id}"></div>\n},
+	  qq{<div class="hidden" id="expdata$gdb::webUtil::frmData{id}"></div>\n};
+	  
+	  
+sub expinfo
+
+	print qq{<th class="thc">EXPERIMENT NAME</th>\n},
+ADD	  qq{<th class="thc">PLOT</th>\n},
+	  qq{<th class="thc">SAMPLES</th>\n},
+	  
+	  
+		if ( $gdb::webUtil::useracclevel > 2 ) {
+			print qq{<td class="tdl"><input class="tdl" type="text" size="80" maxlength="250" name="chgExpName$expid$expmID" value="$dbexpInfo{$id}{expname}"></td>\n};
+		} else {
+			print qq{<td class="tdl">$dbexpInfo{$id}{expname}</td>\n};
+		}
+
+ADD		#plot
+ADD		print qq{<td class="tdc"><a onclick="expplot('scatter','$expmID','$expid');" onmouseover="this.style.cursor='pointer';return overlib('Scatter plot');" onmouseout="return nd();">Scatter</a></td>\n};
+		
+		print qq{<td class="tdl">$dbexpInfo{$id}{samples}</td>\n};
+	  
+================================================================================================================================
+ORACLE.pm
+
+ADD
+
+#----------------------------------------------------------------------
+# get experiment mean
+# input: experiment ID
+# return: ref to plot data
+#----------------------------------------------------------------------
+sub dbgetExpMean {
+	my ($expid) = @_;
+
+	$sql = qq{ select avg(pratio) mean from pdata where pexp_id=? and pratio is not null };
+	$sth = $dbh->prepare($sql);
+	$sth->execute($expid);
+
+	my ($mean);
+	$sth->bind_columns( \$mean );
+	$row = $sth->fetchrow_arrayref;
+	
+	return $mean;
+}
+
+
+
+================================================================================================================================
+PLOT.pm
+
+ADD
+
+#----------------------------------------------------------------------
+# display Experiment plot
+# input: none
+# return: none
+#----------------------------------------------------------------------
+sub expplot {
+
+	my $parms = gdb::webUtil::getSessVar( 'parms' );
+
+	my $type   = ( $gdb::webUtil::frmData{type} )    ? $gdb::webUtil::frmData{type}    : '';
+	my $expmid   = ( $gdb::webUtil::frmData{expmid} )    ? $gdb::webUtil::frmData{expmid}    : '';
+	my $accessionid   = ( $gdb::webUtil::frmData{accnid} )    ? $gdb::webUtil::frmData{accnid}    : '';
+	my $nsd     = ( $gdb::webUtil::frmData{nsd} =~ /undefined/ ) ? 2 : $gdb::webUtil::frmData{nsd};
+
+	my $hmcnt   =  $expmid;
+	my $expid   = $expmid;
+	my $gene    = '';
+	my $selGene = '';
+	my $qryall  = '';
+	
+	my ( $dbExpmRecRef ) = gdb::oracle::dbgetExpmPlotInfo();    #get all experiment info
+	my %dbExpmRec = %$dbExpmRecRef;
+
+	my ( $accnid, $accession, $expname, $std, $platform );
+	for my $i ( keys %dbExpmRec ) {
+		if ( $dbExpmRec{$i}{id} == $expid ) {
+			$accnid    = $dbExpmRec{$i}{expid};
+			$accession = $dbExpmRec{$i}{accession};
+			$expname   = $dbExpmRec{$i}{expname};
+			$std       = $dbExpmRec{$i}{std};
+			$platform  = $dbExpmRec{$i}{platform};
+		}
+	}
+	my $stdDev2 = $nsd * $std;
+
+	my ( $plotFile, $pmap, $upregRef, $dnregRef, $datacnt ) = createScatterPlot( $expid, $gene, $selGene, $std, $nsd, $platform );
+	my %upreg = %$upregRef;
+	my $upcnt = keys %$upregRef;
+	my %dnreg = %$dnregRef;
+	my $dncnt = keys %$dnregRef;
+
+	my $expmean = gdb::oracle::dbgetExpMean($expid);    #get experiment mean
+	$expmean   = sprintf( "%.3f", $expmean );
+	
+	my $pos = ( $parms->{wrap} == 1 ) ? 'center' : 'left';
+	print
+	  qq{<hr>\n},
+	  qq{<table class="small" align="$pos">\n},
+	  qq{<tr><td class="tdl"><a class="exmp" onclick="sh('expplot$accnid');" onmouseover="this.style.cursor='pointer';return overlib('click to close');" onmouseout="return nd();">close</a></td></tr>\n},
+	  qq{<tr><td class="tdc">$accession</td></tr>\n},
+	  qq{<tr><td class="tdc">$expname</td></tr>\n},
+	  qq{<tr><td class="tdc">Data Count: $datacnt  &nbsp;&nbsp;&nbsp; Mean: $expmean</td></tr>\n},
+	  qq{<tr>\n},
+	  qq{<td class="tdc"><img alt="" src="/tmpimage/$plotFile" border="1" usemap="#$expid$selGene"></td>\n},
+	  qq{</tr>\n},
+
+	  qq{<tr>\n},
+
+	  qq{<td class="tdl">\n}, 
+	  qq{<select class="small" onChange="replot('$expid',this.options[this.selectedIndex].value,document.mainFrm.nsd.value);" onmouseover="return overlib('Up regulated, sorted by ratio');" onmouseout="return nd();">\n}, 
+	  qq{<option value="" selected>UpReg($upcnt)</option>\n};
+
+	for my $ratio ( sort { lc($b) cmp lc($a) } keys %upreg ) {
+		print qq{<option value="$upreg{$ratio}{ltag}">$upreg{$ratio}{gene}</option>\n};
+	}
+	
+	print
+	  qq{</select>\n},
+
+	  qq{&nbsp;&nbsp;&nbsp; <select class="small" onChange="replot('$expid',this.options[this.selectedIndex].value,document.mainFrm.nsd.value);" onmouseover="return overlib('Down regulated, sorted by ratio');" onmouseout="return nd();">\n}, 
+	  qq{<option value="" selected>DnReg($dncnt)</option>\n};
+
+	for my $ratio ( sort { lc($a) cmp lc($b) } keys %dnreg ) {
+		print qq{<option value="$dnreg{$ratio}{ltag}">$dnreg{$ratio}{gene}</option>\n};
+	}
+
+	print
+	  qq{</select>\n},
+
+	  qq{&nbsp;&nbsp;&nbsp; Green line = StdDev(sum of ratio) ($std) * }, qq{<input class="nsd" type="text" size="3" maxlength="3" name="nsd" value="$nsd"> = $stdDev2 },
+
+	  qq{&nbsp;&nbsp;&nbsp; <input class="ebtn" type="button" name="chgstddev" value="Change StdDev" onclick="expplot('scatter','$expid','$accessionid',document.mainFrm.nsd.value);" onmouseover="return overlib('Enter new value and click to change StdDev green line');" onmouseout="return nd();">},
+	  qq{&nbsp;&nbsp;&nbsp; <input class="ebtn" type="button" name="viewpdata" value="View Data" onclick="pdata('$hmcnt','$expid','$selGene');" onmouseover="return overlib('View plot data');" onmouseout="return nd();">},
+	  qq{</td>\n},
+	  qq{</tr>\n},
+	  qq{</table>\n}, 
+	  qq{<map name="$expid$selGene">$pmap</map>\n}, 
+	  
+	  qq{<br/>\n};
+	print qq{<div class="hidden" id="pdata$hmcnt">\n};
+}

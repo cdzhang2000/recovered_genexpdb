@@ -1,0 +1,1336 @@
+GSE7	5 min in minimal medium +0.2% glu / 0 min in minimal medium +0.2% glu...	0.977	done.
+GSE7	5 min in minimal medium +0.2% glu + 50ug/ml Trp / 0 min in minimal medium +0.2% glu...	0.934	done.
+GSE7	5 min 10 ug/ml indole acrylate minimal medium / 0 min minimal medium...	0.563	done.
+GSE7	5 min 15 ug/ml indole acrylate minimal medium / 0 min minimal medium...	0.657	done.
+GSE7	10 min 10 ug/ml indole acrylate minimal medium / 0 min minimal medium...	0.585	done.
+GSE7	10 min 15 ug/ml indole acrylate minimal medium / 0 min minimal medium...	0.703	done.
+GSE7	15 min in minimal medium +0.2% glu / 0 min in minimal medium +0.2% glu...	0.935	done.
+GSE7	15 min in minimal medium +0.2% glu + 50ug/ml Trp / 0 min in minimal medium +0.2% glu...	0.797	done.
+GSE7	30 min in minimal medium +0.2% glu / 0 min in minimal medium +0.2% glu...	0.934	done.
+GSE7	30 min in minimal medium + 0.2% glu + 50ug/ml Trp / 0 min in minimal medium + 0.2% glu...	0.901	done.
+GSE7	30 min 10 ug/ml indole acrylate minimal medium / 0 min minimal medium...	0.618	done.
+GSE7	30 min 15 ug/ml indole acrylate minimal medium / 0 min minimal medium...	0.842	done.
+GSE7	60 min in minimal medium +0.2% glu / 0 min in minimal medium +0.2% glu...	0.831	done.
+GSE7	60 min in minimal medium +0.2% glu + 50ug/ml Trp / 0 min in minimal medium +0.2% glu...	0.836	done.
+GSE7	60 min minimal medium + 0.2% glu / 0 min minimal medium + 0.2% glu...	0.536	done.
+GSE7	60 min minimal medium + 0.2% glu+ 50ug/ml Trp / 0 min minimal medium + 0.2% glu...	0.664	done.
+GSE7	60 min 10 ug/ml indole acrylate minimal medium / 0 min minimal medium...	0.596	done.
+GSE7	60 min 15 ug/ml indole acrylate minimal medium / 0 min minimal medium...	0.910	done.
+GSE7	tnaA minimal +50 ug/ml Trp / genomic DNA...	1.731	done.
+GSE7	trpR tnaA minimal +50 ug/ml Trp/ genomic DNA...	1.612	done.
+GSE7	TESING 2DMEAN VS CONT 1DMEAN...	0.977	done.
+GSE7	W3110 wt + trp / W3110 wt - trp...	0.362	done.
+GSE7	tnaA trpR minimal +50 ug/ml Trp / tnaA minimal +Trp 50ug/ml...	0.557	done.
+GSE7	trpR minimal + 0.2% glucose / WT minimal + 0.2% glucose...	0.655	done.
+GSE7	trpR + 50 ug/ml Trp / WT + 50 ug/ml Trp...	0.846	done.
+GSE7	W3110 trpR2 + trp / W3110 trpR2 - trp...	0.227	done.
+GSE7	trpEA trpR minimal +50 ug/ml Trp / trpEA minimal +50ug/ml Trp...	0.612	done.
+GSE7	tnaA trpA46PR9 = trpA bradytroph minimal / tnaA minimal...	0.551	done.
+GSE9	WT 5 min after 1 min UV treatment / WT 0 min before UV treatment...	0.810	done.
+GSE9	lexA 5 min after 1 min UV treatment / WT 0 min before UV treatment...	0.316	done.
+GSE9	WT 10 min after 1 min UV treatment / WT 0 min before UV treatment...	0.837	done.
+GSE9	lexA 10 min after 1 min UV treatment / WT 0 min before UV treatment...	0.271	done.
+GSE9	WT 20 min untreated cells / WT 0 min before UV treatment...	0.617	done.
+GSE9	WT 20 min after 1 min UV treatment / WT 0 min before UV treatment...	0.883	done.
+GSE9	lexA 20 min untreated cells / WT 0 min before UV treatment...	0.218	done.
+GSE9	lexA 20 min after 1 min UV treatment / WT 0 min before UV treatment...	0.278	done.
+GSE9	WT 40 min after 1 min UV treatment / WT 0 min before UV treatment...	0.713	done.
+GSE9	lexA 40 min after 1 min UV treatment / WT 0 min before UV treatment...	0.321	done.
+GSE9	WT 60 min untreated cells / WT 0 min before UV treatment...	0.724	done.
+GSE9	WT 60 min after 1 min UV treatment / WT 0 min before UV treatment...	0.594	done.
+GSE9	lexA 60 min untreated cells / WT 0 min before UV treatment...	0.239	done.
+GSE9	lexA 60 min after 1 min UV treatment / WT 0 min before UV treatment...	0.377	done.
+GSE9	lexA 0 min before UV treatment / WT 0 min before UV treatment ...	0.155	done.
+GSE33	10 min with 0.3 ug/ml mitomycin C / 0 min no MMC...	0.669	done.
+GSE33	25 min with 0.3 ug/ml mitomycin C / 0 min no MMC...	0.360	done.
+GSE33	40 min normal growth / 0 min normal growth...	0.356	done.
+GSE33	40 min with 0.3 ug/ml mitomycin C / 0 min no MMC...	0.604	done.
+GSE33	10 min exposure to 3.0 ug/ml mitomycin C followed by 50 min growth / 0 min no MMC...	0.585	done.
+GSE33	10 min exposure to 3.0 ug/ml mitomycin C followed by 70 min growth / 0 min no MMC...	0.614	done.
+GSE33	80 min normal growth / 0 min normal growth...	0.315	done.
+GSE33	80 min with 0.3 ug/ml mitomycin C / 0 min no MMC...	0.405	done.
+GSE533	high temperature evolved line 42-1 / Ancestor...	2.249	done.
+GSE533	high temperature evolved line 42-2 / Ancestor...	2.367	done.
+GSE533	high temperature evolved line 42-3 / Ancestor...	2.247	done.
+GSE1121	appY Aerobic / WT Aerobic...	0.472	done.
+GSE1121	arcA Aerobic / WT Aerobic...	0.357	done.
+GSE1121	arcA fnr Aerobic / WT Aerobic...	0.493	done.
+GSE1121	fnr Aerobic / WT Aerobic...	0.447	done.
+GSE1121	oxyR Aerobic / WT Aerobic...	0.521	done.
+GSE1121	soxS Aerobic / WT Aerobic...	0.343	done.
+GSE1121	appY Anaerobic / WT Anaerobic...	0.429	done.
+GSE1121	arcA Anaerobic / WT Anaerobic...	0.680	done.
+GSE1121	arcA fnr Anaerobic / WT Anaerobic...	0.905	done.
+GSE1121	fnr Anaerobic / WT Anaerobic...	0.715	done.
+GSE1121	oxyR Anaerobic / WT Anaerobic...	0.278	done.
+GSE1121	soxS Anaerobic / WT Anaerobic...	0.437	done.
+GSE1121	Anaerobic WT / Aerobic WT...	0.813	done.
+GSE1154	MG1655 + F-plasmid / MG1655...	0.685	done.
+GSE1154	DH5-alpha + F-plasmid / DH5-alpha...	0.745	done.
+GSE1421	melR* / melR mutant...	0.269	done.
+GSE1730	mRNA abundance WT on LB / Genomic DNA from dnaC(ts) mutant...<font color="red">Problems running normalize!</font>
+done.
+GSE1730	mRNA abundance WT on LB / Genomic DNA from dnaC(ts) mutant (dye swap)...<font color="red">Problems running normalize!</font>
+done.
+GSE1730	mRNA abundance gyrA D82G mutant on LB / Genomic DNA from dnaC(ts) mutant...<font color="red">Problems running normalize!</font>
+done.
+GSE1730	mRNA abundance gyrA D82G mutant on LB / Genomic DNA from dnaC(ts) mutant (dye swap)...<font color="red">Problems running normalize!</font>
+done.
+GSE1730	mRNA abundance (wt in LB, norfloxacin for 10 min)  / Genomic DNA from dnaC(ts) mutant...<font color="red">Problems running normalize!</font>
+done.
+GSE1730	mRNA abundance (wt in LB, norfloxacin for 10 min) / Genomic DNA from dnaC(ts) mutant (dye swap)...<font color="red">Problems running normalize!</font>
+done.
+GSE1730	mRNA abundance (wt in LB, norfloxacin for 30 min) / Genomic DNA from dnaC(ts) mutant...<font color="red">Problems running normalize!</font>
+done.
+GSE1730	mRNA abundance (wt in LB, norfloxacin for 30 min) / Genomic DNA from dnaC(ts) mutant (dye swap)...<font color="red">Problems running normalize!</font>
+done.
+GSE1730	mRNA abundance (gyrA D82G, LB) / mRNA abundance (wt, LB)...<font color="red">Problems running normalize!</font>
+done.
+GSE1730	mRNA abundance (gyrA D82G, LB) / mRNA abundance (wt, LB) (dye swap)...<font color="red">Problems running normalize!</font>
+done.
+GSE1730	mRNA abundance (wt, M9) / Genomic DNA from dnaC(ts) mutant...<font color="red">Problems running normalize!</font>
+done.
+GSE1780	2mM copper / no added copper...	0.679	done.
+GSE1780	0.75mM added copper / no added copper...	0.545	done.
+GSE1780	no added copper / no added copper...	0.416	done.
+GSE1981	DM medium / LB medium...	0.391	done.
+GSE2037	glycerol / glucose...	0.630	done.
+GSE2037	succinate / glucose...	0.608	done.
+GSE2037	alanine / glucose...	0.757	done.
+GSE2037	acetate / glucose...	0.895	done.
+GSE2037	proline / glucose...	0.956	done.
+GSE2095	Aerobic steady-state 200uM GSNO for 5 minutes / No GSNO (Chemostat 1)...	0.429	done.
+GSE2095	Aerobic steady-state 200uM GSNO for 5 minutes / No GSNO (Chemostat 1 dye swap)...	0.437	done.
+GSE2095	Aerobic steady-state 200uM GSNO for 5 minutes / No GSNO (Chemostat 2)...	0.633	done.
+GSE2095	Aerobic steady-state 200uM GSNO for 5 minutes / No GSNO (Chemostat 2 dye swap)...	0.501	done.
+GSE2129	SAnaerobic steady-state 200uM GSNO for 5 minutes / No GSNO (Run 1)...	0.751	done.
+GSE2129	Anaerobic steady-state 200uM GSNO for 5 minutes / No GSNO (Run 1 dye swap)...	0.639	done.
+GSE2129	Anaerobic steady-state 200uM GSNO for 5 minutes / No GSNO (Run 2)...	0.578	done.
+GSE2129	Anaerobic steady-state 200uM GSNO for 5 minutes / No GSNO (Run 2 dye swap)...	0.586	done.
+GSE2140	5 min sigma32 induction / Control...	0.800	done.
+GSE2140	10 min sigma32 induction / Control...	0.876	done.
+GSE2140	15 min sigma32 induction / Control...	0.868	done.
+GSE2694	IS5 deletion / WT Motile strain...	0.178	done.
+GSE2694	IS5 deletion / WT Non-motile strain...	0.238	done.
+GSE2694	WT Non-motile strain / WT Motile strain...	0.363	done.
+GSE2827	PHMB exposed  / unexposed...	2.599	done.
+GSE2928	dam / WT...	0.403	done.
+GSE2928	dam mutS / WT...	0.391	done.
+GSE2928	mutS / WT...	0.296	done.
+GSE2999	dam  / WT...	0.598	done.
+GSE2999	dam mutS  / WT...	0.564	done.
+GSE2999	mutS  / WT...	0.433	done.
+GSE2999	dam mutS, cisplatin treated / WT cisplatin treated...	0.581	done.
+GSE2999	dam, cisplatin treated / WT cisplatin treated...	0.637	done.
+GSE2999	mutS, cisplatin treated / WT cisplatin treated...	0.423	done.
+GSE3105	WT pBAD-ryhB / WT pNM12 control...	0.635	done.
+GSE3105	fur pBAD-ryhB  / fur pNM12 control...	0.412	done.
+GSE3105	WT pBAD-ryhB +FeSO4 + / WT pNM12 control +FeSO4...	0.620	done.
+GSE3123	rne pRNG3 / WT pPM30...	0.768	done.
+GSE3123	rne pNRNE5 / WT pPM30...	0.720	done.
+GSE3123	rng / WT pPM30 Trial A...	0.338	done.
+GSE3123	rne pBADRNE / WT pPM30...	0.557	done.
+GSE3123	WT pRNG3 / WT pPM30...	0.375	done.
+GSE3123	rng / WT pPM30 Trial B...	0.341	done.
+GSE3123	rne pBAD-RNE without Arabinose / WT...	0.503	done.
+GSE3250	5 min glucose to acetate shift (WT) / WT reference (Exp 1)...	0.654	done.
+GSE3250	5 min glucose to acetate shift (WT) / WT reference (Exp 2)...	0.829	done.
+GSE3250	5 min glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 1)...	0.958	done.
+GSE3250	15 min glucose to acetate shift (WT) / WT reference (Exp 1)...	0.943	done.
+GSE3250	15 min glucose to acetate shift (WT) / WT reference (Exp 2)...	0.819	done.
+GSE3250	15 min glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 1)...	1.189	done.
+GSE3250	30 min glucose to acetate shift (WT) / WT reference (Exp 1)...	1.018	done.
+GSE3250	30 min glucose to acetate shift (WT) / WT reference (Exp 2)...	0.792	done.
+GSE3250	30 min glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 1)...	1.244	done.
+GSE3250	1 hour glucose to acetate shift (WT) / WT reference (Exp 1)...	1.176	done.
+GSE3250	1 hour glucose to acetate shift (WT) / WT reference (Exp 3)...	1.438	done.
+GSE3250	1 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 1)...	0.846	done.
+GSE3250	1 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 2)...	0.870	done.
+GSE3250	1 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 3)...	1.057	done.
+GSE3250	2 hour glucose to acetate shift (WT) / WT reference (Exp 1)...	0.921	done.
+GSE3250	2 hour glucose to acetate shift (WT) / WT reference (Exp 3)...	1.213	done.
+GSE3250	2 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 1)...	0.704	done.
+GSE3250	2 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 2)...	0.820	done.
+GSE3250	2 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 3)...	0.749	done.
+GSE3250	3 hour glucose to acetate shift (WT) / WT reference (Exp 1)...	0.707	done.
+GSE3250	3 hour glucose to acetate shift (WT) / WT reference (Exp 3)...	1.063	done.
+GSE3250	3 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 1)...	0.687	done.
+GSE3250	3 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 2)...	0.819	done.
+GSE3250	3 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 3)...	0.683	done.
+GSE3250	4 hour glucose to acetate shift (WT) / WT reference (Exp 1)...	0.625	done.
+GSE3250	4 hour glucose to acetate shift (WT) / WT reference (Exp 3)...	0.936	done.
+GSE3250	4 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 1)...	0.680	done.
+GSE3250	4 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 2)...	0.885	done.
+GSE3250	4 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 3)...	0.558	done.
+GSE3250	5 hour glucose to acetate shift (WT) / WT reference (Exp 1)...	1.092	done.
+GSE3250	5 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 1)...	0.625	done.
+GSE3250	5 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 2)...	0.819	done.
+GSE3250	6 hour glucose to acetate shift (WT) / WT reference (Exp 1)...	0.963	done.
+GSE3250	6 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 1)...	0.591	done.
+GSE3250	6 hour glucose to acetate shift (ppsA mutant) / ppsA reference (Exp 2)...	0.778	done.
+GSE3283	WT + Leu / WT - Leu...	0.697	done.
+GSE3283	lrp + Leu / WT - Leu...	0.794	done.
+GSE3283	lrp - Leu / WT - Leu...	0.714	done.
+GSE3283	lrp + Leu / lrp - Leu...	0.704	done.
+GSE3437	RpoE induced (2.5 min) / Wild type control (2.5 min) Expt 3...	0.395	done.
+GSE3437	RpoE induced (2.5 min) / Wild type control (2.5 min) Expt 4...	0.623	done.
+GSE3437	RpoE induced (5 min) / Wild type control (5 min) Expt 1...	0.556	done.
+GSE3437	RpoE induced (5 min) / Wild type control (5 min) Expt 2...	0.506	done.
+GSE3437	RpoE induced (5 min) / Wild type control (5 min) Expt 3...	0.364	done.
+GSE3437	RpoE induced (5 min) / Wild type control (5 min) Expt 4...	0.596	done.
+GSE3437	RpoE induced (10 min) / Wild type control (10 min) Expt 3...	0.405	done.
+GSE3437	RpoE induced (10 min) / Wild type control (10 min) Expt 4...	0.613	done.
+GSE3437	RpoE induced (15 min) / Wild type control (15 min) Expt 1...	0.508	done.
+GSE3437	RpoE induced (15 min) / Wild type control (15 min) Expt 2...	0.568	done.
+GSE3437	RpoE induced (20 min) / Wild type control (20 min) Expt 3...	0.448	done.
+GSE3437	RpoE induced (20 min) / Wild type control (20 min) Expt 4...	0.698	done.
+GSE3437	RpoE induced (30 min) / Wild type control (30 min) Expt 2...	0.582	done.
+GSE3437	RpoE induced (30 min) / Wild type control (30 min) Expt 3...	0.364	done.
+GSE3437	RpoE induced (60 min) / Wild type control (60 min) Expt 3...	0.427	done.
+GSE3437	RpoE induced (30 min) / Wild type control (30 min) Expt 4...	0.612	done.
+GSE3437	RpoE induced (60 min) / Wild type control (60 min) Expt 1...	0.496	done.
+GSE3437	RpoE induced (60 min) / Wild type control (60 min) Expt 2...	0.627	done.
+GSE3437	RpoE induced (60 min) / Wild type control (60 min) Expt 4...	0.636	done.
+GSE3437	RpoE induced (0 min) / Wild type control (0 min) Expt 3...	0.365	done.
+GSE3437	RpoE induced (0 min) / Wild type control (0 min) Expt 4...	0.378	done.
+GSE3514	ydgG / WT...	0.669	done.
+GSE3591	fnr- aerobic / aerobic reference...	0.571	done.
+GSE3591	WT aerobic / aerobic reference...	0.316	done.
+GSE3591	fnr- anaerobic / aerobic reference...	0.724	done.
+GSE3591	WT anaerobic / aerobic reference...	0.465	done.
+GSE3591	fnr- anaerobic + NO2 / aerobic reference...	0.806	done.
+GSE3591	WT anaerobic + NO2 / aerobic reference...	0.551	done.
+GSE3591	fnr- anaerobic + NO3 / aerobic reference...	0.693	done.
+GSE3591	WT anaerobic + NO3 / aerobic reference...	0.474	done.
+GSE3591	fnr- aerobic / anaerobic reference...	0.960	done.
+GSE3591	WT aerobic / anaerobic reference...	1.056	done.
+GSE3591	fnr- anaerobic / anaerobic reference...	0.822	done.
+GSE3591	WT anaerobic / anaerobic reference...	0.684	done.
+GSE3591	fnr- anaerobic + NO2 / anaerobic reference...	1.074	done.
+GSE3591	WT anaerobic + NO2 / anaerobic reference...	0.831	done.
+GSE3591	fnr- anaerobic + NO3 / anaerobic reference...	0.992	done.
+GSE3591	WT anaerobic + NO3 / anaerobic reference...	0.870	done.
+GSE3591	narXL anaerobic + NO2 / anaerobic reference...	0.872	done.
+GSE3591	narXLP anaerobic + NO2 / anaerobic reference...	0.934	done.
+GSE3665	WT 20 gL EtOH / WT 0 gL EtOH...	0.248	done.
+GSE3665	WT 40 gL EtOH / WT 0 gL EtOH...	0.418	done.
+GSE3905	WT biofilm after 7h of culturing / WT biofilm after 4h of culturing...	0.865	done.
+GSE3905	WT after 7h of suspension culture  / WT after 4h of suspension culture...	0.939	done.
+GSE3905	WT biofilm after 15h of culturing / WT biofilm after 4h of culturing...	1.140	done.
+GSE3905	WT after 15h of suspension culture / WT after 4h of suspension culture...	1.220	done.
+GSE3905	WT biofilm after 24h of culturing / WT biofilm after 4h of culturing...	1.014	done.
+GSE3905	WT after 24h of suspension culture / WT after 4h of suspension culture...	1.216	done.
+GSE3905	WT biofilm after 4h of culturing / WT after 4h of suspension culture...	0.715	done.
+GSE3905	WT biofilm after 7h of culturing / WT after 7h of suspension culture...	0.577	done.
+GSE3905	WT biofilm after 15h of culturing / WT after 15h of suspension culture...	0.647	done.
+GSE3905	WT biofilm after 24h of culturing / WT after 24h of suspension culture...	0.479	done.
+GSE3937	yceP biofilm / WT biofilm...	0.642	done.
+GSE3937	yliH biofilm / WT biofilm...	0.770	done.
+GSE4112	dpiA overexpressor/ wt...	0.176	done.
+GSE4112	dpiA 2-fold overexpressor/ wt...	0.583	done.
+GSE4321	RpoH induced (2.5 min) / Wild type control (2.5 min)...	0.289	done.
+GSE4321	RpoH induced (5 min) / Wild type control (5 min)...	0.392	done.
+GSE4321	RpoH induced (10 min) / Wild type control (10 min)...	0.494	done.
+GSE4321	RpoH induced (20 min) / Wild type control (20 min)...	0.507	done.
+GSE4321	RpoH induced (0 min) / Wild type control (0 min)...	0.281	done.
+GSE4344	WT M9 2 min post rif / WT M9...	0.286	done.
+GSE4344	WT LB 2 min post rif / WT LB...	0.490	done.
+GSE4344	WT M9 4 min post rif / WT M9...	0.489	done.
+GSE4344	WT LB 4 min post rif / WT LB...	0.684	done.
+GSE4344	WT LB 6 min post rif / WT LB...	0.737	done.
+GSE4344	WT M9 6 min post rif / WT M9...	0.566	done.
+GSE4344	WT M9 8 min post rif / WT M9...	0.591	done.
+GSE4344	WT LB 8 min post rif / WT LB...	0.822	done.
+GSE4344	WT LB / Genomic DNA...	1.825	done.
+GSE4344	WT M9-glucose / Genomic DNA...	1.469	done.
+GSE4357	15 min after Ampicillin (100 ug/ml) / 0 min before treatment...	0.446	done.
+GSE4357	30 min after Ampicillin (100 ug/ml) / 0 min before treatment...	0.361	done.
+GSE4357	45 min after Ampicillin (100 ug/ml) / 0 min before treatment...	0.381	done.
+GSE4357	60 min after Ampicillin (100 ug/ml) / 0 min before treatment...	0.377	done.
+GSE4357	75 min after Ampicillin (100 ug/ml) / 0 min before treatment...	0.386	done.
+GSE4357	0 min after Ampicillin (100 ug/ml) / 0 min before treatment...	0.494	done.
+GSE4358	2 min timepoint washed in 0.1 M CaCl2 + 15 % glycerol / before washing in LB...	0.493	done.
+GSE4358	5 min timepoint washed in 0.1 M CaCl2 + 15 % glycerol / before washing in LB...	0.502	done.
+GSE4358	10 min timepoint washed in 0.1 M CaCl2 + 15 % glycerol / before washing in LB...	0.511	done.
+GSE4358	20 min timepoint washed in 0.1 M CaCl2 + 15 % glycerol / before washing in LB...	0.496	done.
+GSE4358	40 min timepoint washed in 0.1 M CaCl2 + 15 % glycerol / before washing in LB...	0.530	done.
+GSE4358	60 min timepoint washed in 0.1 M CaCl2 + 15 % glycerol / before washing in LB...	0.523	done.
+GSE4359	15 min recovery from stationary phase LB + glucose / Bogel-Vonner OD 0.5...	1.022	done.
+GSE4359	30 min recovery from stationary phase LB + glucose / Bogel-Vonner OD 0.5...	0.943	done.
+GSE4359	45 min recovery from stationary phase LB + glucose / Bogel-Vonner OD 0.5...	0.830	done.
+GSE4359	60 min recovery from stationary phase LB + glucose / Bogel-Vonner OD 0.5...	0.866	done.
+GSE4359	75 min recovery from stationary phase LB + glucose / Bogel-Vonner OD 0.5...	0.757	done.
+GSE4359	90 min recovery from stationary phase LB + glucose / Bogel-Vonner OD 0.5...	0.729	done.
+GSE4359	0 min recovery from stationary phase LB + glucose / Bogel-Vonner OD 0.5...	0.924	done.
+GSE4360	5 min after Indol-acrylate (10 ug/ml) / 0 min before treatment...	0.583	done.
+GSE4360	15 min after Indol-acrylate (10 ug/ml) / 0 min before treatment...	0.603	done.
+GSE4360	30 min after Indol-acrylate (10 ug/ml) / 0 min before treatment...	0.627	done.
+GSE4360	60 min after Indol-acrylate (10 ug/ml) / 0 min before treatment...	0.608	done.
+GSE4361	5 min after Indol-acrylate (15 ug/ml) / 0 min before treatment ...	0.641	done.
+GSE4361	15 min after Indol-acrylate (15 ug/ml) / 0 min before treatment...	0.686	done.
+GSE4361	30 min after Indol-acrylate (15 ug/ml) / 0 min before treatment...	0.817	done.
+GSE4361	60 min after Indol-acrylate (15 ug/ml) / 0 min before treatment...	0.875	done.
+GSE4362	15 min after Kanamycin (100 ug/ml) / 0 min before treatment...	0.423	done.
+GSE4362	30 min after Kanamycin (100 ug/ml) / 0 min before treatment...	0.461	done.
+GSE4362	45min after Kanamycin (100 ug/ml) / 0 min before treatment...	0.594	done.
+GSE4362	60 min after Kanamycin (100 ug/ml) / 0 min before treatment...	0.713	done.
+GSE4362	75 min after Kanamycin (100 ug/ml) / 0 min before treatment...	0.727	done.
+GSE4362	0 min after Kanamycin (100 ug/ml) / 0 min before treatment...	0.461	done.
+GSE4363	78 min recovery in LB+0.2% glc / Bonner-Vogel OD~0.5...	0.832	done.
+GSE4363	105 min recovery in LB+0.2% glc / Bonner-Vogel OD~0.5...	0.855	done.
+GSE4363	133 min recovery in LB+0.2% glc / Bonner-Vogel OD~0.5...	0.821	done.
+GSE4363	163 min recovery in LB+0.2% glc / Bonner-Vogel OD~0.5...	0.709	done.
+GSE4363	191 min recovery in LB+0.2% glc / Bonner-Vogel OD~0.5...	0.655	done.
+GSE4363	218 min recovery in LB+0.2% glc / Bonner-Vogel OD~0.5...	0.741	done.
+GSE4363	261 min recovery in LB+0.2% glc / Bonner-Vogel OD~0.5...	0.839	done.
+GSE4363	313 min recovery in LB+0.2% glc / Bonner-Vogel OD~0.5...	0.847	done.
+GSE4363	443 min recovery in LB+0.2% glc / Bonner-Vogel OD~0.5...	0.818	done.
+GSE4363	1440 min recovery in LB+0.2% glc / Bonner-Vogel OD~0.5...	0.830	done.
+GSE4363	0 min recovery in LB+0.2% glc / Bonner-Vogel OD~0.5...	0.908	done.
+GSE4364	15 min recovery / Bonner-Vogel OD~0.5...	0.838	done.
+GSE4364	30 min recovery / Bonner-Vogel OD~0.5...	0.804	done.
+GSE4364	45min recovery / Bonner-Vogel OD~0.5...	0.711	done.
+GSE4364	60 min recovery / Bonner-Vogel OD~0.5...	0.789	done.
+GSE4364	75 min recovery / Bonner-Vogel OD~0.5...	0.711	done.
+GSE4364	90 min recovery / Bonner-Vogel OD~0.5...	0.794	done.
+GSE4364	0 min recovery / Bonner-Vogel OD~0.5...	0.861	done.
+GSE4365	NOX+ 0.13 h-1 / NOX+ 0.06 h-1 ...	0.512	done.
+GSE4365	NOX+ 0.21 h-1 / NOX+ 0.06 h-1 ...	0.382	done.
+GSE4365	NOX+ 0.28 h-1  / NOX+ 0.06 h-1 ...	0.432	done.
+GSE4365	NOX+ 0.34 h-1 / NOX+ 0.06 h-1 ...	0.474	done.
+GSE4365	NOX+ 0.4 h-1 / NOX+ 0.06 h-1 ...	0.660	done.
+GSE4366	NOX- 0.19 h-1 /  NOX- 0.1 h-1...	0.414	done.
+GSE4366	NOX- 0.3 h-1 / NOX- 0.1 h-1...	0.326	done.
+GSE4366	NOX- 0.41 h-1 / NOX- 0.1 h-1...	0.292	done.
+GSE4366	NOX- 0.49 h-1 / NOX- 0.1 h-1...	0.369	done.
+GSE4366	NOX- 0.6 h-1 / NOX- 0.1 h-1...	0.526	done.
+GSE4367	2 min after Norfloxacin (50 ug/ml) / 0 min before treatment...	0.419	done.
+GSE4367	5 min after Norfloxacin (50 ug/ml) / 0 min before treatment...	0.307	done.
+GSE4367	10 min after Norfloxacin (50 ug/ml) / 0 min before treatment...	0.529	done.
+GSE4367	20 min after Norfloxacin (50 ug/ml) / 0 min before treatment...	0.581	done.
+GSE4367	30 min after Norfloxacin (50 ug/ml) / 0 min before treatment...	0.527	done.
+GSE4368	gyrA parC 2 min after Norfloxacin (15 ug/ml) / gyrA parC 0 min before treatment...	0.367	done.
+GSE4368	gyrA parC 5 min after Norfloxacin (15 ug/ml) / gyrA parC 0 min before treatment...	0.378	done.
+GSE4368	gyrA parC 10 min after Norfloxacin (15 ug/ml) / gyrA parC 0 min before treatment...	0.409	done.
+GSE4368	gyrA parC 20 min after Norfloxacin (15 ug/ml) / gyrA parC 0 min before treatment...	0.588	done.
+GSE4368	gyrA parC 30 min after Norfloxacin (15 ug/ml) / gyrA parC 0 min before treatment...	0.639	done.
+GSE4369	gyrA parC 2 min after Norfloxacin (50 ug/ml) / gyrA parC 0 min before treatment...	0.338	done.
+GSE4369	gyrA parC 5 min after Norfloxacin (50 ug/ml) / gyrA parC 0 min before treatment...	0.315	done.
+GSE4369	gyrA parC 10 min after Norfloxacin (50 ug/ml) / gyrA parC 0 min before treatment...	0.347	done.
+GSE4369	gyrA parC 20min after Norfloxacin (50 ug/ml) / gyrA parC 0 min before treatment...	0.588	done.
+GSE4369	gyrA parC 30 min after Norfloxacin (50 ug/ml) / gyrA parC 0 min before treatment...	0.504	done.
+GSE4370	15 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.920	done.
+GSE4370	30 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.966	done.
+GSE4370	45min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.922	done.
+GSE4370	60 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.943	done.
+GSE4370	75 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.954	done.
+GSE4370	90 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	1.022	done.
+GSE4370	0 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.906	done.
+GSE4371	15 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.809	done.
+GSE4371	30 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.852	done.
+GSE4371	45min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.794	done.
+GSE4371	60 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.887	done.
+GSE4371	75 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.874	done.
+GSE4371	90 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.823	done.
+GSE4371	0 min recovery in 10mM Na-P / Bonner-Vogel OD~0.5...	0.919	done.
+GSE4372	5 min 0.01 M Sodium Azide treatment / 0 min before treatment in Bonner-Vogel...	0.912	done.
+GSE4372	15 min 0.01 M Sodium Azide treatment / 0 min before treatment in Bonner-Vogel...	0.758	done.
+GSE4372	30 min 0.01 M Sodium Azide treatment / 0 min before treatment in Bonner-Vogel...	0.892	done.
+GSE4372	60 min 0.01 M Sodium Azide treatment / 0 min before treatment in Bonner-Vogel...	0.831	done.
+GSE4373	OD 0.03 anaerobic growth in M9 + glucose / genomic DNA reference...	0.989	done.
+GSE4373	OD 0.2 anaerobic growth in M9 + glucose / genomic DNA reference...	1.037	done.
+GSE4373	OD 0.35 anaerobic growth in M9 + glucose / genomic DNA reference...	1.011	done.
+GSE4373	OD 0.6 anaerobic growth in M9 + glucose / genomic DNA reference...	1.111	done.
+GSE4373	OD 0.9 anaerobic growth in M9 + glucose / genomic DNA reference...	1.057	done.
+GSE4373	stationary phase anaerobic growth in M9 + glucose / genomic DNA reference...	0.859	done.
+GSE4374	OD 0.05 anaerobic growth in M9 + glucose + fumarate / genomic DNA reference...	0.833	done.
+GSE4374	OD 0.21 anaerobic growth in M9 + glucose + fumarate / genomic DNA reference...	0.927	done.
+GSE4374	OD 0.43 anaerobic growth in M9 + glucose + fumarate / genomic DNA reference...	0.916	done.
+GSE4374	OD 0.7 anaerobic growth in M9 + glucose + fumarate / genomic DNA reference...	0.754	done.
+GSE4374	OD 1.2 anaerobic growth in M9 + glucose + fumarate / genomic DNA reference...	0.538	done.
+GSE4374	stationary phase anaerobic growth in M9 + glucose + fumarate / genomic DNA reference...	0.580	done.
+GSE4375	Anaerobic growth in M9 + glucose OD 0.08 / Aerobic OD 0.4...	0.768	done.
+GSE4375	Anaerobic growth in M9 + glucose OD 0.15 / Aerobic OD 0.4...	0.757	done.
+GSE4375	Anaerobic growth in M9 + glucose OD 0.34 / Aerobic OD 0.4...	0.636	done.
+GSE4375	Anaerobic growth in M9 + glucose OD 0.73 / Aerobic OD 0.4...	0.614	done.
+GSE4375	Anaerobic growth in M9 + glucose OD 1.02 / Aerobic OD 0.4...	0.625	done.
+GSE4375	Anaerobic growth in M9 + glucose OD 1.27 / Aerobic OD 0.4...	1.019	done.
+GSE4376	Anaerobic growth in M9 + glucose + fumarate OD 0.15 / Aerobic OD 0.4...	0.478	done.
+GSE4376	Anaerobic growth in M9 + glucose + fumarate OD 0.30 / Aerobic OD 0.4...	0.561	done.
+GSE4376	Anaerobic growth in M9 + glucose + fumarate OD 0.63 / Aerobic OD 0.4...	0.490	done.
+GSE4376	Anaerobic growth in M9 + glucose + fumarate OD 0.85 / Aerobic OD 0.4...	0.555	done.
+GSE4376	Anaerobic growth in M9 + glucose + fumarate OD 1.07 / Aerobic OD 0.4...	0.684	done.
+GSE4376	Anaerobic growth in M9 + glucose + fumarate OD 1.29 / Aerobic OD 0.4...	0.994	done.
+GSE4377	5 min after Gamma treatment / 0 min before treatment...	0.350	done.
+GSE4377	10 min after Gamma treatment / 0 min before treatment...	0.422	done.
+GSE4377	20 min after Gamma treatment / 0 min before treatment...	0.308	done.
+GSE4377	40 min after Gamma treatment / 0 min before treatment...	0.402	done.
+GSE4377	60 min after Gamma treatment / 0 min before treatment...	0.339	done.
+GSE4378	acrD- 5 min after Novobiocin (5 ug/ml) / acrD- 0 min before treatment...	0.371	done.
+GSE4378	acrD- 5 min after Novobiocin (20 ug/ml) / acrD- 0 min before treatment...	0.469	done.
+GSE4378	acrD- 5 min after Novobiocin (50 ug/ml) / acrD- 0 min before treatment...	0.552	done.
+GSE4378	acrD- 5 min after Novobiocin (200 ug/ml) / acrD- 0 min before treatment...	0.621	done.
+GSE4379	DH5alpha OD 0.2 in LB + Amp pUC expression / DH5alpha OD 0.2 in LB no pUC...	0.488	done.
+GSE4379	DH5alpha OD 0.5 in LB + Amp pUC expression / DH5alpha OD 0.5 in LB no pUC...	0.556	done.
+GSE4379	DH5alpha OD 0.9 in LB + Amp pUC expression / DH5alpha OD 0.9 in LB no pUC...	0.490	done.
+GSE4380	MG1655 Stationary phase in LB OD 2.4 T1 / MG1655 genomic DNA...	0.606	done.
+GSE4380	MG1655 Stationary phase in LB OD 2.8 T2 / MG1655 genomic DNA...	0.873	done.
+GSE4380	MG1655 Stationary phase in LB OD 3.1 T3 / MG1655 genomic DNA...	0.739	done.
+GSE4380	MG1655 Stationary phase in LB OD 3.1 T4 (for 20 min) / MG1655 genomic DNA...	0.644	done.
+GSE4380	MG1655 Stationary phase in LB OD 3.1 T5 (for 40 min) / MG1655 genomic DNA...	0.691	done.
+GSE4380	MG1655 Stationary phase in LB OD 3.1 T6 (for 60 min) / MG1655 genomic DNA...	0.516	done.
+GSE4383	rraA OD600=1.0 / WT OD600=1.0...	0.810	done.
+GSE4383	rraA OD600=0.3 / WT OD600=0.3...	0.683	done.
+GSE4383	rraA OD600=0.5 / WT OD600=0.5...	0.900	done.
+GSE4383	KSL2009 + pTrc99A-rraA (rraR overexpressing) / KSL2009 control...	0.826	done.
+GSE4383	KSL2000 Rne depletion / KSL2000 control...	0.957	done.
+GSE4383	KSL2009 N-Rne depletion / KSL2009 control...	0.978	done.
+GSE4383	KSL2000 + pTrc99A-rraA (rraR overexpressing) / KSL2000 control...	1.077	done.
+GSE4394	WT (K10) 1.5 min post rif / WT (K10)...	0.916	done.
+GSE4394	WT (SH3208) 1.5 min post rif / WT (SH3208) ...	0.373	done.
+GSE4394	(RhlB- SU02) 1.5 min post rif / (RhlB- SU02)...	0.302	done.
+GSE4394	WT (N3433) 1.5 min post rif / WT (N3433)...	0.365	done.
+GSE4394	(Pnp- YHC012) 1.5 min post rif / (Pnp- YHC012)...	0.260	done.
+GSE4394	(Eno- DF261) 1.5 min post rif / (Eno- DF261)...	0.540	done.
+GSE4394	(N-RNaseE BZ453) 1.5 min post rif / (N-RNaseE BZ453)...	0.288	done.
+GSE4394	WT (K10) 3 min post rif / WT (K10)...	0.914	done.
+GSE4394	WT (SH3208) 3 min post rif / WT (SH3208) ...	0.636	done.
+GSE4394	(RhlB- SU02) 3 min post rif / (RhlB- SU02)...	0.525	done.
+GSE4394	WT (N3433) 3 min post rif / WT (N3433)...	0.580	done.
+GSE4394	(Pnp- YHC012) 3 min post rif / (Pnp- YHC012)...	0.475	done.
+GSE4394	(Eno- DF261) 3 min post rif / (Eno- DF261)...	0.830	done.
+GSE4394	(N-RNaseE BZ453) 3 min post rif / (N-RNaseE BZ453)...	0.312	done.
+GSE4394	WT (K10) 4.5 min post rif / WT (K10)...	1.401	done.
+GSE4394	WT (SH3208) 4.5 min post rif / WT (SH3208) ...	0.758	done.
+GSE4394	(RhlB- SU02) 4.5 min post rif / (RhlB- SU02)...	0.713	done.
+GSE4394	WT (N3433) 4.5 min post rif / WT (N3433)...	0.643	done.
+GSE4394	(Pnp- YHC012) 4.5 min post rif / (Pnp- YHC012)...	0.548	done.
+GSE4394	(Eno- DF261) 4.5 min post rif / (Eno- DF261)...	0.917	done.
+GSE4394	(N-RNaseE BZ453) 4.5 min post rif / (N-RNaseE BZ453)...	0.386	done.
+GSE4394	WT (SH3208) 6 min post rif / WT (SH3208) ...	0.716	done.
+GSE4394	(RhlB- SU02) 6 min post rif / (RhlB- SU02)...	0.657	done.
+GSE4394	WT (N3433) 6 min post rif / WT (N3433)...	0.661	done.
+GSE4394	(Pnp- YHC012) 6 min post rif / (Pnp- YHC012) ...	0.517	done.
+GSE4394	(N-RNaseE BZ453) 6 min post rif / (N-RNaseE BZ453)...	0.423	done.
+GSE4394	WT (K10) 6 min post rif / WT (K10)...	1.104	done.
+GSE4394	(Eno- DF261) 6 min post rif / (Eno- DF261)...	0.992	done.
+GSE4394	(N-RNaseE BZ453) in M9 + Glycerol + Tryptone / WT (SH3208)...	0.827	done.
+GSE4394	(Pnp- YHC012) in M9 + Glycerol + Tryptone / WT (SH3208)...	0.527	done.
+GSE4394	(Eno- DF261) in M9 + Glycerol + Tryptone / WT (SH3208)...	0.648	done.
+GSE4394	(RhlB- SU02) in M9 + Glycerol + Tryptone / WT (SH3208)...	0.458	done.
+GSE4408	WT Norfloxacin treated for 5 min / WT Nontreated at 0 min...	0.636	done.
+GSE4408	(recA-) Norfloxacin treated mutant for 5 min / (recA-) Nontreated mutant at 0 min...	0.465	done.
+GSE4408	(topA-) Norfloxacin treated mutant for 5 min / (topA-) Nontreated mutant at 0 min...	0.369	done.
+GSE4408	(dnaC) Norfloxacin treated mutant for 5 min / (dnaC) Nontreated mutant at 0 min...	0.267	done.
+GSE4408	WT Norfloxacin treated for 10 min / WT Nontreated at 0 min...	0.589	done.
+GSE4408	(recA-) Norfloxacin treated mutant for 10 min / (recA-) Nontreated mutant at 0 min...	0.614	done.
+GSE4408	(topA-) Norfloxacin treated mutant for 10 min / (topA-) Nontreated mutant at 0 min...	0.470	done.
+GSE4408	(dnaC) Norfloxacin treated mutant for 10 min / (dnaC) Nontreated mutant at 0 min...	0.266	done.
+GSE4408	WT Norfloxacin treated for 15 min / WT Nontreated at 0 min...	0.556	done.
+GSE4408	(recA-) Norfloxacin treated mutant for 15 min / (recA-) Nontreated mutant at 0 min...	0.753	done.
+GSE4408	(topA-) Norfloxacin treated mutant for 15 min / (topA-) Nontreated mutant at 0 min...	0.471	done.
+GSE4408	(dnaC) Norfloxacin treated mutant for 15 min / (dnaC) Nontreated mutant at 0 min...	0.317	done.
+GSE4408	WT Norfloxacin treated for 20 min / WT Nontreated at 0 min...	0.426	done.
+GSE4408	(recA-) Norfloxacin treated mutant for 20 min / (recA-) Nontreated mutant at 0 min...	0.563	done.
+GSE4408	(topA-) Norfloxacin treated mutant for 20 min / (topA-) Nontreated mutant at 0 min...	0.461	done.
+GSE4408	(dnaC) Norfloxacin treated mutant for 20 min / (dnaC) Nontreated mutant at 0 min...	0.271	done.
+GSE4417	gyrB 2 min after upshift to 42 C / gyrB before upshift...	0.424	done.
+GSE4417	gyrB 5 min after upshift to 42 C / gyrB before upshift...	0.446	done.
+GSE4417	gyrB 10 min after upshift to 42 C / gyrB before upshift...	0.427	done.
+GSE4417	gyrB 20 min after upshift to 42 C / gyrB before upshift...	0.472	done.
+GSE4511	WT aerobic pH 5.0 / WT aerobic pH 7.0...	0.800	done.
+GSE4511	WT aerobic pH 8.7 / WT aerobic pH 7.0...	0.720	done.
+GSE4556	WT anaerobic pH 5.0 / WT anaerobic pH 7.0...	0.885	done.
+GSE4556	WT anaerobic pH 8.5 / WT anaerobic pH 7.0...	0.737	done.
+GSE4562	yceP LB glu 24 hr biofilm cells + 0.06% DMF / WT LB glu 24 hr biofilm cells ...	0.335	done.
+GSE4562	LB glu 24 hr biofilm cells + 600uM indole / WT LB glu 24 hr biofilm cells...	0.410	done.
+GSE4562	trpE LB glu 24 hr biofilm cells / WT LB glu 24 hr biofilm cells...	0.418	done.
+GSE4562	WT LB 24 hr biofilm cells / WT LB glu 24 hr biofilm cells ...	0.518	done.
+GSE4562	tnaA LB glu 24 hr biofilm cells / WT LB glu 24 hr biofilm cells...	0.624	done.
+GSE4569	UV Irradiated 50h / Not irradiated...	0.768	done.
+GSE4569	UV Irradiated 1h / Not irradiated...	0.818	done.
+GSE4569	UV Irradiated 1h / Not irradiated: dye swap...	1.388	done.
+GSE4706	continuous culture 40h / batch culture 40h...	0.947	done.
+GSE4706	continuous culture 500h / batch culture 500h...	0.840	done.
+GSE4724	WT + arginine(100 ug/ml) / WT in minimal medium...	0.519	done.
+GSE4724	argR + arginine(100 ug/ml) / WT in minimal medium...	0.657	done.
+GSE4735	Continuous culture no oxygen / 5 min exposure to oxygen...	0.661	done.
+GSE4735	Continuous culture no oxygen / 10 min exposure to oxygen...	0.774	done.
+GSE4735	Continuous culture no oxygen / 15 min exposure to oxygen...	0.748	done.
+GSE4735	Continuous culture no oxygen / 60 min exposure to oxygen...	0.710	done.
+GSE4778	WT at pH 5.5 for 1 min / WT at pH 7.6...	0.444	done.
+GSE4778	WT at pH 5.5 for 5 min / WT at pH 7.6...	0.831	done.
+GSE4778	WT at pH 5.5 for 10 min / WT at pH 7.6...	0.761	done.
+GSE4941	exponential growth phase + IAA solution 0.5 mM / exponential growth phase...	0.367	done.
+GSE5098	Aerobic wildtype 10 uM each NOC-5 and NOC-7 for 5 minutes / Continuous culture aerobic wildtype control...	0.596	done.
+GSE5098	Aerobic wildtype 10 uM each NOC-5 and NOC-7 for 5 minutes / Continuous culture aerobic wildtype control (dye swap)...	0.557	done.
+GSE5098	Anaerobic wildtype 10 uM each NOC-5 and NOC-7 for 5 minutes / Continuous culture anaerobic wildtype control...	0.814	done.
+GSE5098	Anaerobic wildtype 10 uM each NOC-5 and NOC-7 for 5 minutes / Continuous culture anaerobic wildtype control (dye swap)...	0.850	done.
+GSE5098	Anaerobic norR 10 uM each NOC-5 and NOC-7 for 5 minutes / Continuous culture anaerobic wild type 10 uM each NOC-5 and NOC-7 for 5 minutes...	0.797	done.
+GSE5098	Anaerobic norR 10 uM each NOC-5 and NOC-7 for 5 minutes / Continuous culture anaerobic wild type 10 uM each NOC-5 and NOC-7 for 5 minutes (dye swap)...	0.661	done.
+GSE5098	Aerobic norR 10 uM each NOC-5 and NOC-7 for 5 minutes / Continuous culture aerobic wild type 10 uM each NOC-5 and NOC-7 for 5 minutes...	0.603	done.
+GSE5098	Aerobic norR 10 uM each NOC-5 and NOC-7 for 5 minutes / Continuous culture aerobic wild type 10 uM each NOC-5 and NOC-7 for 5 minutes (dye swap)...	0.659	done.
+GSE5098	Aerobic hmp 10 uM each NOC-5 and NOC-7 for 5 minutes / Continuous culture aerobic wild type 10 uM each NOC-5 and NOC-7 for 5 minutes...	0.633	done.
+GSE5098	Aerobic hmp 10 uM each NOC-5 and NOC-7 for 5 minutes / Continuous culture aerobic wild type 10 uM each NOC-5 and NOC-7 for 5 minutes (dye swap)...	0.594	done.
+GSE5177	cueO + Fe(II) / WT + Fe(II)...	0.375	done.
+GSE5239	BL21 (pOri1) (mu=0.39) / BL21 (mu=0.46)...	0.242	done.
+GSE5239	BL21 (pOri2) (mu=0.29) / BL21 (mu=0.46)...	0.233	done.
+GSE5239	BL21 (pOri1) (mu=0.20) / BL21 (mu=0.20)...	0.266	done.
+GSE5239	BL21 (pOri2) (mu=0.20) / BL21 (mu=0.20)...	0.269	done.
+GSE5356	TPEN treated / untreated...	0.600	done.
+GSE5356	TPEN treated / untreated; dye swap...	0.684	done.
+GSE5552	WT biofilm epinephrine (50uM) / WT biofilm...	1.185	done.
+GSE5552	WT biofilm norepinephrine (50uM) / WT biofilm...	1.163	done.
+GSE5552	WT biofilm indole (500uM) / WT biofilm...	1.103	done.
+GSE5818	FliA / WT on MOPS glucose...	0.683	done.
+GSE5818	flhDC / WT on MOPS glucose...	0.840	done.
+GSE5818	FliA overexpression / empty pTet32 control...	0.819	done.
+GSE5904	ycfR LB glu biofilm culture for 15h / WT LB glu biofilm culture for 15h...	0.538	done.
+GSE5905	WT + (HoxEFUYH [hydrogenase] ) / WT...	0.800	done.
+GSE5981	Overproduced Rsd / control: OD 0.4...	0.294	done.
+GSE5981	Overproduced Rsd / control: OD 0.9...	0.397	done.
+GSE5981	Overproduced Rsd / control: OD 1.1...	0.463	done.
+GSE5981	Overproduced Rsd / control: Stationary phase...	0.417	done.
+GSE6195	biofilm cells / suspension cells...	1.060	done.
+GSE6195	7-hydroxindole (1mM) biofilm cells / suspension cells...	1.086	done.
+GSE6195	isatin (250uM) biofilm cells / suspension cells...	1.472	done.
+GSE6296	TUV93-0 DMEM / TUV93-0 MEM-HEPES...	0.526	done.
+GSE6425	WT anaerobic LB 3h / WT anaerobic LB 2h30...	0.867	done.
+GSE6425	UTI89 anaerobic LB 3h / UTI89 anaerobic LB 2h30...	0.832	done.
+GSE6425	UTI89 anaerobic LB 3h30 / UTI89 anaerobic LB 2h30...	1.117	done.
+GSE6425	WT anaerobic LB 3h45 / WT anaerobic LB 2h30...	1.358	done.
+GSE6425	UTI89 anaerobic LB 4h / UTI89 anaerobic LB 2h30...	1.512	done.
+GSE6425	WT anaerobic LB 4h30 / WT anaerobic LB 2h30...	1.349	done.
+GSE6425	WT aerobic LB 5h / WT aerobic LB 2h30...	1.436	done.
+GSE6425	UTI89 aerobic LB 5h / UTI89 aerobic LB 2h30...	1.390	done.
+GSE6425	UTI89 anaerobic LB 6h / UTI89 anaerobic LB 2h30...	1.872	done.
+GSE6425	WT anaerobic LB 6h45 / WT anaerobic LB 2h30...	1.386	done.
+GSE6425	WT aerobic LB 8h / WT aerobic LB 2h30...	1.524	done.
+GSE6425	WT aerobic LB 12h / WT aerobic LB 2h30...	1.563	done.
+GSE6425	UTI89 aerobic LB 12h / UTI89 aerobic LB 2h30...	1.431	done.
+GSE6425	WT aerobic LB 18h / WT aerobic LB 2h30...	1.726	done.
+GSE6425	UTI89 aerobic LB 8h / UTI89 aerobic LB 2h30...	1.328	done.
+GSE6425	UTI89 aerobic LB 19h30 / UTI89 aerobic LB 2h30...	1.645	done.
+GSE6425	WT aerobic LB 26h / WT aerobic LB 2h30...	1.840	done.
+GSE6425	UTI89 aerobic LB 26h / UTI89 aerobic LB 2h30...	1.752	done.
+GSE6426	UTI89 gnotobiotic cecum 14 day post-inoculation / MG1655 gnotobiotic cecum 14 day post-inoculation...	0.918	done.
+GSE6444	rseA / WT (Exp 1)...	0.419	done.
+GSE6444	rseA / WT (Exp 2)...	0.300	done.
+GSE6444	rseA / WT (Exp 3)...	0.315	done.
+GSE6444	hfq / WT (Exp 1)...	0.230	done.
+GSE6444	hfq / WT (Exp 2)...	0.437	done.
+GSE6444	rpoE overexpression 20 min / WT...	0.365	done.
+GSE6609	Day 1 anaerobic WT / reference...	0.617	done.
+GSE6609	Day 3 aerobic lon / reference...	0.567	done.
+GSE6609	Day 1 anaerobic lon / reference...	0.530	done.
+GSE6609	Day 3 aerobic WT / reference...	0.593	done.
+GSE6609	Day 1 aerobic WT / reference...	0.541	done.
+GSE6609	Day 3 anaerobic lon / reference...	0.565	done.
+GSE6609	Day 1 aerobic lon / reference...	0.556	done.
+GSE6609	Day 3 anaerobic WT / reference...	0.581	done.
+GSE6644	5 min oxygen depletion / control with oxygen...	1.318	done.
+GSE6644	10 min oxygen depletion / control with oxygen...	1.586	done.
+GSE6644	15 min oxygen depletion / control with oxygen...	1.593	done.
+GSE6644	60 min oxygen depletion / control with oxygen...Data does not seem to be Log values? (maximum value > 24)
+done.
+GSE6712	Benzalkonium chloride adapted strain / control...	0.480	done.
+GSE6712	Adapted strain with 50 ppm benzalkonium chloride / control...	0.536	done.
+GSE6781	NsrR- phenocopy + TMA + NO2 / control...	0.439	done.
+GSE6781	NsrR- phenocopy / control...	0.311	done.
+GSE6781	NsrR+ TMA and NO2 / control...	0.441	done.
+GSE6836	(dinI+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.814	done.
+GSE6836	(dinP+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.825	done.
+GSE6836	(lexA+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.840	done.
+GSE6836	(lon+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.847	done.
+GSE6836	(luc+) 0.025ug/ml norfloxacin / (luc+) without norfloxacin...	0.582	done.
+GSE6836	(luc+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.830	done.
+GSE6836	(mazF+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.899	done.
+GSE6836	(recA+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.866	done.
+GSE6836	(relE+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.947	done.
+GSE6836	(ruvA+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.833	done.
+GSE6836	(sulA+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.861	done.
+GSE6836	(umuD+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.861	done.
+GSE6836	(uvrA+) 0.025ug/ml norfloxacin / WT 0.025ug/ml norfloxacin...	0.847	done.
+GSE6836	(yebF+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.431	done.
+GSE6836	(luc+) 0.075ug/ml norfloxacin / (luc+) without norfloxacin...	0.783	done.
+GSE6836	(zipA+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.525	done.
+GSE6836	(yfjF+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.449	done.
+GSE6836	(bcp+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.434	done.
+GSE6836	(cpxR+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.442	done.
+GSE6836	(crcB+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.444	done.
+GSE6836	(crp+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.470	done.
+GSE6836	(cspF+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.491	done.
+GSE6836	(dam+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.640	done.
+GSE6836	(dnaA+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.483	done.
+GSE6836	(dnaN+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.523	done.
+GSE6836	(dnaT+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.526	done.
+GSE6836	(emrR+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.848	done.
+GSE6836	(era+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.478	done.
+GSE6836	(fis+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.461	done.
+GSE6836	(fklB+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.416	done.
+GSE6836	(folA+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.439	done.
+GSE6836	(galF+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.450	done.
+GSE6836	(gcvR+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.439	done.
+GSE6836	(gyrA+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.496	done.
+GSE6836	(gyrI+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.510	done.
+GSE6836	(hlpA+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.522	done.
+GSE6836	(holD+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.593	done.
+GSE6836	(hscA+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.758	done.
+GSE6836	(IHF+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.759	done.
+GSE6836	(idrA+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.491	done.
+GSE6836	(mcrB+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.456	done.
+GSE6836	(mcrC+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.453	done.
+GSE6836	(menB+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.463	done.
+GSE6836	(menC+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.497	done.
+GSE6836	(minD+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.457	done.
+GSE6836	(minE+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.533	done.
+GSE6836	(murI+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.537	done.
+GSE6836	(yoeB+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.889	done.
+GSE6836	(nrdA+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.684	done.
+GSE6836	(nrdB+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.829	done.
+GSE6836	(nupC+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.507	done.
+GSE6836	(pyrC+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.446	done.
+GSE6836	(rimI+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.464	done.
+GSE6836	(rstB+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.526	done.
+GSE6836	(ruvC+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.557	done.
+GSE6836	(sbcB+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.501	done.
+GSE6836	(uspA+) 0.075ug/ml norfloxacin / WT 0.075ug/ml norfloxacin...	0.496	done.
+GSE6836	WT with 0.025 ug/ml norfloxacin / WT without norfloxacin...	0.202	done.
+GSE6836	WT with 0.050 ug/ml norfloxacin / WT without norfloxacin...	0.304	done.
+GSE6836	WT with 0.075 ug/ml norfloxacin / WT without norfloxacin...	0.541	done.
+GSE6836	(recA-) / WT...	0.649	done.
+GSE6836	(recA-) 0.075ug/ml norfloxacin / (recA-) without norfloxacin...	0.570	done.
+GSE6836	(recA-) 1.0ug/ml norfloxacin / (recA-) without norfloxacin...	0.784	done.
+GSE6836	WT with 1.0 ug/ml norfloxacin / WT without norfloxacin...	0.987	done.
+GSE6836	luciferase + 0.025ug/ml norfloxacin / luciferase...	0.207	done.
+GSE6836	WT 12 min after 0.025 ug/ml norfloxacin / WT prior to treatment...	1.200	done.
+GSE6836	WT 24 min after 0.025 ug/ml norfloxacin / WT prior to treatment...	1.291	done.
+GSE6836	WT untreated cells after 24 min / WT prior to treatment...	0.874	done.
+GSE6836	WT 36 min after 0.025 ug/ml norfloxacin / WT prior to treatment...	1.427	done.
+GSE6836	WT 48 min after 0.025 ug/ml norfloxacin / WT prior to treatment...	1.469	done.
+GSE6836	WT 60 min after 0.025 ug/ml norfloxacin / WT prior to treatment...	1.374	done.
+GSE6836	WT untreated cells after 60 min / WT prior to treatment...	1.043	done.
+GSE6836	(ccdB+) 30 min after induction / (ccdB+) 0 min after induction...	0.970	done.
+GSE6836	(ccdB+) 60 min after induction / (ccdB+) 0 min after induction...	1.128	done.
+GSE6836	(ccdB+) 90 min after induction / (ccdB+) 0 min after induction...	1.280	done.
+GSE6836	(ccdB+) 120 min after induction / (ccdB+) 0 min after induction...	1.375	done.
+GSE6836	(lacZ+) 30 min after induction / (lacZ+) 0 min after induction...	1.159	done.
+GSE6836	(lacZ+) 60 min after induction / (lacZ+) 0 min after induction...	1.371	done.
+GSE6836	(lacZ+) 90 min after induction / (lacZ+) 0 min after induction...	1.416	done.
+GSE6836	(lacZ+) 120 min after induction / (lacZ+) 0 min after induction...	1.423	done.
+GSE6836	(lacZ+ recA-) 0 min after induction / (lacZ+) 0 min after induction...	1.106	done.
+GSE6836	(lacZ+ recA-) 30 min after induction / (lacZ+ recA-) 0 min after induction...	0.627	done.
+GSE6836	(lacZ+ recA-) 60 min after induction / (lacZ+ recA-) 0 min after induction...	0.687	done.
+GSE6836	(lacZ+ recA-) 90 min after induction / (lacZ+ recA-) 0 min after induction...	0.807	done.
+GSE6836	(ccdB+ recA-) 0 min after induction / (ccdB+) 0 min after induction...	1.161	done.
+GSE6836	(ccdB+ recA-) 30 min after induction / (ccdB+ recA-) 0 min after induction...	0.665	done.
+GSE6836	(ccdB+ recA-) 60 min after induction / (ccdB+ recA-) 0 min after induction...	0.891	done.
+GSE6836	(ccdB+ recA-) 90 min after induction / (ccdB+ recA-) 0 min after induction...	1.157	done.
+GSE6836	(lacZ+) W1863 (lambda-) 0 min after induction / (lacZ+) 0 min after induction...	1.001	done.
+GSE6836	(lacZ+) W1863 (lambda-) 30 min after induction / (lacZ+) W1863 (lambda-) 0 min after induction...	0.847	done.
+GSE6836	(lacZ+) W1863 (lambda-) 60 min after induction / (lacZ+) W1863 (lambda-) 0 min after induction...	1.015	done.
+GSE6836	(lacZ+) W1863 (lambda-) 90 min after induction / (lacZ+) W1863 (lambda-) 0 min after induction...	1.199	done.
+GSE6836	(ccdB+) W1863 (lambda-) 0 min after induction / (ccdB+) 0 min after induction...	1.130	done.
+GSE6836	(ccdB+) W1863 (lambda-) 30 min after induction / (ccdB+) W1863 (lambda-) 0 min after induction...	0.852	done.
+GSE6836	(ccdB+) W1863 (lambda-) 60 min after induction / (ccdB+) 0 min after induction...	1.054	done.
+GSE6836	(ccdB+) W1863 (lambda-) 90 min after induction / (ccdB+) 0 min after induction...	1.345	done.
+GSE6836	(lacZ+ recA-) 120 min after induction / (lacZ+ recA-) 0 min after induction...	0.930	done.
+GSE6836	(ccdB+ recA-) 120 min after induction / (ccdB+ recA-) 0 min after induction...	1.371	done.
+GSE6836	EMG2 LB + 0.2% glucose 3h post-incubation / EMG2 LB + 0.2% glucose 2.5h post-incubation...	0.622	done.
+GSE6836	EMG2 LB + 0.2% glucose 3.5h post-incubation / EMG2 LB + 0.2% glucose 2.5h post-incubation...	0.580	done.
+GSE6836	EMG2 LB + 0.2% glucose 4h post-incubation / EMG2 LB + 0.2% glucose 2.5h post-incubation...	0.798	done.
+GSE6836	EMG2 LB + 0.2% glucose 4.5h post-incubation / EMG2 LB + 0.2% glucose 2.5h post-incubation...	0.921	done.
+GSE6836	EMG2 LB + 0.2% glucose 5h post-incubation / EMG2 LB + 0.2% glucose 2.5h post-incubation...	1.119	done.
+GSE6836	EMG2 LB + 0.2% glucose 5.5h post-incubation / EMG2 LB + 0.2% glucose 2.5h post-incubation...	1.333	done.
+GSE6836	EMG2 LB + 0.2% glucose 6h post-incubation / EMG2 LB + 0.2% glucose 2.5h post-incubation...	1.362	done.
+GSE6836	EMG2 LB + 0.2% glucose 8h post-incubation / EMG2 LB + 0.2% glucose 2.5h post-incubation...	1.634	done.
+GSE6836	EMG2 LB + 0.4% glucose 3h post-incubation / EMG2 LB + 0.4% glucose 2.5h post-incubation...	0.682	done.
+GSE6836	EMG2 LB + 0.4% glucose 3.5h post-incubation / EMG2 LB + 0.4% glucose 2.5h post-incubation...	0.743	done.
+GSE6836	EMG2 LB + 0.4% glucose 4h post-incubation / EMG2 LB + 0.4% glucose 2.5h post-incubation...	1.042	done.
+GSE6836	EMG2 LB + 0.4% glucose 4.5h post-incubation / EMG2 LB + 0.4% glucose 2.5h post-incubation...	1.202	done.
+GSE6836	EMG2 LB + 0.4% glucose 5h post-incubation / EMG2 LB + 0.4% glucose 2.5h post-incubation...	1.405	done.
+GSE6836	EMG2 LB + 0.4% glucose 5.5h post-incubation / EMG2 LB + 0.4% glucose 2.5h post-incubation...	1.498	done.
+GSE6836	EMG2 LB + 0.4% glucose 6h post-incubation / EMG2 LB + 0.4% glucose 2.5h post-incubation...	1.503	done.
+GSE6836	EMG2 LB + 0.4% glucose 8h post-incubation / EMG2 LB + 0.4% glucose 2.5h post-incubation...	1.610	done.
+GSE6923	ATCC25404 with pR1drd19 24h in LB / ATCC25404 without R1drd19 24h in LB...	0.409	done.
+GSE6923	MG1655 with pR1drd19 24h in M9C glu / MG1655 without pR1drd19 24h in M9C glu...	0.490	done.
+GSE6923	BW25113 with pR1drd19 24h in LB / BW25113 with pR1drd19 7h in LB...	0.677	done.
+GSE6923	BW25113 with pR1drd19 24h in LB / BW25113 without pR1drd19 24h in LB...	0.389	done.
+GSE6923	BW25113 with pR1drd19 15h in LB / BW25113 with pR1drd19 7h in LB...	0.682	done.
+GSE6923	BW25113 15h in LB / BW25113 7h in LB...	0.297	done.
+GSE6923	BW25113 24h in LB / BW25113 7h in LB...	0.476	done.
+GSE6925	ymgB / WT biofilm on LB 24 h...	0.368	done.
+GSE6992	soxR 2 min paraquat treatment / (soxR) before paraquat treatment...	0.088	done.
+GSE6992	WT 2 min paraquat treatment / WT before paraquat treatment...	0.053	done.
+GSE6992	soxR 4 min paraquat treatment / (soxR) before paraquat treatment...	0.122	done.
+GSE6992	WT 4 min paraquat treatment / WT before paraquat treatment...	0.060	done.
+GSE6992	soxR 6 min paraquat treatment / (soxR) before paraquat treatment...	0.099	done.
+GSE6992	WT 6 min paraquat treatment / WT before paraquat treatment...	0.068	done.
+GSE6992	soxR 8 min paraquat treatment / (soxR) before paraquat treatment...	0.101	done.
+GSE6992	WT 8 min paraquat treatment / WT before paraquat treatment...	0.075	done.
+GSE6992	soxR 10 min paraquat treatment / (soxR) before paraquat treatment...	0.112	done.
+GSE6992	WT 10 min paraquat treatment / WT before paraquat treatment...	0.092	done.
+GSE7243	phoU mutant / WT reference...	0.839	done.
+GSE7265	WT tp1: 780 min / WT tp1: 780 min...	0.410	done.
+GSE7265	WT tp2: 830 min / WT tp1: 780 min...	0.359	done.
+GSE7265	WT tp3: 861 min / WT tp1: 780 min...	0.375	done.
+GSE7265	WT tp4: 869 min / WT tp1: 780 min...	0.477	done.
+GSE7265	WT tp5: 878 min / WT tp1: 780 min...	0.644	done.
+GSE7265	WT tp6: 888 min / WT tp1: 780 min...	0.646	done.
+GSE7265	WT tp7: 898 min / WT tp1: 780 min...	0.518	done.
+GSE7265	WT tp8: 908 min / WT tp1: 780 min...	0.432	done.
+GSE7265	WT tp9: 919 min / WT tp1: 780 min...	0.406	done.
+GSE7265	WT tp10: 929 min / WT tp1: 780 min...	0.397	done.
+GSE7265	WT tp11: 939 min / WT tp1: 780 min...	0.397	done.
+GSE7265	WT tp12: 969 min / WT tp1: 780 min...	0.389	done.
+GSE7265	WT tp13: 999 min / WT tp1: 780 min...	0.378	done.
+GSE7265	WT tp14: 1035 min / WT tp1: 780 min...	0.516	done.
+GSE7265	WT tp15: 1049 min / WT tp1: 780 min...	0.626	done.
+GSE7265	WT tp16: 1070 min / WT tp1: 780 min...	0.757	done.
+GSE7265	WT tp17: 1089 min / WT tp1: 780 min...	0.583	done.
+GSE7265	rpoS tp1: 120 min / WT tp1: 780 min...	0.371	done.
+GSE7265	rpoS tp2: 150 min / WT tp1: 780 min...	0.370	done.
+GSE7265	rpoS tp3: 160 min / WT tp1: 780 min...	0.497	done.
+GSE7265	rpoS tp4: 170 min / WT tp1: 780 min...	0.478	done.
+GSE7265	rpoS tp5: 180 min / WT tp1: 780 min...	0.565	done.
+GSE7265	rpoS tp6: 190 min / WT tp1: 780 min...	0.508	done.
+GSE7265	rpoS tp7: 200 min / WT tp1: 780 min...	0.463	done.
+GSE7265	rpoS tp8: 210 min / WT tp1: 780 min...	0.571	done.
+GSE7265	rpoS tp9: 220 min / WT tp1: 780 min...	0.527	done.
+GSE7265	rpoS tp10: 250 min / WT tp1: 780 min...	0.495	done.
+GSE7265	rpoS tp11: 290 min / WT tp1: 780 min...	0.529	done.
+GSE7265	rpoS tp12: 315 min / WT tp1: 780 min...	0.525	done.
+GSE7265	rpoS tp13: 330 min / WT tp1: 780 min...	0.872	done.
+GSE7265	crp tp2: 250 min / WT tp1: 780 min...	0.684	done.
+GSE7265	crp tp5: 405 min / WT tp1: 780 min...	0.404	done.
+GSE7265	crp tp6: 420 min / WT tp1: 780 min...	0.436	done.
+GSE7265	crp tp7: 450 min / WT tp1: 780 min...	0.410	done.
+GSE7265	relA tp1: 832 min / WT tp1: 780 min...	0.535	done.
+GSE7265	relA tp2: 865 min / WT tp1: 780 min...	0.455	done.
+GSE7265	relA tp4: 896 min / WT tp1: 780 min...	0.489	done.
+GSE7265	relA tp5: 909 min / WT tp1: 780 min...	0.557	done.
+GSE7265	relA tp6: 916 min / WT tp1: 780 min...	0.542	done.
+GSE7265	relA tp7: 925 min / WT tp1: 780 min...	0.514	done.
+GSE7265	relA tp8: 935 min / WT tp1: 780 min...	0.683	done.
+GSE7265	relA tp9: 945 min / WT tp1: 780 min...	0.684	done.
+GSE7265	relA tp10: 955 min / WT tp1: 780 min...	0.645	done.
+GSE7265	relA tp11: 966 min / WT tp1: 780 min...	0.584	done.
+GSE7326	PaeR7I r+m+ pTN9, 0 h / PaeR7I r-m+ pTN11, 0 h...	0.688	done.
+GSE7326	PaeR7I r+m+ pTN9, 1 h / PaeR7I r-m+ pTN11, 1 h; Rep1...	0.537	done.
+GSE7326	PaeR7I r+m+ pTN9, 1 h / PaeR7I r-m+ pTN11, 1 h; Rep2...	0.871	done.
+GSE7326	PaeR7I r+m+ pTN9, 1 h 50 m / PaeR7I r-m+ pTN11, 1 h 50 m...	0.548	done.
+GSE7326	PaeR7I r+m+ pTN9, 3 h / PaeR7I r-m+ pTN11, 3 h...	0.774	done.
+GSE7398	90 min fis / WT...	0.857	done.
+GSE7398	150 min fis / WT...	0.911	done.
+GSE7398	240 min fis / WT...	0.809	done.
+GSE7398	360 min fis / WT...	0.745	done.
+GSE7439	8624 strain / VS94 strain...	0.833	done.
+GSE7439	DPD VS94 strain / VS94 strain...	0.823	done.
+GSE7439	Epinephrine VS94 strain / VS94 strain...	1.319	done.
+GSE7439	AI3 VS94 strain / VS94  strain...	0.890	done.
+GSE7477	4h late exponential phase / 3h mid-exponental phase...	0.539	done.
+GSE7477	4.3h late exponential phase / 3h mid exponential phase...	0.479	done.
+GSE7477	4.6h late exponential phase / 3h mid exponential phase...	0.596	done.
+GSE7477	5h stationary phase transition / 3h mid exponential phase...	1.117	done.
+GSE7477	5.5h early stationary phase / 3h mid exponential phase...	1.498	done.
+GSE7477	6h stationary phase / 3h mid exponential phase...	1.554	done.
+GSE7477	7h stationary phase / 3h mid exponential phase...	1.485	done.
+GSE7477	7.5h stationary phase / 3h mid exponential phase...	1.299	done.
+GSE7477	8h stationary phase / 3h mid exponential phase...	1.310	done.
+GSE7573	argR +NO / argR untreated (expt 1)...	0.425	done.
+GSE7573	argR +NO / argR untreated (expt 2)...	0.372	done.
+GSE7573	WT +serine hydroxamate / WT untreated...	0.359	done.
+GSE7573	ArcA +NO / ArcA untreated...	0.400	done.
+GSE7573	WT +degraded DeaNO / WT untreated...	0.267	done.
+GSE7573	iscR +NO / iscR untreated...	0.241	done.
+GSE7573	metJ +NO / metJ untreated (expt 1)...	0.515	done.
+GSE7573	metJ +NO / metJ untreated (expt 2)...	0.433	done.
+GSE7573	norR +NO / norR untreated (expt 1)...	0.365	done.
+GSE7573	norR +NO / norR untreated (expt 2)...	0.292	done.
+GSE7573	nsrR +NO / nsrR untreated...	0.206	done.
+GSE7573	nsrR hmpA +NO / nsrR hmpA untreated (expt 1)...	0.330	done.
+GSE7573	nsrR hmpA +NO / nsrR hmpA untreated (expt 2)...	0.634	done.
+GSE7573	WT +NO / WT untreated (diff platform)...	0.552	done.
+GSE7573	WT +NO / WT untreated...	0.456	done.
+GSE7573	WT +NO / WT untreated (dye swap)...	0.450	done.
+GSE7573	WT +met +NO / WT untreated...	0.380	done.
+GSE7656	E. coli NCM3722 + 0.3 M NaCl / E. coli NCM3722 control; 30 degrees...	0.718	done.
+GSE7656	E. coli NCM3722 + 0.3 M NaCl + 1mM glycine betaine / E. coli NCM3722 control; 30 degrees...	0.637	done.
+GSE7656	E. coli NCM3722 + 0.3 M NaCl / E. coli NCM3722 control; 43 degrees...	0.810	done.
+GSE7656	E. coli NCM3722 + 0.3 M NaCl + 1mM glycine betaine / E. coli NCM3722 control; 43 degrees...	0.793	done.
+GSE7885	rpoS biofilm  / WT biofilm...	1.247	done.
+GSE7885	WT biofilm / WT exponential...	1.481	done.
+GSE7885	rpoS exponential / WT exponential...	0.940	done.
+GSE7885	WT stationary phase / WT exponential...	1.623	done.
+GSE7885	rpoS stationary / WT stationary...	1.582	done.
+GSE8323	0 min aerobic to anaerobic shift / control...	0.401	done.
+GSE8323	2 min aerobic to anaerobic shift / control...	0.569	done.
+GSE8323	5 min aerobic to anaerobic shift / control...	0.594	done.
+GSE8323	15 min aerobic to anaerobic shift / control...	0.838	done.
+GSE8323	25 min Rep 1 aerobic to anaerobic shift / control...	1.310	done.
+GSE8323	25 min Rep 2 aerobic to anaerobic shift / control...	1.292	done.
+GSE8323	35 min aerobic to anaerobic shift / control...	1.041	done.
+GSE8323	45 min aerobic to anaerobic shift / control...	0.959	done.
+GSE8323	55 min Rep 1 aerobic to anaerobic shift / control...	1.289	done.
+GSE8323	55 min Rep 2 aerobic to anaerobic shift / control...	1.413	done.
+GSE8532	pck overexpression early log phase / WT early log phase...	0.565	done.
+GSE8532	ppc overexpression early log phase / early log phase...	0.615	done.
+GSE8532	ppc overexpression chemostat / WT chemostat...	0.677	done.
+GSE8532	pck overexpression chemostat / WT chemostat...	0.683	done.
+GSE8540	WT +DPTA / WT untreated (expt 1)...	0.250	done.
+GSE8540	WT +DPTA / WT untreated (expt 2)...	0.210	done.
+GSE8540	cysB +500uM GSNO / cysB untreated...	0.243	done.
+GSE8540	nsrR +500uM GSNO / nsrR untreated...	0.383	done.
+GSE8540	flhDC +500uM GSNO / flhDC untreated (expt 1)...	0.511	done.
+GSE8540	WT +met +500uM GSNO / WT +met untreated (expt 2)...	0.272	done.
+GSE8540	WT +cys +500uM GSNO / WT +cys untreated...	0.410	done.
+GSE8540	flhDC +500uM GSNO / flhDC untreated (expt 2)...	0.381	done.
+GSE8540	WT +100uM GSNO / WT untreated...	0.518	done.
+GSE8540	WT +100uM GSNO / WT untreated (dye swap)...	0.457	done.
+GSE8540	dpp +100uM GSNO / dpp untreated...	0.319	done.
+GSE8540	WT +500uM GSNO / WT untreated...	0.438	done.
+GSE8540	WT +met +500uM GSNO / WT +met untreated (expt 1)...	0.263	done.
+GSE8540	metJ +500uM GSNO / metJ untreated...	0.179	done.
+GSE8540	metJ +500uM GSNO / metJ untreated (dye swap)...	0.215	done.
+GSE8706	yncC biofilm cells / wt biofilm cells...	0.527	done.
+GSE8706	yncC colony / wt colony...	0.891	done.
+GSE8708	4h LB biofilm hha / WT...	0.400	done.
+GSE8708	4h LB-glu biofilm hha / WT...	0.482	done.
+GSE8708	15h LB-glu biofilm hha / WT...	0.697	done.
+GSE8708	24h LB-glu biofilm hha / WT...	0.552	done.
+GSE8965	S TP1 / A TP1...	0.516	done.
+GSE8965	L TP1 / A TP1...	0.581	done.
+GSE8965	S TP2 / A TP2...	0.555	done.
+GSE8965	L TP2 / A TP2...	0.341	done.
+GSE8965	S TP3 / A TP3...	0.394	done.
+GSE8965	L TP3 / A TP3...	0.443	done.
+GSE8965	S TP4 / A TP4...	0.420	done.
+GSE8965	L TP4 / A TP4...	0.573	done.
+GSE9178	Pst mutant  / WT chi7122...	0.430	done.
+GSE9197	23 degrees C / 37 degrees C...	0.689	done.
+GSE9203	lsrR / W3110 wild-type...	0.457	done.
+GSE9203	lsrK / W3110 wild-type...	0.465	done.
+GSE9388	3.5h 100uM AI-2 / EHEC VS94 3.5h control...	0.659	done.
+GSE9388	4h 100uM AI-2 / EHEC VS94 4h control...	0.702	done.
+GSE9388	4.5h 100uM AI-2 / EHEC VS94 4.5h control...	0.730	done.
+GSE9388	5.5h 100uM AI-2 / EHEC VS94 5.5h control...	0.724	done.
+GSE9434	L-threonine producing strain / W3110 lacI (pKK223-3) control...	0.569	done.
+GSE9495	Bdellovibrio infected E. coli S17-1 / E. coli only control...	7.093	done.
+GSE9582	luxS in LB / WT W3110 in LB...	0.446	done.
+GSE9587	luxS in LB + 0.8% glucose / WT W3110 in LB + 0.8% glucose...	0.405	done.
+GSE9671	2 h infected TPI-1 cells / control...	0.885	done.
+GSE9671	8 h infected TPI-1 cells / control...	1.183	done.
+GSE9671	24 h infected TPI-1 cells / control...	1.169	done.
+GSE9752	Ler overexpression in WT / WT control on LB...	0.452	done.
+GSE9752	Pch overexpression in WT / WT control on LB...	0.538	done.
+GSE9752	ler / WT control on LB...	0.238	done.
+GSE9752	pchABC / WT control on LB...	0.213	done.
+GSE9752	Pch overexpression in ler / ler control on LB...	0.217	done.
+GSE9752	Ler overexpression in pchAB / pchAB control on LB...	0.302	done.
+GSE9752	Ler overexpression in pchABC / pchABC control on LB...	0.328	done.
+GSE9752	Ler overexpression in WT / WT control on DMEM...	0.545	done.
+GSE9752	PchA overexpression in WT / WT control on DMEM...	0.545	done.
+GSE9752	ler / WT control on DMEM...	0.269	done.
+GSE9752	pchABC / WT control on DMEM...	0.424	done.
+GSE9752	PchA overexpression in ler / ler control on DMEM...	0.432	done.
+GSE9752	Ler overexpression in pchABC / pchABC control on DMEM...	0.522	done.
+GSE9755	1% tannin / continuous culture without tannin...	0.646	done.
+GSE9814	rpoS / WT...	0.083	done.
+GSE9923	sdiA free-living cells 30 degrees / WT free-living cells 30 degrees...	0.797	done.
+GSE9923	luxS free-living cells +AI-2 30 degrees / luxS free-living cells without AI-2 30 degrees...	0.661	done.
+GSE9923	luxS free-living cells +AI-2 37 degrees / luxS free-living cells without AI-2 30 degrees...	0.876	done.
+GSE9923	luxS free-living cells +AI-2 37 degrees / luxS free-living cells without AI-2 37 degrees...	0.788	done.
+GSE9923	tnaA biofilm +100 uM indole 30 degrees / tnaA biofilm without indole 30 degrees...	0.598	done.
+GSE9923	tnaA biofilm +100 uM indole 37 degrees / tnaA biofilm without indole 37 degrees...	0.781	done.
+GSE9923	WT biofilm cells 30 degrees / WT free-living cells 30 degrees...	0.670	done.
+GSE9923	sdiA with biofilm cells +1mM indole 30 degrees / sdiA biofilm cells without indole 30 degrees...	0.927	done.
+GSE10116	hha overexpression / control...	0.951	done.
+GSE10160	10 ug cefsulodin -5 min / untreated -5 min...	0.156	done.
+GSE10160	0.03 ug mecillinam -5 min / untreated -5 min...	0.146	done.
+GSE10160	10 ug cefsulodin and 0.03 ug mecillinam -5 min / untreated -5 min...	0.147	done.
+GSE10160	10 ug cefsulodin 5 min / untreated 5 min...	0.143	done.
+GSE10160	0.03 ug mecillinam 5 min / untreated 5 min...	0.130	done.
+GSE10160	10 ug cefsulodin and 0.03 ug mecillinam 5 min / untreated 5 min...	0.127	done.
+GSE10160	60 ug cefsulodin 5 min / untreated 5 min...	0.259	done.
+GSE10160	60 ug cefsulodin 10 min / untreated 10 min...	0.203	done.
+GSE10160	10 ug cefsulodin 20 min / untreated 20 min...	0.268	done.
+GSE10160	0.03 ug mecillinam 20 min / untreated 20 min...	0.277	done.
+GSE10160	10 ug cefsulodin and 0.03 ug mecillinam 20 min / untreated 20 min...	0.181	done.
+GSE10160	60 ug cefsulodin 20 min / untreated 10 min...	0.295	done.
+GSE10160	10 ug cefsulodin 40 min / untreated 40 min...	0.174	done.
+GSE10160	0.03 ug mecillinam 40 min / untreated 40 min...	0.143	done.
+GSE10160	10 ug cefsulodin and 0.03 ug mecillinam 40 min / untreated 40 min...	0.263	done.
+GSE10160	60 ug cefsulodin and 0.3 ug mecillinam 40 min / untreated 40 min...	0.559	done.
+GSE10160	0.3 ug mecillinam 60 min / untreated 60 min...	0.257	done.
+GSE10307	batch culture control / (T2) glucose limited fed-batch (dye swap)...	0.323	done.
+GSE10307	(T2) glucose limited fed-batch / batch culture control ...	0.324	done.
+GSE10307	batch culture control / (T3) glucose limited fed-batch (dye swap)...	0.332	done.
+GSE10307	(T3) glucose limited fed-batch / batch culture control...	0.280	done.
+GSE10307	batch culture control / (T4) glucose limited fed-batch (dye swap)...	0.335	done.
+GSE10307	(T4) glucose limited fed-batch / batch culture control...	0.320	done.
+GSE10307	batch culture control / (T5) glucose limited fed-batch (dye swap)...	0.311	done.
+GSE10307	(T5) glucose limited fed-batch / batch culture control...	0.356	done.
+GSE10307	batch culture control / (T6) glucose limited fed-batch (dye swap)...	0.380	done.
+GSE10307	(T6) glucose limited fed-batch / batch culture control...	0.453	done.
+GSE10307	batch culture control / (T7) glucose limited fed-batch (dye swap)...	0.313	done.
+GSE10307	(T7) glucose limited fed-batch / batch culture control...	0.299	done.
+GSE10307	batch culture control / (T8) glucose limited fed-batch (dye swap)...	0.342	done.
+GSE10307	(T8) glucose limited fed-batch / batch culture control...	0.337	done.
+GSE10307	batch culture control / (T1) glucose limited fed-batch (dye swap)...	0.221	done.
+GSE10307	(T1) glucose limited fed-batch / batch culture control ...	0.216	done.
+GSE10319	O157 TUV93-0 + 20uM ME0052 / O157 TUV93-0 control...	0.854	done.
+GSE10319	O157 TUV93-0 + 20uM ME0053 / O157 TUV93-0 control...	0.582	done.
+GSE10319	O157 TUV93-0 + 20uM ME0054 / O157 TUV93-0 control...	0.756	done.
+GSE10319	O157 TUV93-0 + 20uM ME0055 / O157 TUV93-0 control...	0.445	done.
+GSE10345	MG1655 10 ug bicyclomycin / MG1655 control...	1.193	done.
+GSE10345	MG1655 25 ug bicyclomycin / MG1655 control...	1.282	done.
+GSE10345	MG1655 100 ug bicyclomycin / MG1655 control...	1.857	done.
+GSE10345	O157:H7 100 ug bicyclomycin / O157:H7 control...	2.337	done.
+GSE10345	MDS42 100 ug bicyclomycin / MDS42 control...	1.488	done.
+GSE10345	MDS42 nusA / MDS42 control...	1.492	done.
+GSE10345	MDS42 nusG / MDS42 control...	1.678	done.
+GSE10855	4 min temp upshift / 0 min control...	0.188	done.
+GSE10855	8 min temp upshift / 0 min control...	0.250	done.
+GSE10855	12 min temp upshift / 0 min control...	0.428	done.
+GSE10855	20 min temp upshift / 0 min control...	0.502	done.
+GSE10855	28 min temp upshift / 0 min control...	0.451	done.
+GSE10855	44 min temp upshift / 0 min control...	0.376	done.
+GSE10855	4 min temp downshift / 0 min control...	0.236	done.
+GSE10855	8 min temp downshift / 0 min control...	0.340	done.
+GSE10855	12 min temp downshift / 0 min control...	0.447	done.
+GSE10855	20 min temp downshift / 0 min control...	0.474	done.
+GSE10855	28 min temp downshift / 0 min control...	0.506	done.
+GSE10855	44 min temp downshift / 0 min control...	0.434	done.
+GSE10855	16 min temp upshift / 0 min parental control...	0.579	done.
+GSE10855	44 min temp upshift / 0 min parental control...	0.475	done.
+GSE10855	16 min temp upshift / 0 min evolved strain control...	0.446	done.
+GSE10855	44 min temp upshift / 0 min evolved strain control...	0.332	done.
+GSE10855	4 min oxygen upshift / 0 min control...	0.574	done.
+GSE10855	8 min oxygen upshift / 0 min control...	0.604	done.
+GSE10855	12 min oxygen upshift / 0 min control...	0.648	done.
+GSE10855	20 min oxygen upshift / 0 min control...	0.663	done.
+GSE10855	28 min oxygen upshift / 0 min control...	0.664	done.
+GSE10855	44 min oxygen upshift / 0 min control...	0.613	done.
+GSE10855	4 min oxygen downshift / 0 min control...	0.330	done.
+GSE10855	8 min oxygen downshift / 0 min control...	0.216	done.
+GSE10855	12 min oxygen downshift / 0 min control...	0.415	done.
+GSE10855	20 min oxygen downshift / 0 min control...	0.697	done.
+GSE10855	28 min oxygen downshift / 0 min control...	0.807	done.
+GSE10855	44 min oxygen downshift / 0 min control...	0.748	done.
+GSE10974	E. coli B178 groESL(-) expressing human Hsp60 and Hsp10 / E. coli B178 groESL(-) expressing human wt and Val98Ile Hsp60 and Hsp10...	0.806	done.
+GSE11041	4.5% NaCl in TSB / pooled RNA control...	1.205	done.
+GSE11041	15% glycerol in TSB / pooled RNA control...	0.817	done.
+GSE11041	HCl (pH 4.75) in TSB / pooled RNA control...	0.780	done.
+GSE11041	NaOH (pH 9.6) in TSB / pooled RNA control...	0.697	done.
+GSE11041	0.05 M acetate in TSB / pooled RNA control...	1.171	done.
+GSE11041	Heat (46o) in TSB / pooled RNA control...	1.110	done.
+GSE11041	5% ethanol in TSB / pooled RNA control...	0.996	done.
+GSE11041	Cold (15o) in TSB / pooled RNA control...	1.035	done.
+GSE11041	7 ppm benzalkonium Cl in TSB / pooled RNA control...	0.708	done.
+GSE11041	9 ppm benzalkonium Cl in TSB / pooled RNA control...	0.793	done.
+GSE11041	150 mg/ml ethidium Br in TSB / pooled RNA control...	0.749	done.
+GSE11052	exponential / stationary in apple juice Rep 1,4...	1.154	done.
+GSE11052	exponential / stationary in apple juice Rep 2,3...	1.330	done.
+GSE11052	apple juice / MOPS exponential Rep 1,2,4,5...	1.058	done.
+GSE11052	apple juice / MOPS exponential Rep 3...	1.144	done.
+GSE11052	apple juice / MOPS stationary Rep 1,4...	0.552	done.
+GSE11052	apple juice / MOPS stationary Rep 2,3,5...	0.511	done.
+GSE11087	relA spoT isoleucine starved / WT replete isoleucine...	1.170	done.
+GSE11087	relA isoleucine starved / WT replete isoleucine...	1.087	done.
+GSE11087	WT isoleucine starved / WT replete isoleucine...	1.204	done.
+GSE11087	crp isoleucine starved / WT replete isoleucine...	1.337	done.
+GSE11087	dksA isoleucine starved / WT replete isoleucine...	1.124	done.
+GSE11087	lrp isoleucine starved / WT replete isoleucine...	1.327	done.
+GSE11087	rpoS isoleucine starved / WT replete isoleucine...	1.109	done.
+GSE11087	rpoS isoleucine starved / WT isoleucine starved...	0.504	done.
+GSE11087	WT isoleucine starved tp 1 / WT replete isoleucine...	0.435	done.
+GSE11087	WT isoleucine starved tp 2 / WT replete isoleucine...	0.360	done.
+GSE11087	WT isoleucine starved tp 3 / WT replete isoleucine...	0.483	done.
+GSE11087	WT isoleucine starved tp 4 / WT replete isoleucine...	0.612	done.
+GSE11087	WT isoleucine starved tp 5/ WT replete isoleucine...	0.548	done.
+GSE11087	WT isoleucine starved tp 6 / WT replete isoleucine...	0.627	done.
+GSE11087	WT isoleucine starved tp 7 / WT replete isoleucine...	0.723	done.
+GSE11087	WT isoleucine starved tp 8 / WT replete isoleucine...	0.858	done.
+GSE11087	WT isoleucine starved tp 9 / WT replete isoleucine...	0.893	done.
+GSE11087	WT isoleucine starved tp 10 / WT replete isoleucine...	1.044	done.
+GSE11087	WT isoleucine starved tp 11 / WT replete isoleucine...	1.174	done.
+GSE11087	WT isoleucine starved tp 12 / WT replete isoleucine...	1.281	done.
+GSE11183	WT stationary phase / WT exponential phase...	1.269	done.
+GSE11183	hupA / WT LB exponential...	0.831	done.
+GSE11183	hupA / WT LB transition...	0.548	done.
+GSE11183	hupA / WT LB stationary...	0.572	done.
+GSE11183	hupB / WT LB exponential...	0.394	done.
+GSE11183	hupB / WT LB transition...	0.609	done.
+GSE11183	hupB / WT LB stationary...	0.459	done.
+GSE11183	hupAB / WT LB exponential...	0.664	done.
+GSE11183	hupAB / WT LB transition...	0.714	done.
+GSE11183	hupAB / WT LB stationary...	0.511	done.
+GSE11183	rpoS / WT LB exponential...	0.658	done.
+GSE11183	rpoS / WT LB stationary...	0.743	done.
+GSE11183	hupAB / WT M9 glucose exponential...	0.899	done.
+GSE11183	hupAB / WT M9 glycerol exponential...	0.730	done.
+GSE11183	hupAB / WT M9 glucose stationary...	0.570	done.
+GSE11183	hupAB / WT M9 glycerol stationary...	1.147	done.
+GSE11254	MG1655 mucus (10 mg/ml) / MG1655 glucose minimal medium...	0.824	done.
+GSE11254	EDL933, mucus (10 mg/ml), test / EDL933, glucose minimal medium, control...	0.977	done.
+GSE11254	ECOR26, mucus (10 mg/ml), test / ECOR26, glucose minimal medium, control...	0.597	done.
+GSE11254	NISSLE, mucus (10 mg/ml), test / NISSLE, glucose minimal medium, control...	0.879	done.
+GSE11463	heat shock / control Rep 1,3,6,8,10,12...	0.149	done.
+GSE11463	heat shock / control Rep 2,4,5,7,9,11...	0.147	done.
+GSE11562	WT 100 mM Cd(II) for 10 min / WT...	1.035	done.
+GSE11562	gshA 100 mM Cd(II) for 10 min / WT...	1.006	done.
+GSE11562	gshB 100 mM Cd(II) for 10 min / WT...	1.176	done.
+GSE11779	sdiA overexpression / empty vector control...	1.055	done.
+GSE11779	sdiA1E11 overexpression / empty vector control...	0.787	done.
+GSE11894	zinc limited chemostat / control...	0.363	done.
+GSE11894	zinc limited chemostat / control (dye swap)...	0.290	done.
+GSE11927	cadA / WT on DMEM...	1.001	done.
+GSE11932	mazEF relBEF chpB yefM-yoeB dinJ-yafQ  / MG1655 WT biofilm cells on LB...	0.711	done.
+GSE12006	15 min oxygen downshift / control...	1.514	done.
+GSE12006	45 min oxygen downshift / control...	1.420	done.
+GSE12006	75 min oxygen downshift / control...	1.451	done.
+GSE12190	sucrose / control on min glucose...	0.716	done.
+GSE12190	NaCl / control on min glucose...	0.787	done.
+GSE12373	5 min 1 ug/ml Cd pH 7 / 5 min 1 ug/ml Cd pH 5...	1.085	done.
+GSE12373	5 min no Cd pH 7 / 5 min no Cd pH  5...	0.677	done.
+GSE12373	15 min 1 ug/ml Cd pH 7 / 5 min 1 ug/ml Cd pH 5...	0.703	done.
+GSE12373	15 min no Cd pH 7 / 5 min no Cd pH 5...	0.738	done.
+GSE12373	5 min 1 ug/ml Cd pH 7 / 5 min 1 ug/ml Cd pH 5 (dye swap)...	1.567	done.
+GSE12373	5 min no Cd pH 7 / 5 min no Cd pH 5 (dye swap)...	0.941	done.
+GSE12373	15 min 1 ug/ml Cd pH 7 / 5 min 1 ug/ml Cd pH 5 (dye swap)...	2.731	done.
+GSE12373	15 min no Cd pH 7 / 5 min no Cd pH 5 (dye swap)...	0.616	done.
+GSE12554	Generation 50 LB + 10% cranberry juice  / LB...	0.498	done.
+GSE12554	Generation 160 LB + 10% cranberry juice / LB...	0.450	done.
+GSE12554	Generation 210 LB + 10% cranberry juice / LB...	0.478	done.
+GSE12554	Generation 230 LB + 10% cranberry juice / LB...	0.652	done.
+GSE12701	yjgK / WT control biofilm...	0.597	done.
+GSE12750	5FU / control biofilm...	0.231	done.
+GSE12797	WT stationary phase / WT exponential phase...	0.741	done.
+GSE12797	rpoS / WT M63 glucose exponential...	0.780	done.
+GSE12797	rpoS / WT M63 glucose stationary...	0.613	done.
+GSE12831	qseE deletion mutant / wild type...	1.990	done.
+GSE12831	qseF deletion mutant / wild type...	1.318	done.
+GSE12831	qseG deletion mutant / wild type...	1.316	done.
+GSE12903	20 mM acetate / 20 mM NaCl...	0.185	done.
+GSE12903	20 mM propionate / 20 mM NaCl...	0.299	done.
+GSE12903	20 mM butyrate / 20 mM NaCl...	0.372	done.
+GSE13048	30 uM CO-RMs 15 min / aerobic control...	0.624	done.
+GSE13048	30 uM CO-RMs 15 min / aerobic control (dye swap)...	0.533	done.
+GSE13048	100 uM CO-RMs 15 min / anaerobic control...	0.429	done.
+GSE13048	100 uM CO-RMs 15 min / anaerobic control (dye swap)...	0.411	done.
+GSE13132	gadE exponential phase / gadE stationary phase...	1.256	done.
+GSE13132	gadE exponential phase / gadE stationary phase (dye swap)...	1.347	done.
+GSE13132	gadE exponential phase / WT exponential phase...	0.134	done.
+GSE13132	gadE exponential phase / WT exponential phase (dye swap)...	0.166	done.
+GSE13132	gadE stationary phase / WT stationary phase...	0.274	done.
+GSE13132	gadE stationary phase / WT stationary phase (dye swap)...	0.309	done.
+GSE13132	WT exponential phase  / WT stationary phase...	1.374	done.
+GSE13132	WT exponential phase  / WT stationary phase (dye swap)...	1.386	done.
+GSE13418	attachment stage biofilm / colony stage biofilm...	0.779	done.
+GSE13418	attachment stage biofilm / maturation stage biofilm...	1.363	done.
+GSE13418	attachment stage biofilm /planktonic exponential phase...	0.635	done.
+GSE13418	colony stage biofilm /planktonic exponential phase...	0.755	done.
+GSE13418	maturation stage biofilm /planktonic exponential phase...	1.221	done.
+GSE13418	planktonic exponential phase  / planktonic stationary phase...	2.008	done.
+GSE13444	wildtype 1% isobutanol / wildtype...	0.808	done.
+GSE13444	wildtype 1% butanol / wildtype...	0.795	done.
+GSE13444	wildtype 3% ethanol / wildtype...	0.646	done.
+GSE13444	ihfA 1% isobutanol / ihfA...	0.788	done.
+GSE13444	fur 1% isobutanol / fur...	0.804	done.
+GSE13444	phoB 1% isobutanol / phoB...	0.929	done.
+GSE13444	arcA 1% isobutanol / arcA...	0.831	done.
+GSE13444	ubiE1% isobutanol / ubiE...	0.910	done.
+GSE13562	sdiA deletion mutant / WT...	0.934	done.
+GSE13562	sdiA deletion mutant   AHL / WT   AHL...	0.920	done.
+GSE13589	biofilm outside / biofilm inside...	0.719	done.
+GSE13589	Planktonic exponential phase  / Planktonic stationary phase...	1.754	done.
+GSE13589	biofilm inside  / Planktonic exponential phase...	1.129	done.
+GSE13589	biofilm outside / Planktonic exponential phase...	1.188	done.
+GSE13666	rpoS- / WT...	0.772	done.
+GSE13666	evolved rpoS+ (DMS1735) / WT...	1.182	done.
+GSE13666	evolved rpoS+ (DMS1737) / WT...	0.430	done.
+GSE13666	evolved rpoS+ (DMS1739) / WT...	0.418	done.
+GSE13666	evolved rpoS+ (DMS1741) / WT...	0.397	done.
+GSE13666	evolved rpoS+ (DMS1743) / WT...	0.814	done.
+GSE13666	evolved rpoS- (DMS1745) / rpoS- (DMS1688)...	0.469	done.
+GSE13666	evolved rpoS- (DMS1747) / rpoS- (DMS1688)...	0.428	done.
+GSE13666	evolved rpoS- (DMS1749) / rpoS- (DMS1688)...	0.535	done.
+GSE13666	evolved rpoS- (DMS1751) / rpoS- (DMS1688)...	0.442	done.
+GSE13666	evolved rpoS- (DMS1753) / rpoS- (DMS1688)...	0.438	done.
+GSE13698	TOM-Green/IsoILR1/GSHI, cis-DCE / non-cloned genes, cis-DCE...	0.752	done.
+GSE13698	TOM-Green/EchA F108L/I219L/C248I, cis-DCE / TOM-Green, cis-DCE...	0.416	done.
+GSE13698	BW25113, H2O2 / BW25113, water...	1.246	done.
+GSE13698	BW25113 ygiW, H2O2 / BW25113 ygiW, water...	1.341	done.
+GSE13698	BW25113 ychH, H2O2 / BW25113 ychH, water...	1.326	done.
+GSE13829	UV irradiation (50 J/m2) / unirradiated...	0.305	done.
+GSE13902	FhlA133 (mutated) / FhlA (control)...	0.896	done.
+GSE13982	CORM-2 treated_anaerobic / anaerobic control...	0.967	done.
+GSE13982	CORM-2 treated_aerobic / aerobic control...	1.206	done.
+GSE14064	BW25113 ompA/pCA24N ompA  /  BW25113 ompA/pCA24N control...	0.633	done.
+GSE14064	ompA / wt (polystyrene biofilm)...	0.565	done.
+GSE14064	ompA / wt (glasswool biofilm)...	0.401	done.
+GSE14069	UA15 stress / unstressed...	1.188	done.
+GSE14069	UA30 stress / unstressed...	0.898	done.
+GSE14069	AA30 stress / unstressed...	0.845	done.
+GSE14203	BW25113-mqsR / control...	0.699	done.
+GSE14203	BW25113/pCA24N-mqsR / control (IPTG)...	1.016	done.
+GSE14203	BW25113/pCA24N-mqsR / control (IPTG for 15 min)...	0.688	done.
+GSE14203	BW25113/pCA24N-mqsR / control (DNA, IPTG)...	1.878	done.
+GSE14203	BW25113/pBAD-mqsA / control (DNA, IPTG)...	1.849	done.
+GSE14238	minimal media / Penassay broth...	0.073	done.
+GSE14238	minimal media in 5% CO2 / Penassay broth...	0.101	done.
+GSE14238	Hep-2 cells / Penassay broth...	0.059	done.
+GSE14472	CP4-57-deficient  / wild type...	0.975	done.
+GSE15050	kdpE / wt...	1.341	done.
+GSE15050	qseB / wt...	0.896	done.
+GSE15050	qseF / wt...	1.192	done.
+GSE15050	qseC / wt...	0.906	done.
+GSE15050	qseC / wt (Al3)...	0.887	done.
+GSE15050	qseC / wt (epinephrine)...	0.852	done.
+GSE15050	qseC / wt (LB)...	0.984	done.
+GSE15059	triclosan / control...	1.093	done.
+GSE15319	3 mM ASN / control...	1.168	done.
+GSE15406	wt GraL / wt control (short term)...	1.439	done.
+GSE15406	ppGpp0 GraL / ppGpp0 control (short term)...	1.409	done.
+GSE15406	wt GraL / wt control (long term)...	1.185	done.
+GSE15406	ppGpp0 GraL / ppGpp0 control (long term)...	1.331	done.
+GSE15409	adenosine...	0.243	done.
+GSE15409	alanine...	0.175	done.
+GSE15409	arginine...	0.161	done.
+GSE15409	aspartate...	0.215	done.
+GSE15409	cysteine...	0.321	done.
+GSE15409	cytidine...	0.227	done.
+GSE15409	glutamate...	0.120	done.
+GSE15409	glutamine...	0.133	done.
+GSE15409	glycine...	0.196	done.
+GSE15409	guanosine...	0.278	done.
+GSE15409	histidine...	0.183	done.
+GSE15409	isoleucine...	0.403	done.
+GSE15409	lysine...	0.110	done.
+GSE15409	methionine...	0.208	done.
+GSE15409	phenylalanine...	0.259	done.
+GSE15409	proline...	0.207	done.
+GSE15409	serine...	0.183	done.
+GSE15409	threonine...	0.112	done.
+GSE15409	thymidine...	0.143	done.
+GSE15409	tryptophan...	0.196	done.
+GSE15409	uridine...	0.188	done.
+GSE15409	valine...	0.174	done.
+GSE15500	del27 / WT...	0.100	done.
+GSE15500	eBOP42 / WT...	0.123	done.
+GSE15500	eBOP43 / WT...	0.128	done.
+GSE15533	Sakai chlorine / control...	0.828	done.
+GSE15533	TW chlorine / control...	0.708	done.
+GSE15533	Sakai H2O2 / control...	0.576	done.
+GSE15533	TW H2O2 / control...	0.659	done.
+GSE15534	heat shock 45 degrees 10 min / WT log phase...	1.200	done.
+GSE15534	stationary phase / log phase...	1.550	done.
+GSE15534	WT nitrogen-limited medium log phase / WT complete medium log phase...	0.889	done.
+GSE15783	bovine-biased-1 / clinical-1...	0.358	done.
+GSE15783	bovine-biased-2 / clinical-1...	0.669	done.
+GSE15783	bovine-biased-3 / clinical-1...	0.612	done.
+GSE15783	bovine-biased-4 / clinical-1...	0.724	done.
+GSE15783	bovine-biased-1 / clinical-2...	0.390	done.
+GSE15783	bovine-biased-2 / clinical-2...	0.631	done.
+GSE15783	bovine-biased-3 / clinical-2...	0.627	done.
+GSE15783	bovine-biased-4 / clinical-2...	0.647	done.
+GSE15783	bovine-biased-1 / clinical-3...	0.391	done.
+GSE15783	bovine-biased-2 / clinical-3...	0.570	done.
+GSE15783	bovine-biased-3 / clinical-3...	0.702	done.
+GSE15783	bovine-biased-4 / clinical-3...	0.639	done.
+GSE15783	bovine-biased-1 / clinical-4...	0.383	done.
+GSE15783	bovine-biased-2 / clinical-4...	0.580	done.
+GSE15783	bovine-biased-3 / clinical-4...	0.638	done.
+GSE15783	bovine-biased-4 / clinical-4...	0.628	done.
+GSE16565	ada vs. wildtype...	0.385	done.
+GSE16565	wt + MMS  / wt - MMS ( .5 h )...	0.531	done.
+GSE16565	wt + MMS / wt - MMS ( 1.5 h )...	0.470	done.
+GSE16565	wt + MMS / wt - MMS ( 3.9 h )...	0.801	done.
+GSE16565	ada + MMS / ada - MMS ( .5 h )...	0.722	done.
+GSE16565	ada + MMS / ada - MMS ( 1.5 h )...	0.436	done.
+GSE16565	ada + MMS / ada - MMS ( 3.9 h )...	0.608	done.
+GSE16762	Inside Acanthamoeba / Outside Control...	0.211	done.
+GSE16973	0 min, butanol / unstressed...	0.358	done.
+GSE16973	30 min, butanol / unstressed...	0.688	done.
+GSE16973	80 min, butanol / unstressed...	0.702	done.
+GSE16973	195 min, butanol / unstressed...	0.684	done.
+GSE17070	FRIK966 / EDL933 rep 1, 3...	0.937	done.
+GSE17070	FRIK2000 / EDL933 rep 1, 3...	1.075	done.
+GSE17389	Sakai vs TW14359...	0.279	done.
+GSE17420	rpoS /WT (exponential)...	0.281	done.
+GSE17420	stationary phase / exponential phase (WT)...	1.780	done.
+GSE17420	stationary phase / exponential phase (rpoS)...	0.983	done.
+GSE17420	rpoS / WT (stationary phase)...	1.416	done.
+GSE17441	NTG-treated  / control ( - triclosan)...	0.476	done.
+GSE17441	NTG-treated / control ( + triclosan)...	0.645	done.
+GSE17467	rpoN mutant / wt (logarithmic)...	0.581	done.
+GSE17467	rpoN mutant / wt (transition)...	0.344	done.
+GSE17505	Recombinant T1 / Recombinant T0...	0.544	done.
+GSE17505	Recombinant T4 / Recombinant T0...	0.699	done.
+GSE17505	Recombinant T1 + IPTG / Recombinant T0...	0.675	done.
+GSE17505	Recombinant T4 + IPTG / Recombinant T0...	0.679	done.
+GSE17505	wt T1 / wt T0...	0.192	done.
+GSE17505	wt T4 / wt T0...	0.444	done.
+GSE17505	wt T1 + IPTG / wt T0...	0.216	done.
+GSE17505	wt  T4 + IPTG / wt T0...	0.267	done.
+GSE17506	serine hydroxamate T1  / recombinant T0...	0.676	done.
+GSE17507	Heat-Shocked 15 min / Recombinant T0...	1.188	done.
+GSE17507	Heat-Shocked 15 min + IPTG / Recombinant T0...	0.981	done.
+GSE17519	0.5% (w/v) sodiumbenzoate_0min / 0% sodiumbenzoate_0min...	0.817	done.
+GSE17519	0.5% (w/v) sodiumbenzoate_5min / 0% sodiumbenzoate_5min...	0.880	done.
+GSE17519	0.5% (w/v) sodiumbenzoate_15min / 0% sodiumbenzoate_15min...	0.844	done.
+GSE17519	0.5% (w/v) sodiumbenzoate_30min / 0% sodiumbenzoate_30min...	0.997	done.
+GSE17519	0.5% (w/v) sodiumbenzoate_60min / 0% sodiumbenzoate_60min...	0.963	done.
+GSE17584	Crp* + Glucose / WT + Glucose...	0.782	done.
+GSE17584	Crp* / WT...	0.998	done.
+GSE17786	LY180 + furfural / LY180...	0.619	done.
+GSE17786	EMFR9 + furfural / EMFR9...	0.467	done.
+GSE17788	LY180 del yqhC / LY180...	0.088	done.
+GSE17788	LY180   furfural / LY180...	0.089	done.
+GSE17788	LY180 del yqhC   furfural / LY180 del yqhC...	0.102	done.
+GSE17788	LY180 del yqhC   furfural / LY180   furfural...	0.085	done.
+GSE17991	E. coli DST160, tolerant to high succinic acid concentration / E. coli W3110 WT...	1.448	done.
+GSE18118	qseA deletion mutant / wild-type...	0.967	done.
+GSE18362	Biofilm / Planktonic...	0.559	done.
+GSE18623	CHIR-090 / DMSO control...	1.104	done.
+GSE18852	hfq deletion / wt...	0.859	done.
+GSE18935	mgrR - / wt...	0.894	done.
+GSE18935	plasmid mgrR / plasmid control...	0.891	done.
+GSE19370	peroxynitrite / control...	0.465	done.
+GSE19370	hydrogen peroxide / control...	0.272	done.
+GSE19655	pFnrS / plasmid control...	0.606	done.
+GSE19742	Wild-type Cells / pooled reference RNA...	0.860	done.
+GSE19742	SHX-treated WT / pooled reference RNA...	1.571	done.
+GSE19742	Delta dksA Cells / pooled reference RNA...	0.750	done.
+GSE19742	SHX-treated Delta dksA Cells / pooled reference RNA...	1.334	done.
+GSE19760	reuterin / control...	0.499	done.
+GSE19842	EDL 933 with 0.1 mg/ml IAN / EDL 933 WT...	0.615	done.
+GSE19879	thymine limited - 15 / control - 0...	0.277	done.
+GSE19879	thymine limited - 30 / control - 0...	0.364	done.
+GSE19879	thymine limited - 45 / control - 0...	0.335	done.
+GSE19879	thymine limited - 60 / control - 0...	0.361	done.
+GSE19879	thymine limited - 90 / control - 0...	0.371	done.
+GSE19879	thymineless - 15 / control - 0...	0.212	done.
+GSE19879	thymineless - 30 / control - 0...	0.299	done.
+GSE19879	thymineless - 45 / control - 0...	0.310	done.
+GSE19879	thymineless - 60 / control - 0...	0.332	done.
+GSE19879	thymineless - 90 / control - 0...	0.416	done.
+GSE19953	O157:H7 86-24 / O157:H7 EDL933...	1.201	done.
+GSE20095	rpoS mutants / WT...	0.134	done.
+GSE20095	rpoN mutants / WT...	0.106	done.
+GSE20305	cold stress T1 / control T1...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	cold stress T2 / control T2...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	cold stress T3 / control T3...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	cold stress T4 / control T4...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	cold stress T5 / control T5...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	cold stress T6 / control T6...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	cold stress T7 / control T7...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	cold stress T8 / control T8...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	heat stress T1 / control T1...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	heat stress T2 / control T2...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	heat stress T3 / control T3...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	heat stress T4 / control T4...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	heat stress T5 / control T5...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	heat stress T6 / control T6...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	heat stress T7 / control T7...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	heat stress T8 / control T8...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	oxidative stress T1 / control T1...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	oxidative stress T2 / control T2...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	oxidative stress T3 / control T3...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	oxidative stress T4 / control T4...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	oxidative stress T5 / control T5...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	oxidative stress T6 / control T6...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	oxidative stress T7 / control T7...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	oxidative stress T8 / control T8...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	glucose-lactose shift T2 / control T2...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	glucose-lactose shift T3 / control T3...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	glucose-lactose shift T4 / control T4...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	glucose-lactose shift T5 / control T5...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	glucose-lactose shift T6 / control T6...<font color="red">Configuration returned no data!</font>
+done.
+GSE20305	glucose-lactose shift T7 / control T7...<font color="red">Configuration returned no data!</font>
+done.
+GSE20374	NADH Oxidase / Reference...	0.121	done.
+GSE20374	ATPase / Reference...	0.087	done.
+GSE20397	clade 2, stx 1 and 2 / clade 2, stx 2...	0.032	done.
+GSE20397	clade 2, stx 2 / clade 2, stx 1 and 2 (dye swap)...	0.044	done.
+GSE20397	clade 8, stx 2 / clade 2, stx 1 and 2...	0.054	done.
+GSE20397	clade 2, stx 1 and 2 / clade 8, stx 2 (dye swap)...	0.044	done.
+GSE20397	clade 2, stx 1 and 2 / clade 8, stx 2 and 2c...	0.055	done.
+GSE20397	clade 8, stx 2 and 2c / clade 2, stx 1 and 2 (dye swap)...	0.042	done.
+GSE20397	clade 8, stx 2 / clade 2, stx 2...	0.046	done.
+GSE20397	clade 2, stx 2 / clade 8, stx 2 (dye swap)...	0.038	done.
+GSE20397	clade 2, stx 2 / clade 8, stx 2 and 2c...	0.044	done.
+GSE20397	clade 8, stx 2 and 2c / clade 2, stx 2 (dye swap)...	0.034	done.
+GSE20397	clade 8, stx 2 and 2c / clade 8, stx 2...	0.034	done.
+GSE20397	clade 8, stx 2 / clade 8, stx 2 and 2c (dye swap)...	0.029	done.
+GSE20413	EHEC DMEM QseD / EHEC DMEM WT...	1.118	done.
+GSE20413	K-12 DMEM QseD / K-12 DMEM WT...	1.211	done.
+GSE20413	K-12 LB QseD / K-12 LB WT...	1.200	done.
+GSE20606	luxS deletion / WT...	0.271	done.
+GSE21194	HG228 / MG1655...	0.119	done.
+GSE21839	E. coli mutant aerobic / WT anaerobic...	0.074	done.
+GSE21839	E. coli mutant  aerobic / WT aerobic...	0.123	done.
+GSE21893	clpV deleted mutant / Wild Type...	1.366	done.
+GSE21893	hcp deleted mutant / Wild Type...	1.510	done.
+GSE21893	icmF deleted mutant / Wild Type...	1.508	done.
+GSE21995	ldhA pflB mutated / wild type...	0.845	done.
+GSE22829	nusA11 mutant / WT...	0.085	done.
+GSE22833	T2 exposed norfloxacin and indole / T0 exposed norfloxacin...	0.089	done.
+GSE22833	T3 reexposed norfloxacin / T0 exposed norfloxacin...	0.081	done.
+GSE23920	specific growth rate 0.21 1/h / specific growth rate 0.11 1/h...	0.585	done.
+GSE23920	specific growth rate 0.26 1/h / specific growth rate 0.11 1/h...	0.559	done.
+GSE23920	specific growth rate 0.31 1/h / specific growth rate 0.11 1/h...	0.609	done.
+GSE23920	specific growth rate 0.36 1/h / specific growth rate 0.11 1/h...	0.743	done.
+GSE23920	specific growth rate 0.40 1/h / specific growth rate 0.11 1/h...	0.712	done.
+GSE23920	specific growth rate 0.48 1/h / specific growth rate 0.11 1/h...	0.945	done.
+GSE23920	A-stat, specific growth rate 0.48 1/h / chemostat, specific growth rate 0.51 1/h...	0.442	done.
+GSE24373	ptsN mutant / WT...	0.730	done.
+GSE24478	Escherichia coli, 051, in vivo / Escherichia coli, 051, in vitro...	1.329	done.
+GSE24478	Escherichia coli, 121, in vivo / Escherichia coli, 121, in vitro...	2.173	done.
+GSE24478	Escherichia coli, 151, in vivo / Escherichia coli, 151, in vitro...	1.719	done.
+GSE24478	Escherichia coli, 231, in vivo / Escherichia coli, 231, in vitro...	1.651	done.
+GSE24478	Escherichia coli, 241, in vivo / Escherichia coli, 241, in vitro...	1.550	done.
+GSE24478	Escherichia coli, 291, in vivo / Escherichia coli, 291, in vitro...	1.947	done.
+GSE24478	Escherichia coli, 361, in vivo / Escherichia coli, 361, in vitro...	2.065	done.
+GSE24478	Escherichia coli, 371, in vivo / Escherichia coli, 371, in vitro...	1.537	done.
+GSE24875	pSpoT / pBRplac ,control...	0.606	done.
+GSE25106	MG1655star on glucose  / WT on glucose...	0.586	done.
+GSE25106	flhD on glucose / WT on glucose...	0.566	done.
+GSE25106	MG1655star on mannose / WT on mannose...	0.387	done.
+GSE25106	flhD on mannose / WT on mannose...	0.375	done.
+GSE25106	MG1655star A600=0.2 mucus / WT A600=0.2 mucus...	0.378	done.
+GSE25106	flhD A600=0.2 mucus / WT A600=0.2 mucus...	0.396	done.
+GSE25106	MG1655star A600=0.5 mucus / WT A600=0.5 mucus...	0.553	done.
+GSE25106	flhD A600=0.5 mucus / WT A600=0.5 mucus...	0.566	done.
+GSE25745	CFT073 LB PACs / CFT073 LB...	0.090	done.
+GSE25745	PACs (100 ug/mL) 5 h / CFT073 control on LB...	0.621	done.
+All Done.

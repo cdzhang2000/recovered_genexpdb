@@ -1,0 +1,3 @@
+ACCESSION	EXP COUNT
+GSE43205 => 82
+Accessions: 1	Experiments: 82

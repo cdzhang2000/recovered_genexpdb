@@ -1,0 +1,7 @@
+1) click "Home" to reset every parameters
+
+2) click "accessions" to open the GSE list
+
+3) type organism name, e.g., "Bacillus" in the search area and click the "Query" button to set the search parameter
+
+4) GSE list will be updated automatically by the AJAX call

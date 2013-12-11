@@ -1,0 +1,9 @@
+ACCESSION	EXP COUNT
+GSE5552 => 3
+GSE20305 => 30
+GSE6923 => 7
+GSE8706 => 2
+GSE8708 => 4
+GSE4562 => 5
+GSE6195 => 3
+Accessions: 7	Experiments: 54

@@ -1,0 +1,16 @@
+Not understand 
+
+line 228	
+	while ( $row = $sth->fetchrow_arrayref ) { #why not use if , can be cultiple ids and eids
+	
+
+
+line 987-991
+#my @gtags = split(":", $id_ref); #split multiple ltags per id so we can check against genome ltags
+#			foreach my $gt (@gtags) {
+#				$ckltag{$gt} = 1;			#ckltag will contain all ltags from the sample	
+#			}
+		}
+		
+		
+		

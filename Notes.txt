@@ -1,0 +1,61 @@
+1) Curated button function
+	after you submit the data, you will see the confirmation. 
+	You will not the changed data if you reclick the curated button because the changed value is not saved in the session.
+	you have to click "Home" button to remove the session value, than click the "accessions" button, you will see the values you changed
+	
+
+2) Fields for curating the metadata are added. You need to clean your cache you can use the function because of main.js reloading issue
+
+
+
+3)select * from pexp where to_char(adddate, 'yyyymmdd') > '20120923' order by expid
+
+
+select count(*) from pexp where expid not in (select pexp_id from pdata);
+
+select expid from pexp where expid not in (select pexp_id from pdata);
+
+
+CREATE DATABASE LINK GDBDEV_LINK
+CONNECT TO genexpdb_dev IDENTIFIED BY genexpdb
+USING 'vb1g3n3xpdb';
+   
+   
+  select expid from pexp where (expid not in (select pexp_id from pdata) and expid in (select pexp_id from GDBDEV_LINK@pdata))
+  
+  
+  
+ 4)  Check pdata and pexp
+  
+  select pexp_id from GDBDEV_LINK@pdata
+  
+  
+select count(*) from pexp where eid not in (select eid from pdata)
+          
+    
+select * from pexp where to_char(adddate, 'yyyymmdd') > '20120923' order by expid
+
+select * from pexp where accession='GSE33' order by 1
+
+select count(*) from pexp where expid not in (select pexp_id from pdata);
+
+select expid from pexp where expid not in (select pexp_id from pdata);
+
+
+select * from pexp where id not in (select pexp_id from pdata) and accession='GSE33';
+
+
+select * from pexp where id in (select pexp_id from pdata) and accession='GSE33' order by 1
+
+select count(*) from pexp where eid in (select eid from pdata) and accession='GSE33'
+
+select * from pexp where eid in (select eid from pdata) and accession='GSE33' order by 1
+
+select count(*) from pdata where eid in (select eid from pexp where accession='GSE33')
+
+select count(*) from pdata where pexp_id in (select id from pexp where accession='GSE33')
+          
+          
+       
+insert into curated (accession, status, strain, GEOMAtCH)values('GSE32585', 2, 'Salmonella enterica', 'Salmonella enterica')          
+          

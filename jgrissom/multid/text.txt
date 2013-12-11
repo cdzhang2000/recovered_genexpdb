@@ -1,0 +1,97 @@
+E25441        phoPQ vs 14028s in LPM medium in 20 hours...done.
+GSE25441        phoPQLPM20hrpool_14028sLPM20hr...done.
+GSE25441        14028s / phoPQ in LPM medium 20hr...done.
+GSE25441        14028sLPM20hr_vs_phoPQLPM20hrpool...done.
+GSE25441        14028s / ssrAB in LPM medium 20hr...done.
+GSE25441        14028sLPM20hr_vs_ssrABLPM20hrpool...done.
+GSE25441        ssrABLPM20hrpool_vs_14028sLPM20hr...done.
+GSE25441        ssrAB vs 14028s in LPM medium in 20 hours...done.
+GSE25441        STM3096LPM20hrpool_vs_14028sLPM20hr...done.
+GSE25441        STM3096 vs 14028s in LPM medium in 20 hours...done.
+GSE25441        14028sLPM20hr_vs_STM3096LPM20hrpool...done.
+GSE25441        14028s / STM3096 in LPM medium 20hr...done.
+GSE25441        14028sLPM20hr_vs_hilDLPM20hrpool...done.
+GSE25441        14028s / hilD in LPM medium 20hr...done.
+GSE25441        hilDLPM20hrpool_vs_14028sLPM20hr...done.
+GSE25441        hilD vs 14028s in LPM medium in 20 hours...done.
+GSE25441        fisLPM20hrpool_vs_14028sLPM20hr...done.
+GSE25441        fis  / 14028s in LMP medium in 20 hours...done.
+GSE25441        14028sLPM20hr_vs_fisLPM20hrpool...done.
+GSE25441        14028s / fis in LPM medium 20hr...done.
+GSE25441        fis  / 14028s in LMP medium log in 4 hours...done.
+GSE25441        fisLPM4hrpool_vs_14028sLPM4hr...done.
+GSE25441        phoPQLPM4hrpool_vs_14028sLPM4hr...done.
+GSE25441        phoPQ vs 14028s in LPM medium in 4 hours...done.
+GSE25441        14028s / phoPQ in LPM medium 4hr...done.
+GSE25441        14028sLPM4hr_vs_phoPQLPM4hrpool...done.
+GSE25441        14028s / ssrAB in LPM medium 4hr...done.
+GSE25441        14028sLPM4hr_vs_ssrABLPM4hrpool...done.
+GSE25441        ssrABLPM4hrpool_vs_14028sLPM4hr...done.
+GSE25441        ssrAB vs 14028s in LPM medium in 4 hours...done.
+GSE25441        STM3096 vs 14028s in LPM medium in 4 hours...done.
+GSE25441        STM3096LPM4hrpool_vs_14028sLPM4hr...done.
+GSE25441        14028sLPM4hr_vs_STM3096LPM4hrpool...done.
+GSE25441        14028s / STM3096 in LPM medium 4hr...done.
+GSE25441        14028s / hilD  in LPM medium 4hr...done.
+GSE25441        14028sLPM4hr_vs_hilDLPM4hrpool...done.
+GSE25441        hilDLPM4hrpool_vs_14028sLPM4hr...done.
+GSE25441        hilD vs 14028s in LPM medium in 4 hours...done.
+GSE25441        14028s / fis in LPM medium 4hr...done.
+GSE25441        14028sLPM4hr_vs_fisLPM4hrpool...done.
+GSE25441        fisLBlogpool_vs_14028sLBlog...done.
+GSE25441        fis  / 14028s in LB medium log phase...done.
+GSE25441        phoPQ vs 14028s in LB medium in log phase...done.
+GSE25441        phoPQLBlogpool_vs_14028sLBlog...done.
+GSE25441        14028s / phoPQ in LB medium in log phase...done.
+                                                done.
+GSE25441        14028sLBlog_vs_ssrABLBlogpool...done.
+GSE25441        14028s/ssrAB  in LB medium in log phase...done.
+GSE25441        ssrABLBlogpool_vs_14028sLBlog...done.
+GSE25441        ssrAB vs 14028s in LB medium in log phase...done.
+GSE25441        STM3096LBlogpool_vs_14028sLBlog...done.
+GSE25441        STM3096 vs 14028s in LB medium in log phase...done.
+GSE25441        14028s /STM3096 in LB medium in log phase...done.
+GSE25441        14028sLBlog_vs_STM3096LBlogpool...done.
+GSE25441        14028s/  hilD in LB medium in log phase...done.
+GSE25441        14028sLBlog_vs_hilDLBlogpool...done.
+                                               done.
+GSE25441        hilD  / 14028s in LB medium log phase...done.
+GSE25441        14028sLBlog_vs_fisLBlogpool...done.
+GSE25441        14028s in LB medium in log phase / fisLBlogpool...done.
+GSE25441        14028sLBlog_vs_fisLBlogpool...done.
+GSE38378        pSLT041 LB stationary phase 18 h / wildtpye LB stationary phase 18 h...done.
+GSE38378        STM0118 LB stationary phase 18 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM0982 LB stationary phase 18 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM1230 LB stationary phase 18 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM1391 LB stationary phase 18 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM1444 LB stationary phase 18 h /wildtype  LB stationary phase 18 h...done.
+GSE38378        STM1753 LB stationary phase 18 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM2640 LB stationary phase 18 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM2688 LB stationary phase 18 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM2826 LB stationary phase 18 h /wildtpye  LB stationary phase 18 h...done.
+GSE38378        STM2924 LB stationary phase 18 h / wildtpye LB stationary phase 18 h...done.
+GSE38378        STM3466 LB stationary phase 18 h / wildtpye LB stationary phase 18 h...done.
+GSE38378        STM3501 LB stationary phase 18 h / wildtpye LB stationary phase 18 h...done.
+GSE38378        STM4361 LB stationary phase 18 h / wildtpye LB stationary phase 18 h...done.
+GSE38378        pSLT041 LB log phase 3 h / wildtpye LB stationary phase 18 h...done.
+GSE38378        STM0118 LB log phase 3 h / wildtpye LB stationary phase 18 h...done.
+GSE38378        STM0982 LB log phase 3 h / wildtpye LB stationary phase 18 h...done.
+GSE38378        STM1230 LB log phase 3 h / wildtpye LB stationary phase 18 h...done.
+GSE38378        STM1391 LB log phase 3 h /wildtpye  LB stationary phase 18 h...done.
+GSE38378        STM1444 LB log phase 3 h /wildtpye  LB stationary phase 18 h...done.
+GSE38378        STM1753 LB log phase 3 h /wildtpye  LB stationary phase 18 h...done.
+GSE38378        STM2640 LB log phase 3 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM2688 LB log phase 3 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM2826 LB log phase 3 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM2924LB log phase 3 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM3466 LB log phase 3 h /wildtype  LB stationary phase 18 h...done.
+GSE38378        STM3501 LB log phase 3 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM4361 LB log phase 3 h /wildtype  LB stationary phase 18 h...done.
+GSE38378        pSLT041 AMM1 condition 4 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM0118 AMM1 condition 4 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM0982 AMM1 condition 4 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM1230 AMM1 condition 4 h /wildtype  LB stationary phase 18 h...done.
+GSE38378        STM1391 AMM1 condition 4 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM1444 AMM1 condition 4 h / wildtype LB stationary phase 18 h...done.
+GSE38378        STM1753 AMM1 condition 4 h / wildtype LB stationary phase 18 h...done.:wq
+
